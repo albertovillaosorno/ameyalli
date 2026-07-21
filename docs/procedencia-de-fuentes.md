@@ -90,7 +90,8 @@ de Molina como tarea abierta.
 
 | Afirmación | Estado |
 | --- | --- |
-| Valor léxico de *āmēyalli* | confirmado en el OCR del facsímil de 1571 |
+| Valor léxico de *āmēyalli* en Molina | confirmado en el OCR del facsímil |
+| Valor léxico de *āmēyalli* en Arenas | confirmado en el OCR del facsímil |
 | Raíces `ā-tl` y `mēy(a)` de *āmēyalli* | verificadas, cruce en Karttunen |
 | Segmentación `a-meya-l-li` completa | glifos consignan el todo, no cada uno |
 | Asimilación `-ltli` a `-lli` | verificada contra bibliografía |
@@ -99,8 +100,10 @@ de Molina como tarea abierta.
 | Lema `yetlaneci`, parte 1 de Molina | confirmado en el OCR del facsímil |
 | Lema `yetlaneci`, parte 2 de Molina | confirmado en el OCR del facsímil |
 | Folios exactos (f. 4v, 9r, 36r, 127v) | de catálogo; folio no visto a ojo |
+| Edición príncipe de Arenas usada | confirmada, Newberry Library, 1611 |
 | *tlanezi* con `z` en 1692 | verificado en vivo, GDN: Guerra |
 | Año de la edición de Wimmer | corregido de 2006 a 2004, GDN |
+| Sitio propio de Wimmer | inalcanzable, cuatro intentos fallidos |
 | *tlanextli* como «luz, claridad» | atestiguado en Molina |
 | Orden invertido del par | atestiguado en registros públicos |
 | Ausencia del binomio antes de 1900 | búsqueda no exhaustiva |
@@ -359,24 +362,58 @@ tiempo. Con esa salvedad, la tarea de cotejo contra facsímil pasa de
 pendiente a parcialmente resuelta para *ameyalli*, `tlaneci` y
 `yetlaneci`.
 
+## Cotejo directo contra el facsímil de Arenas
+
+La misma sesión localizó también el facsímil de Arenas, digitalizado por
+la Newberry Library a partir de su ejemplar de la colección Ayer
+(`archive.org/details/ayer_871_a952_a7_1611`), con fecha de publicación
+1611 y editorial «En la Emprenta de H. Martinez», que coincide con la
+entrada bibliográfica de este trabajo. El identificador del ejemplar
+—«Ayer 871 .A952 A7 1611»— corresponde a una edición príncipe conservada
+en biblioteca, no a una reimpresión posterior. Otras copias del mismo
+título están disponibles en el mismo repositorio, pero con fechas de 1683,
+1690, 1728 y 1793, todas ellas reimpresiones muy posteriores al original.
+La bibliografía de Wikipedia sobre el náhuatl clásico, consultada de forma
+independiente en esta misma sesión, confirma además tanto a Arenas como a
+Olmos y a Carochi con datos editoriales coincidentes con los ya citados en
+este trabajo.
+
+La búsqueda en la capa OCR localizó *ameyalli* en dos listas temáticas
+distintas del volumen, con variantes de reconocimiento propias de una
+tipografía de 1611: «ameyall1» junto a «camino» y «arroyo», en una lista de
+cosas del campo, y «ameya alli los uranantiales» —donde el OCR confunde la
+`m` con `ur`— en una lista de palabras comunes, en la página impresa 143.
+Ambos contextos coinciden con los que el catálogo del GDN ya atribuía a
+Arenas, «Nombres de cosas del campo» y «Palabras que comunmente se suelen
+dezir nombrando diversas cosas», sin que este trabajo tuviera que ajustar
+ninguna cita para lograr la coincidencia. La tarea de cotejar a Arenas
+contra su propio facsímil, pendiente desde la ronda anterior, queda así
+resuelta en el mismo sentido parcial que la de Molina: la cadena de texto
+está confirmada, y la lectura visual del folio impreso sigue pendiente. El
+artículo no necesitó ninguna corrección de contenido tras este cotejo,
+solo la incorporación de un respaldo más firme para una cita que ya
+llevaba.
+
 ## Tareas abiertas
 
-1. Abrir la imagen exacta de cada folio en el escaneo de Internet Archive
-   (`archive.org/details/vocabularioenlen00moli`) y leer a simple vista el
-   número impreso, para cerrar la distancia entre «la cadena de texto
-   existe en el OCR del facsímil» y «el folio citado es el correcto».
-   Aplica a *ameyalli* (f. 4v), `tlaneci` (f. 127v) y `yetlaneci` (f. 9r
-   y f. 36r).
-1. Repetir el mismo cotejo para Arenas (1611), cuyo facsímil aún no se ha
-   localizado ni descargado.
+1. Abrir la imagen exacta de cada folio en los escaneos ya localizados de
+   Internet Archive —Molina, `archive.org/details/vocabularioenlen00moli`,
+   y Arenas, `archive.org/details/ayer_871_a952_a7_1611`— y leer a simple
+   vista el número impreso, para cerrar la distancia entre «la cadena de
+   texto existe en el OCR del facsímil» y «el folio o página citados son
+   los correctos». Aplica a *ameyalli* (Molina f. 4v; Arenas p. 143),
+   `tlaneci` (f. 127v) y `yetlaneci` (f. 9r y f. 36r).
 1. Cotejar directamente contra facsímil o edición crítica el folio 142
    recto del Códice Florentino y la página 165 de Brinton (1887), ambos
    atribuidos a la secuencia «ye tlaneci» por catálogos que no son este
    trabajo.
-1. Consultar el sitio propio de Alexis Wimmer (no accesible durante dos
-   sesiones de verificación en vivo) para confirmar de manera directa la
-   definición de `tlanēci` y determinar si contiene o no la secuencia de
-   ejemplo `ye tlanêci`, actualmente retirada del artículo por prudencia.
+1. Consultar el sitio propio de Alexis Wimmer, inalcanzable en cuatro
+   intentos durante tres sesiones de verificación en vivo —incluida una
+   sesión en la que el dominio `web.archive.org` completo resultó
+   bloqueado por la caja de arena del navegador—, para confirmar de
+   manera directa la definición de `tlanēci` y determinar si contiene o
+   no la secuencia de ejemplo `ye tlanêci`, actualmente retirada del
+   artículo por prudencia.
 1. Establecer la referencia bibliográfica completa del estudio arqueológico
    sobre el glifo de Amealco.
 1. Ejecutar una búsqueda sistemática del binomio y de cada elemento por
