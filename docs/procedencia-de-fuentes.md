@@ -90,19 +90,22 @@ de Molina como tarea abierta.
 
 | Afirmación | Estado |
 | --- | --- |
-| Valor léxico de *āmēyalli* | verificado en vivo, GDN: Molina y Arenas |
-| Segmentación `a-meya-l-li` | verificada en vivo, glifos de Tlachia |
+| Valor léxico de *āmēyalli* | verificado en vivo, GDN y WHP: Molina f. 4v |
+| Raíces `ā-tl` y `mēy(a)` de *āmēyalli* | verificadas, cruce en Karttunen |
+| Segmentación `a-meya-l-li` completa | glifos consignan el todo, no cada uno |
 | Asimilación `-ltli` a `-lli` | verificada contra bibliografía |
-| `tlanēci` como verbo impersonal | verificado en vivo, GDN: Molina, Siméon |
-| Secuencia `ye tlanēci` | verificada en vivo, Códice Florentino f. 142r |
-| Lema `yetlaneci` desde 1571 | verificado en vivo, GDN: Molina f. 9r |
+| `tlanēci` como verbo impersonal | verificado en vivo, Molina f. 127v |
+| Secuencia `ye tlanēci` | verificada en dos fuentes independientes |
+| Lema `yetlaneci`, parte 1 de Molina | verificado en vivo, GDN: f. 9r |
+| Lema `yetlaneci`, parte 2 de Molina | verificado en vivo, WHP: f. 36r |
 | *tlanezi* con `z` en 1692 | verificado en vivo, GDN: Guerra |
 | Año de la edición de Wimmer | corregido de 2006 a 2004, GDN |
 | *tlanextli* como «luz, claridad» | atestiguado en Molina |
 | Orden invertido del par | atestiguado en registros públicos |
-| Entrada de Molina para *ameyalli* | verificada en vivo, GDN |
 | Ausencia del binomio antes de 1900 | búsqueda no exhaustiva |
 | Cronología del neonahuatlismo | verificada contra bibliografía |
+| Metadatos editoriales de seis autores | verificados en vivo, WorldCat |
+| Keltner y Haidt (2003) | verificado en vivo, Taylor & Francis |
 | Frecuencia demográfica (CDMX, 2000-2023) | verificada, descarga oficial |
 | Frecuencia demográfica nacional | sigue no disponible |
 
@@ -258,23 +261,81 @@ resolverla exigiría datos que este trabajo no tiene. Una explicación
 plausible pero no verificada es que la moda onomástica local haya cedido
 terreno frente a otras formas de revitalización nahua más recientes.
 
+## Segunda ronda de verificación en vivo
+
+Una sesión posterior amplió la verificación a dos frentes que la primera
+ronda había dejado pendientes: los folios exactos de Molina y la exactitud
+de los datos editoriales de la bibliografía académica moderna. Para el
+primer frente se consultó un segundo catálogo independiente del GDN, el
+*Online Nahuatl Dictionary* del Wired Humanities Projects de la
+Universidad de Oregon (`nahuatl.wired-humanities.org`, ed. Stephanie
+Wood), que transcribe entradas de Molina con folio y columna exactos y las
+contrasta con Karttunen y con fuentes en inglés como Brinton. Para el
+segundo frente se consultó WorldCat y, para un caso, la propia editorial
+académica, contrastando autor, título, año y editorial de cada obra citada
+en la lista de referencias.
+
+Los folios de Molina para *ameyalli* y para `tlaneci` quedaron confirmados
+con precisión: «ameyalli. fuente de agua.» en la parte náhuatl-castellano,
+folio 4 vuelto, columna 2; y «tlaneci. (pret. otlanez.) hazer claridad o
+amanecer.» en la misma parte, folio 127 vuelto, columna 2. Ambas entradas
+proceden de la misma mitad del vocabulario de Molina, la náhuatl-castellano
+que la bibliografía suele citar como Molina 2. El artículo incorpora ambos
+folios en el cuerpo del texto. Esa incorporación resuelve la primera tarea
+abierta que la ronda anterior había dejado pendiente para *ameyalli* y
+extiende a `tlaneci` una verificación que antes no se había intentado.
+
+El caso de `yetlaneci` no arrojó una contradicción sino una precisión
+adicional. El catálogo del GDN había dado el folio 9r para la entrada de la
+parte castellano-náhuatl («amanecer»); el diccionario de Oregon aporta,
+para la parte náhuatl-castellano («reír el alva, o amanecer», pretérito
+`yeotlanez`), el folio 36 recto, columna 1. Ambos folios son correctos
+porque describen la misma palabra en las dos mitades independientes del
+vocabulario de Molina, cada una con su propia numeración. El artículo ahora
+cita las dos, en lugar de dejar sin especificar la segunda como hacía la
+versión anterior.
+
+El diccionario de Oregon aportó además una segunda atestiguación
+independiente de la secuencia `ye tlanēci`, hasta ahora sostenida solo por
+el catálogo de Temoa. Brinton (1887), en su compilación de poesía náhuatl
+antigua, traduce «ye tlaneci» como «the day breaks» en la página 165. Al
+verificar la fecha de esa obra se detectó una inconsistencia menor entre
+las propias páginas del diccionario de Oregon —una decía 1877 y otra
+1887—. El cotejo contra WorldCat confirmó que la edición real es de 1887,
+y el artículo cita el año corregido y añade la obra a la lista de
+referencias.
+
+La verificación editorial de Andrews (2003), Karttunen (1992), Launey
+(2011), Lockhart (1992), Canger (1988) y Siméon (1885) contra WorldCat y,
+para Canger, contra el sitio de la propia revista, no encontró ninguna
+discrepancia: autor, título, editorial y año coinciden en los seis casos
+con lo ya escrito en la bibliografía del artículo. La cita de Keltner y
+Haidt (2003) en la nota sobre el asombro también se verificó de forma
+directa contra el sitio de Taylor & Francis, con coincidencia exacta de
+volumen, número y páginas. Ninguna de las siete verificaciones editoriales
+exigió, por tanto, corregir una sola palabra del cuerpo del artículo.
+Quedan, no obstante, sin verificar los números de página internos de
+varias de esas obras.
+
 ## Tareas abiertas
 
-1. Cotejar directamente contra facsímil las entradas ya localizadas en el
-   catálogo del GDN: *ameyalli* en Molina (1571) y Arenas (1611), y
-   `yetlaneci` en Molina (1571, f. 9r). El catálogo transcribe; el facsímil
-   confirma.
-1. Cotejar directamente contra facsímil o edición crítica del Códice
-   Florentino el folio 142 recto que el catálogo de Temoa atribuye a la
-   secuencia «ie tlaneci ie tlatvi in mjctlan».
-1. Consultar el sitio propio de Alexis Wimmer (no accesible durante la
-   sesión de verificación en vivo) para confirmar de manera directa la
+1. Cotejar directamente contra facsímil las entradas ya localizadas en dos
+   catálogos independientes (GDN y el diccionario de Oregon): *ameyalli*
+   en Molina (1571, f. 4v) y Arenas (1611), y `yetlaneci` en Molina
+   (1571, f. 9r y f. 36r). Los catálogos transcriben; el facsímil confirma.
+1. Cotejar directamente contra facsímil o edición crítica el folio 142
+   recto del Códice Florentino y la página 165 de Brinton (1887), ambos
+   atribuidos a la secuencia «ye tlaneci» por catálogos que no son este
+   trabajo.
+1. Consultar el sitio propio de Alexis Wimmer (no accesible durante dos
+   sesiones de verificación en vivo) para confirmar de manera directa la
    definición de `tlanēci` y determinar si contiene o no la secuencia de
    ejemplo `ye tlanêci`, actualmente retirada del artículo por prudencia.
 1. Establecer la referencia bibliográfica completa del estudio arqueológico
    sobre el glifo de Amealco.
 1. Ejecutar una búsqueda sistemática del binomio y de cada elemento por
    separado en corpus notariales nahuas digitalizados.
-1. Intentar la extracción verificable de filas para ambos nombres en la base
-   abierta de nombres del Registro Civil de la Ciudad de México, teniendo
-   presente el umbral de anonimización.
+1. Verificar de manera directa las páginas exactas de Karttunen (1992, p.
+   10 y p. 284 según el diccionario de Oregon) y de Canger (1988, pp.
+   28-72 según la cita original) contra un ejemplar o una edición digital
+   completa, en lugar de un catálogo de terceros.

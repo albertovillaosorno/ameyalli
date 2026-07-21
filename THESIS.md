@@ -125,24 +125,29 @@ pregunta abierta.
 El primer elemento goza de estatus **(A)**: está atestiguado en el corpus
 colonial como sustantivo común con los sentidos de «manantial», «fuente» u
 «ojo de agua». Molina (1571) y Arenas (1611) coinciden en ese valor de
-manera independiente, y Karttunen (1992) lo recoge con marcación explícita
-de cantidad vocálica. El corpus glífico asociado al Gran Diccionario
-Náhuatl (2012) lo trata además como lectura de glifo en varios manuscritos
-—entre ellos Metlaltoyuca, Cuauhtinchan 2 y Totomixtlahuacan—, siempre con
-el sentido de «manantial», lo que confirma su circulación en el repertorio
-gráfico indígena y no solo en la lexicografía alfabética. Su vitalidad como
-sustantivo común y como base toponímica está, en consecuencia, fuera de
-discusión.
+manera independiente —el primero con la glosa «fuente de agua», en la parte
+náhuatl-castellano, folio 4 vuelto, columna 2—, y Karttunen (1992) lo
+recoge en su página 10 con marcación explícita de cantidad vocálica. El
+corpus glífico asociado al Gran Diccionario Náhuatl (2012) lo trata además
+como lectura de glifo en varios manuscritos —entre ellos Metlaltoyuca,
+Cuauhtinchan 2 y Totomixtlahuacan—, siempre con el sentido de «manantial»,
+lo que confirma su circulación en el repertorio gráfico indígena y no solo
+en la lexicografía alfabética. Su vitalidad como sustantivo común y como
+base toponímica está, en consecuencia, fuera de discusión.
 
 La estructura interna se segmenta en cuatro elementos, con una precisión
 metodológica importante. La segmentación `a-meya-l-li` está consignada en el
-aparato glífico del Gran Diccionario Náhuatl, pero esa fuente glosa el
-conjunto como «manantial» sin desglosar el valor de cada segmento por
-separado. Lo plenamente documentado es, por tanto, el valor léxico total, y
-el análisis morfema a morfema debe presentarse como reconstrucción
-**(B)** apoyada en la gramática general. Esta distinción se mantiene de
-manera deliberada porque llenar con plausibilidad lo que la fuente no dice
-es el mecanismo por el cual se fabrica una etimología falsa.
+aparato glífico del Gran Diccionario Náhuatl, y Karttunen (1992) remite de
+manera explícita a las entradas `ā-tl` y `mēy(a)` como componentes del
+lema, lo que confirma la identificación de las dos raíces con estatus
+**(A)**; ninguna de las dos fuentes, sin embargo, desglosa el valor
+independiente de los sufijos `-l-` y `-li`. Lo plenamente documentado es,
+por tanto, la identidad de las raíces y el valor léxico total, mientras que
+el reparto exacto de la función entre ambos sufijos finales debe
+presentarse como reconstrucción **(B)** apoyada en la gramática general.
+Esta distinción se mantiene de manera deliberada porque llenar con
+plausibilidad lo que la fuente no dice es el mecanismo por el cual se
+fabrica una etimología falsa.
 
 Bajo esa reserva, la reconstrucción es la siguiente **(B)**. El primer
 elemento es `ā-`, forma en composición del sustantivo `ā-tl` («agua»), que
@@ -189,19 +194,22 @@ El núcleo verbal es `nēci`, «aparecer», «hacerse visible» o «mostrarse»
 `tlanēci`, que fue el término estándar para «amanecer». Molina (1571) lo
 traduce en dos direcciones —«esclarecer el día» y «hazer claro y sereno
 tiempo» en la parte castellano-náhuatl, «hazer claridad o amanecer» en la
-náhuatl-castellano—, y Siméon (1885) y Wimmer (2004) coinciden en
-clasificarlo como verbo impersonal. La lexicalización está, por tanto,
-documentada de forma independiente en fuentes separadas por más de tres
-siglos.
+náhuatl-castellano, folio 127 vuelto, columna 2—, y Siméon (1885) y Wimmer
+(2004) coinciden en clasificarlo como verbo impersonal. La lexicalización
+está, por tanto, documentada de forma independiente en fuentes separadas
+por más de tres siglos.
 
 La secuencia libre `ye tlanēci` tiene, además, atestiguación textual directa
-**(A)**. El corpus sahaguntino registra la frase completa «ie tlaneci ie
-tlatvi in mjctlan» al describir la llegada del alba al inframundo, en un
-pasaje transmitido en el folio 142 recto de la tradición manuscrita conocida
-por el Códice Florentino (Sahagún, 1950-1982). No es, por tanto, una
-reconstrucción a partir de piezas sueltas, sino una oración completa
-localizable en un texto concreto. La localización procede del catálogo que
-transcribe el manuscrito, no de un cotejo directo del facsímil.
+y por partida doble **(A)**. El corpus sahaguntino registra la frase
+completa «ie tlaneci ie tlatvi in mjctlan» al describir la llegada del alba
+al inframundo, en un pasaje transmitido en el folio 142 recto de la
+tradición manuscrita conocida por el Códice Florentino (Sahagún,
+1950-1982). De manera independiente, la compilación de poesía náhuatl de
+Brinton (1887) traduce «ye tlaneci» como «the day breaks» en su página 165,
+lo que confirma la secuencia en una segunda fuente ajena al corpus
+sahaguntino. Ninguna de las dos localizaciones procede de un cotejo directo
+del facsímil por parte de este trabajo, sino de catálogos académicos que
+transcriben y referencian los manuscritos correspondientes.
 
 La continuidad del verbo hasta el presente refuerza esta lectura **(A)**. El
 Gran Diccionario Náhuatl (2012) resume atestiguaciones que van de Olmos
@@ -222,9 +230,10 @@ Francia, retrasó esa fecha dos siglos. Ninguna de las dos era la más
 temprana disponible: el propio Molina registra `yetlaneci` como entrada
 verbal en 1571, tanto en la parte castellano-náhuatl («amanecer», f. 9r)
 como en la náhuatl-castellano («reír el alba, o amanecer», con el
-pretérito `yeotlanez`) **(A)**. La univerbación es, en consecuencia, un
-proceso atestiguado ya en la primera generación de la lexicografía
-colonial, no una acuñación dieciochesca ni mucho menos moderna.
+pretérito `yeotlanez`, f. 36r columna 1) **(A)**. La univerbación es, en
+consecuencia, un proceso atestiguado ya en la primera generación de la
+lexicografía colonial, no una acuñación dieciochesca ni mucho menos
+moderna.
 
 La consecuencia para la datación general del nombre es precisa y acotada.
 Lo moderno no es la palabra *Yetlanezi* en cuanto forma léxica unida, sino
@@ -751,6 +760,10 @@ University of Oklahoma Press.
 
 Arenas, P. de. (1611). *Vocabulario manual de las lenguas castellana y
 mexicana*. Henrico Martínez.
+
+Brinton, D. G. (1887). *Ancient Nahuatl poetry, containing the Nahuatl
+text of XXVII ancient Mexican poems*. Library of Aboriginal American
+Literature.
 
 Canger, U. (1988). Nahuatl dialectology: A survey and some suggestions.
 *International Journal of American Linguistics*, *54*(1), 28-72.
