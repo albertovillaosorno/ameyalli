@@ -404,13 +404,13 @@ aunque sea **(A)** en el plano morfológico.
 ### Atestiguaciones coloniales
 
 En la lexicografía y en el repertorio gráfico coloniales, la voz *āmēyalli*
-aparece con frecuencia notable **(A)**. Su ocurrencia está circunscrita, sin
-embargo, a la función de sustantivo común y de base formadora de topónimos.
-Los repertorios registran localidades cuyo nombre se construye sobre esta
-raíz con el locativo `-co`, con el sentido de «en el manantial». El caso
-mejor documentado es el del topónimo conservado en cantera en la iglesia de
-Amealco, cuyo glifo la literatura arqueológica interpreta explícitamente
-como «manantial» y fecha en época posterior a la Conquista.
+aparece con frecuencia notable **(A)**. Su relación toponímica con Amealco
+está documentada en una lista de doce glifos del Códice de Huichapan, no en
+una talla conservada en una iglesia. Brambila Paz (2023) transcribe allí
+`Amamehe` con la glosa «manantial, Amealco», dentro del sistema gráfico y
+alfabético analizado por Wright Carr (2012). La antigua mención de una
+cantera eclesiástica y de una fecha posterior a la Conquista se retira
+porque ninguna fuente localizada sostiene esos detalles.
 
 La forma verbal `tlanēci` impregna a su vez la lexicografía y los textos
 nahuas **(A)**. Funciona como recurso para describir la llegada del alba, y
@@ -770,6 +770,10 @@ Brinton, D. G. (1887). *Ancient Nahuatl poetry, containing the Nahuatl
 text of XXVII ancient Mexican poems*. Library of Aboriginal American
 Literature.
 
+Brambila Paz, R. (2023). Economía y cultura en Jilotepec. Siglo XVI.
+En M. T. Jarquín Ortega y V. E. Morales López (Coords.), *Jilotepec*
+(pp. 15-56). El Colegio Mexiquense.
+
 Canger, U. (1988). Nahuatl dialectology: A survey and some suggestions.
 *International Journal of American Linguistics*, *54*(1), 28-72.
 
@@ -828,3 +832,7 @@ Imprimerie Nationale.
 
 Wimmer, A. (2004). *Dictionnaire de la langue nahuatl classique*
 [diccionario en línea]. Sitio propio del autor.
+
+Wright Carr, D. C. (2012). Los signos glotográficos en el Códice de
+Huichapan. *Relaciones. Estudios de Historia y Sociedad*, *33*(132 bis),
+33-73.

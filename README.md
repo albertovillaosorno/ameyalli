@@ -63,9 +63,9 @@ resplandor», que es otra palabra con otra etimología.
 ### ¿«Ameyalli» es náhuatl?
 
 Sí, con seguridad documental. Aparece registrado como sustantivo en la
-lexicografía colonial del centro de México, se conserva como lectura de
-glifo y sirve de base a topónimos como Amealco. No es una invención moderna
-ni una palabra reconstruida.
+lexicografía colonial del centro de México y en repertorios glíficos; una
+lista toponímica del Códice de Huichapan vincula `Amamehe`, «manantial», con
+Amealco. No es una invención moderna ni una palabra reconstruida.
 
 ### ¿De dónde viene la palabra «Ameyalli»?
 

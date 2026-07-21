@@ -27,6 +27,8 @@ misma nota.
 - <https://florentinecodex.getty.edu/book/6/folio/142r>
 - <https://archive.org/details/ancientnahuatlpo00brinrich>
 - <https://www.malinal.net/lexik/nahuatlTL.html#TLANECI>
+- <https://www6.cmq.edu.mx/libreria3/817-jilotepec.html>
+- <https://doi.org/10.24901/rehs.v33i132b.483>
 - [Oregon: ameyalli](https://nahuatl.wired-humanities.org/content/ameyalli)
 - [Oregon: tlaneci](https://nahuatl.wired-humanities.org/content/tlaneci)
 - [Oregon: yetlaneci](https://nahuatl.wired-humanities.org/content/yetlaneci)
@@ -141,6 +143,7 @@ de Molina como tarea abierta.
 | Año de la edición de Wimmer | corregido de 2006 a 2004, GDN |
 | Sitio propio de Wimmer | entrada y ejemplo confirmados directamente |
 | *tlanextli* como «luz, claridad» | atestiguado en Molina |
+| Relación glífica con Amealco | confirmada en el Códice de Huichapan |
 | Orden invertido del par | atestiguado en registros públicos |
 | Ausencia del binomio antes de 1900 | búsqueda no exhaustiva |
 | Cronología del neonahuatlismo | verificada contra bibliografía |
@@ -171,12 +174,13 @@ una formulación concreta a un autor concreto exige haber leído el pasaje.
 Una cita inventada invalida un trabajo entero, y ese riesgo no compensa la
 apariencia de erudición.
 
-Se retiró por último una referencia arqueológica sobre el glifo toponímico
-de Amealco cuyo autor y año no pudieron establecerse con seguridad. El dato
-se conserva en el artículo porque ambos informes lo respaldan, pero se
-menciona como literatura arqueológica sin entrada bibliográfica formal. Esa
-solución es preferible a inventar una referencia con apariencia de precisión.
-La localización de la ficha completa queda como tarea abierta.
+La referencia arqueológica incompleta sobre un supuesto glifo tallado en
+la iglesia de Amealco no pudo recuperarse porque la afirmación mezclaba dos
+testimonios distintos. Ninguna de las fuentes localizadas respalda esa
+ubicación material, por lo que el artículo elimina la cantera, la iglesia y
+la datación posterior a la Conquista. El dato verificable procede en cambio
+de la lista de glifos toponímicos del Códice de Huichapan, donde Brambila Paz
+(2023) identifica `Amamehe` como «manantial, Amealco».
 
 ## Auditoría de higiene bibliográfica
 
@@ -463,10 +467,28 @@ de la edición utilizada por Wimmer, no el folio 142 recto del manuscrito.
 Este trabajo conserva la atribución editorial con esa forma y mantiene
 retirada la localización manuscrita falsa.
 
+## Corrección de la evidencia glífica de Amealco
+
+La referencia completa que permite documentar la relación toponímica es el
+capítulo de Rosa Brambila Paz, «Economía y cultura en Jilotepec. Siglo XVI»,
+publicado en 2023 dentro del volumen colectivo *Jilotepec*, coordinado por
+María Teresa Jarquín Ortega y Víctor Eder Morales López. En las páginas
+15-56, la autora describe dos láminas del Códice de Huichapan con doce
+glifos toponímicos y transcribe `Amamehe` con la glosa «manantial,
+Amealco». El volumen fue publicado en Zinacantepec por El Colegio
+Mexiquense y lleva el ISBN 978-607-8836-54-3.
+
+El marco de lectura del manuscrito queda respaldado por David Charles
+Wright Carr (2012), «Los signos glotográficos en el Códice de Huichapan»,
+publicado en *Relaciones. Estudios de Historia y Sociedad*, 33(132 bis),
+33-73, con DOI `10.24901/rehs.v33i132b.483`. Esa obra estudia la relación
+entre signos glotográficos y anotaciones alfabéticas del códice, pero no
+sostiene la antigua afirmación sobre una talla eclesiástica. La corrección
+separa así la evidencia documental auténtica de la localización material
+que no pudo verificarse.
+
 ## Tareas abiertas
 
-1. Establecer la referencia bibliográfica completa del estudio arqueológico
-   sobre el glifo de Amealco.
 1. Ejecutar una búsqueda sistemática del binomio y de cada elemento por
    separado en corpus notariales nahuas digitalizados.
 1. Verificar de manera directa las páginas exactas de Karttunen (1992, p.
