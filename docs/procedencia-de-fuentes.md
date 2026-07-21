@@ -132,6 +132,35 @@ menciona como literatura arqueológica sin entrada bibliográfica formal. Esa
 solución es preferible a inventar una referencia con apariencia de precisión.
 La localización de la ficha completa queda como tarea abierta.
 
+## Auditoría de higiene bibliográfica
+
+Una revisión posterior a la primera publicación comprobó que cada entrada de
+la lista de referencias tuviera al menos una cita en el cuerpo del texto, y
+que cada afirmación con estatus **(A)** apoyada en un autor concreto llevara
+la cita adjunta en el lugar exacto de la afirmación. La revisión encontró dos
+problemas y ambos se corrigieron. El criterio aplicado fue el mismo que rige
+todo el documento: una lista de referencias solo debe contener lo que el
+texto cita, nunca lo que suena pertinente. Los dos casos se describen a
+continuación por separado.
+
+Dakin (1982) figuraba en la lista de referencias y en la jerarquía de fuentes
+de `metodologia.md`, pero ninguna afirmación del artículo llevaba su cita.
+Era, en sentido estricto, una referencia decorativa: el mismo defecto que el
+artículo denuncia en la sección de etimología popular, aplicado aquí al
+aparato académico en lugar de a una traducción libre. Se retiró la entrada de
+ambos archivos en lugar de inventar una afirmación que la sostuviera después
+de los hechos. La obra podría ser pertinente para una futura ampliación de la
+sección dialectal, pero solo debe reincorporarse junto con la afirmación
+concreta que respalde.
+
+La mención al corpus sahaguntino en el apartado sobre la continuidad de
+`tlanēci` carecía de una cita formal pese a que la obra ya figuraba en la
+lista de referencias. Se añadió la cita `(Sahagún, 1950-1982)` en el punto
+exacto de la afirmación. La corrección no cambia ningún contenido; solo hace
+explícito el respaldo que ya estaba implícito en la prosa. Ese es precisamente
+el tipo de defecto que una auditoría de higiene bibliográfica debe encontrar
+antes que un lector.
+
 ## Tareas abiertas
 
 1. Cotejar la entrada de *ameyalli* en los vocabularios de Molina de 1571 y

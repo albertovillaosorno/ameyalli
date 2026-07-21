@@ -60,28 +60,28 @@ resplandor», que es otra palabra con otra etimología.
 
 ## Preguntas frecuentes
 
-### ¿«Ameyalli» es náhuatl
+### ¿«Ameyalli» es náhuatl?
 
 Sí, con seguridad documental. Aparece registrado como sustantivo en la
 lexicografía colonial del centro de México, se conserva como lectura de
 glifo y sirve de base a topónimos como Amealco. No es una invención moderna
 ni una palabra reconstruida.
 
-### ¿De dónde viene la palabra «Ameyalli»
+### ¿De dónde viene la palabra «Ameyalli»?
 
 De la raíz `ā-` («agua», de *ātl*) más la raíz verbal `mēya` («manar,
 brotar»), con un sufijo derivativo y el absolutivo del náhuatl. El resultado
 designa el lugar o la entidad de la que mana agua. En una palabra:
 manantial.
 
-### ¿Qué significa exactamente «Yetlanezi»
+### ¿Qué significa exactamente «Yetlanezi»?
 
 «Ya amanece». Se compone del adverbio `ye` («ya») y del verbo impersonal
 `tlanēci` («amanecer», literalmente «hacerse visibles las cosas»). La forma
 unida *yetlaneci* aparece ya como entrada de diccionario hacia 1780, con el
 sentido de «amanecer».
 
-### ¿Es un nombre prehispánico
+### ¿Es un nombre prehispánico?
 
 No como nombre de persona. Las dos palabras son antiguas y están bien
 documentadas, pero no existe registro de nadie que se llamara así en el
@@ -89,7 +89,7 @@ periodo prehispánico ni en los tres siglos coloniales. Su uso como nombre
 propio es contemporáneo, ligado al movimiento de la mexicanidad del siglo XX
 y documentado en registros públicos a partir del siglo XXI.
 
-### ¿Por qué tanta gente dice que significa «aurora boreal»
+### ¿Por qué tanta gente dice que significa «aurora boreal»?
 
 Porque la base correcta —algo relacionado con el amanecer— se infló hasta
 una imagen más vistosa y comercializable. El mecanismo es el mismo que
@@ -98,7 +98,7 @@ repite hasta que un sitio de nombres la publica como si fuera una definición
 de diccionario. El artículo documenta las cuatro etimologías falsas más
 difundidas y explica el error de cada una.
 
-### ¿Cómo se escribe correctamente
+### ¿Cómo se escribe correctamente?
 
 Depende de la norma que se adopte, y ninguna es «la» correcta. La grafía
 académica fiel a la morfología histórica sería *Āmēyalli ye tlanēci*; la

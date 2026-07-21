@@ -37,7 +37,7 @@ excepción.
 1. Fuentes primarias coloniales: Molina, Olmos, Carochi, el corpus
    sahaguntino y la documentación notarial en lengua náhuatl.
 1. Lexicografía y gramática académicas: Siméon, Karttunen, Andrews, Launey,
-   Lockhart, Canger y Dakin.
+   Lockhart y Canger.
 1. Bibliografía etnohistórica y sociológica arbitrada sobre los movimientos
    de revitalización del siglo XX.
 1. Estadística y registros públicos institucionales, exclusivamente para el

@@ -189,10 +189,10 @@ de tres siglos.
 
 La continuidad del verbo hasta el presente refuerza esta lectura **(A)**. El
 Gran Diccionario Náhuatl (2012) resume atestiguaciones que van de Molina
-hasta índices tardíos del corpus sahaguntino. La forma sigue viva como verbo
-de «amanecer» en variantes modernas documentadas, entre ellas la de
-Mecayapan. No se trata, pues, de un arcaísmo recuperado de un diccionario,
-sino de una pieza léxica con historia continua.
+hasta índices tardíos del corpus sahaguntino (Sahagún, 1950-1982). La forma
+sigue viva como verbo de «amanecer» en variantes modernas documentadas, entre
+ellas la de Mecayapan. No se trata, pues, de un arcaísmo recuperado de un
+diccionario, sino de una pieza léxica con historia continua.
 
 ### La forma univerbada *yetlaneci*
 
@@ -658,9 +658,6 @@ Canger, U. (1988). Nahuatl dialectology: A survey and some suggestions.
 Carochi, H. (2001). *Grammar of the Mexican language with an explanation of
 its adverbs* (J. Lockhart, ed. y trad.). Stanford University Press. (Obra
 original publicada en 1645).
-
-Dakin, K. (1982). *La evolución fonológica del protonáhuatl*. Universidad
-Nacional Autónoma de México.
 
 De la Peña, F. (2002). *Los hijos del sexto sol: Un estudio
 etnopsicoanalítico del movimiento de la mexicanidad*. Instituto Nacional de
