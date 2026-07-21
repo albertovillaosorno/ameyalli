@@ -7,3 +7,4 @@
 - `1ce1ee6` docs(ameyalli): lead the readme with the answer in Spanish
 - `b85111d` docs(ameyalli): fix orphaned citation and README question marks
 - `6aa7754` docs(ameyalli): verify sources live and add real CDMX name counts
+- `db567a7` docs(ameyalli): pin Molina folios and verify bibliography metadata
