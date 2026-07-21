@@ -107,11 +107,11 @@ consonántica.
 El segundo componente conserva el fonema `/tl/` intacto, lo cual descarta
 una filiación con las variantes de la llamada rama «t» **(A)**. En el
 náhuat-pipil de Centroamérica y en variantes del sur de Veracruz y Tabasco,
-el reflejo esperable sería del tipo *taneci*, no *tlanezi*. La forma léxica y
-la sintaxis del sintagma corresponden a la norma descrita por las gramáticas
-franciscanas y jesuíticas del Valle de México y de Puebla-Tlaxcala. Canger
-(1988) ofrece el marco dialectológico que permite situar este contraste
-dentro de la clasificación general del náhuatl.
+el reflejo esperable sería del tipo *taneci*, no *tlanezi*. El artículo
+completo de Canger (1988, pp. 28-72) revisa las clasificaciones basadas en
+los reflejos `t`, `tl` y `l`, así como la reinterpretación histórica del
+cambio de `tl` a `t`. Ese marco permite usar el contraste para excluir una
+rama amplia, pero no para asignar el antropónimo a una localidad concreta.
 
 Conviene precisar hasta dónde llega esta adscripción y dónde se detiene
 **(B)**. La evidencia permite afirmar con solidez que el material es náhuatl
@@ -129,15 +129,13 @@ pregunta abierta.
 El primer elemento goza de estatus **(A)**: está atestiguado en el corpus
 colonial como sustantivo común con los sentidos de «manantial», «fuente» u
 «ojo de agua». Molina (1571) y Arenas (1611) coinciden en ese valor de
-manera independiente —el primero con la glosa «fuente de agua», en la parte
-náhuatl-castellano, folio 4 vuelto, columna 2—, y Karttunen (1992) lo
-recoge en su página 10 con marcación explícita de cantidad vocálica. El
-corpus glífico asociado al Gran Diccionario Náhuatl (2012) lo trata además
-como lectura de glifo en varios manuscritos —entre ellos Metlaltoyuca,
-Cuauhtinchan 2 y Totomixtlahuacan—, siempre con el sentido de «manantial»,
-lo que confirma su circulación en el repertorio gráfico indígena y no solo
-en la lexicografía alfabética. Su vitalidad como sustantivo común y como
-base toponímica está, en consecuencia, fuera de discusión.
+manera independiente, y la página 10 de la edición digital completa de
+Karttunen (1992) confirma `ĀMĒYAL-LI`, su cantidad vocálica y las remisiones
+a `Ā-TL` y `MĒY(A)`. El corpus glífico asociado al Gran Diccionario Náhuatl
+(2012) lo trata además como lectura de glifo en varios manuscritos —entre
+ellos Metlaltoyuca, Cuauhtinchan 2 y Totomixtlahuacan—, siempre con el
+sentido de «manantial». Su vitalidad como sustantivo común y como base
+toponímica está, en consecuencia, fuera de discusión.
 
 La estructura interna se segmenta en cuatro elementos, con una precisión
 metodológica importante. La segmentación `a-meya-l-li` está consignada en el
@@ -196,12 +194,11 @@ inglés, donde el pronombre carece de referente identificable.
 El núcleo verbal es `nēci`, «aparecer», «hacerse visible» o «mostrarse»
 **(A)**. El ensamblaje de `tla-` y `nēci` produce el verbo lexicalizado
 `tlanēci`, que fue el término estándar para «amanecer». Molina (1571) lo
-traduce en dos direcciones —«esclarecer el día» y «hazer claro y sereno
-tiempo» en la parte castellano-náhuatl, «hazer claridad o amanecer» en la
-náhuatl-castellano, folio 127 vuelto, columna 2—, y Siméon (1885) y Wimmer
-(2004) coinciden en clasificarlo como verbo impersonal. La lexicalización
-está, por tanto, documentada de forma independiente en fuentes separadas
-por más de tres siglos.
+glosa como «hazer claridad o amanecer», y la página 284 de la edición
+digital completa de Karttunen (1992) confirma el mismo valor y la remisión
+a `NĒC(I)`. Siméon (1885) y Wimmer (2004) coinciden en clasificarlo como
+verbo impersonal, de modo que la lexicalización queda documentada en
+fuentes separadas por más de tres siglos.
 
 La secuencia libre `ye tlanēci` cuenta con atestiguación textual directa
 y por partida doble **(A)**. La página 165 del ejemplar completo de Brinton

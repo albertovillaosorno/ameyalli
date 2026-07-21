@@ -32,6 +32,8 @@ misma nota.
 - <https://enl.wired-humanities.org/>
 - <https://totlajtol.mx/>
 - <https://www.iifilologicas.unam.mx/satnu/>
+- <https://books.google.com/books?id=s4LURGT0h2AC&pg=PA10>
+- <https://books.google.com/books?id=s4LURGT0h2AC&pg=PA284>
 - [Oregon: ameyalli](https://nahuatl.wired-humanities.org/content/ameyalli)
 - [Oregon: tlaneci](https://nahuatl.wired-humanities.org/content/tlaneci)
 - [Oregon: yetlaneci](https://nahuatl.wired-humanities.org/content/yetlaneci)
@@ -133,7 +135,7 @@ de Molina como tarea abierta.
 | --- | --- |
 | Valor léxico de *āmēyalli* en Molina | confirmado en el OCR del facsímil |
 | Valor léxico de *āmēyalli* en Arenas | confirmado en el OCR del facsímil |
-| Raíces `ā-tl` y `mēy(a)` de *āmēyalli* | verificadas, cruce en Karttunen |
+| Raíces `ā-tl` y `mēy(a)` de *āmēyalli* | verificadas en Karttunen p. 10 |
 | Segmentación `a-meya-l-li` completa | glifos consignan el todo, no cada uno |
 | Asimilación `-ltli` a `-lli` | verificada contra bibliografía |
 | `tlanēci` como verbo impersonal | confirmado en el OCR del facsímil |
@@ -150,6 +152,8 @@ de Molina como tarea abierta.
 | Orden invertido del par | atestiguado en registros públicos |
 | Ausencia del binomio antes de 1900 | cero resultados en tres repositorios |
 | Cronología del neonahuatlismo | verificada contra bibliografía |
+| Karttunen, páginas 10 y 284 | verificadas en la edición digital |
+| Canger, páginas 28-72 | artículo completo cotejado |
 | Metadatos editoriales de seis autores | verificados en vivo, WorldCat |
 | Keltner y Haidt (2003) | verificado en vivo, Taylor & Francis |
 | Frecuencia demográfica (CDMX, 2000-2023) | verificada, descarga oficial |
@@ -517,9 +521,32 @@ OCR. El artículo formula por ello una ausencia documentada dentro de esos
 límites y conserva el estatus **(B)** para la inferencia histórica más
 amplia.
 
-## Tareas abiertas
+## Verificación directa de Karttunen y Canger
 
-1. Verificar de manera directa las páginas exactas de Karttunen (1992, p.
-   10 y p. 284 según el diccionario de Oregon) y de Canger (1988, pp.
-   28-72 según la cita original) contra un ejemplar o una edición digital
-   completa, en lugar de un catálogo de terceros.
+La edición digital completa de Karttunen (1992) confirma las dos páginas
+citadas por el diccionario de Oregon. La página 10 contiene la entrada
+`ĀMĒYAL-LI`, la glosa inglesa «spring, fountain», la equivalencia española
+«fuente de agua» y las remisiones a `Ā-TL` y `MĒY(A)`. La página 284 contiene
+`TLANĒCI`, la glosa «for day to break, to get light», la equivalencia
+«hacer claridad o amanecer» y la remisión a `NĒC(I)`. Las dos comprobaciones
+se hicieron dentro del volumen digitalizado y no desde una ficha de
+catálogo o una cita secundaria.
+
+El artículo completo de Canger (1988) fue cotejado desde la página inicial
+28 hasta la final 72, mientras que la ficha oficial de la revista confirmó
+volumen, número, DOI y extensión. Las páginas 31-35 revisan las
+clasificaciones basadas en los reflejos `t`, `tl` y `l`, y la discusión
+posterior explica por qué esos reflejos no bastan por sí solos para construir
+una genealogía dialectal simple. El uso que hace el artículo de Canger queda
+así limitado a un marco de contraste dialectológico, no a una adscripción
+microregional del antropónimo.
+
+## Cierre de las áreas revisadas
+
+Las seis tareas que componían esta ronda quedan cerradas con evidencia
+directa o, cuando una atribución resultó falsa, con su corrección explícita.
+Permanecen las limitaciones generales ya declaradas: los resultados
+negativos de corpus solo cubren capas consultables, varios numerales del
+Molina son tenues y ninguna fuente permite asignar el nombre moderno a una
+comunidad de habla concreta. Esas reservas no son tareas omitidas, sino los
+límites documentales del estado actual de la investigación.
