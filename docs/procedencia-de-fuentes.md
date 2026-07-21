@@ -26,6 +26,7 @@ misma nota.
 - [Arenas 1611, facsímil](https://archive.org/details/ayer_871_a952_a7_1611)
 - <https://florentinecodex.getty.edu/book/6/folio/142r>
 - <https://archive.org/details/ancientnahuatlpo00brinrich>
+- <https://www.malinal.net/lexik/nahuatlTL.html#TLANECI>
 - [Oregon: ameyalli](https://nahuatl.wired-humanities.org/content/ameyalli)
 - [Oregon: tlaneci](https://nahuatl.wired-humanities.org/content/tlaneci)
 - [Oregon: yetlaneci](https://nahuatl.wired-humanities.org/content/yetlaneci)
@@ -40,9 +41,8 @@ México, buscable por ese título exacto. Lo mismo ocurre con la ficha de
 WorldCat de cada autor verificado en la ronda de metadatos editoriales,
 que se localiza buscando el título exacto de la obra en `worldcat.org`.
 Ningún enlace de esta lista sustituye la cita en APA 7 del cuerpo del
-artículo; la complementa. El sitio propio de Alexis Wimmer queda fuera de
-esta lista por la misma razón que queda fuera del artículo: no pudo
-alcanzarse en ninguno de los cuatro intentos registrados más arriba.
+artículo; la complementa. El enlace de Wimmer apunta a su entrada propia y
+no a la reproducción que hace el Gran Diccionario Náhuatl.
 
 ## Diseño de doble fuente independiente
 
@@ -139,7 +139,7 @@ de Molina como tarea abierta.
 | Edición príncipe de Arenas usada | confirmada, Newberry Library, 1611 |
 | *tlanezi* con `z` en 1692 | verificado en vivo, GDN: Guerra |
 | Año de la edición de Wimmer | corregido de 2006 a 2004, GDN |
-| Sitio propio de Wimmer | inalcanzable, cuatro intentos fallidos |
+| Sitio propio de Wimmer | entrada y ejemplo confirmados directamente |
 | *tlanextli* como «luz, claridad» | atestiguado en Molina |
 | Orden invertido del par | atestiguado en registros públicos |
 | Ausencia del binomio antes de 1900 | búsqueda no exhaustiva |
@@ -445,15 +445,26 @@ segundo testimonio y no traslada la frase a otro folio sin una verificación
 independiente. La corrección reduce el número de testigos directos, pero
 evita conservar una localización precisa que el facsímil contradice.
 
+## Consulta directa del diccionario de Wimmer
+
+El dominio propio de Alexis Wimmer respondió en una sesión posterior y
+permitió abrir la entrada `TLANECI` sin intermediarios. La ficha analiza
+`tlanēci` como verbo impersonal formado sobre `nēci`, lo glosa como el
+levantarse del día y reproduce la equivalencia española de Molina «hazer
+claridad o amanecer». Incluye además el ejemplo exacto `ye tlanēci`,
+glosado en francés como la aparición del día o del alba. Las dos
+afirmaciones que se habían retirado por prudencia quedan así restablecidas
+con respaldo directo de la fuente citada.
+
+La misma entrada atribuye al corpus sahaguntino la secuencia más larga
+`in nicān tlayohua ye tlanēci ye tlathui in mictlān` y remite a
+«Sah6,163». Esa referencia explica la confusión anterior: 163 es la página
+de la edición utilizada por Wimmer, no el folio 142 recto del manuscrito.
+Este trabajo conserva la atribución editorial con esa forma y mantiene
+retirada la localización manuscrita falsa.
+
 ## Tareas abiertas
 
-1. Consultar el sitio propio de Alexis Wimmer, inalcanzable en cuatro
-   intentos durante tres sesiones de verificación en vivo —incluida una
-   sesión en la que el dominio `web.archive.org` completo resultó
-   bloqueado por la caja de arena del navegador—, para confirmar de
-   manera directa la definición de `tlanēci` y determinar si contiene o
-   no la secuencia de ejemplo `ye tlanêci`, actualmente retirada del
-   artículo por prudencia.
 1. Establecer la referencia bibliográfica completa del estudio arqueológico
    sobre el glifo de Amealco.
 1. Ejecutar una búsqueda sistemática del binomio y de cada elemento por

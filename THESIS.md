@@ -204,14 +204,14 @@ está, por tanto, documentada de forma independiente en fuentes separadas
 por más de tres siglos.
 
 La secuencia libre `ye tlanēci` cuenta con atestiguación textual directa
-**(A)**. La página 165 del ejemplar completo de Brinton (1887) contiene la
-entrada «Tlaneci, v. To dawn, to become day. Ye tlaneci, the day breaks»,
-cotejada en la imagen y no solo en un catálogo. En cambio, el folio 142
-recto del libro 6 del Códice Florentino dice «ca ie tlaca, ca ie tlatvi» y
-no contiene `ye tlaneci`, según la imagen y la transcripción oficiales del
-Digital Florentine Codex. Esa localización se retira como una confusión
-entre paginación editorial y foliación manuscrita, sin trasladar la frase a
-otro folio por conjetura.
+y por partida doble **(A)**. La página 165 del ejemplar completo de Brinton
+(1887) contiene la entrada «Tlaneci, v. To dawn, to become day. Ye tlaneci,
+the day breaks», cotejada en la imagen y no solo en un catálogo. Wimmer
+(2004) incluye asimismo el ejemplo `ye tlanēci` en su entrada propia y
+remite la secuencia sahaguntina más extensa a la página editorial
+«Sah6,163». El folio 142 recto del libro 6 del Códice Florentino no contiene
+esa frase, de modo que se conserva la atribución editorial y se retira la
+localización manuscrita falsa.
 
 La continuidad del verbo hasta el presente refuerza esta lectura **(A)**. El
 Gran Diccionario Náhuatl (2012) resume atestiguaciones que van de Olmos
@@ -826,7 +826,5 @@ School of American Research y University of Utah Press.
 Siméon, R. (1885). *Dictionnaire de la langue nahuatl ou mexicaine*.
 Imprimerie Nationale.
 
-Wimmer, A. (2004). *Dictionnaire de la langue nahuatl classique*. Entradas
-consultadas a través del catálogo del Gran Diccionario Náhuatl (2012), que
-data la edición electrónica en 2004; el sitio original del autor no pudo
-consultarse de forma directa para este trabajo.
+Wimmer, A. (2004). *Dictionnaire de la langue nahuatl classique*
+[diccionario en línea]. Sitio propio del autor.
