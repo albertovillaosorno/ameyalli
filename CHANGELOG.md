@@ -11,3 +11,4 @@
 - `b05ea4b` docs(ameyalli): confirm three entries in Molina's own facsimile
 - `d00679b` docs(ameyalli): confirm Arenas facsimile, close Wimmer attempts
 - `d910aa5` docs(ameyalli): add verification links, fix bibliography order
+- `e9f7cc3` docs(ameyalli): add citation formats and GitHub anchor guide
