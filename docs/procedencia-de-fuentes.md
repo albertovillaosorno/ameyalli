@@ -24,6 +24,8 @@ misma nota.
 - [GDN: yetlaneci](https://gdn.iib.unam.mx/diccionario/yetlaneci)
 - [Molina 1571, facsímil](https://archive.org/details/vocabularioenlen00moli)
 - [Arenas 1611, facsímil](https://archive.org/details/ayer_871_a952_a7_1611)
+- <https://florentinecodex.getty.edu/book/6/folio/142r>
+- <https://archive.org/details/ancientnahuatlpo00brinrich>
 - [Oregon: ameyalli](https://nahuatl.wired-humanities.org/content/ameyalli)
 - [Oregon: tlaneci](https://nahuatl.wired-humanities.org/content/tlaneci)
 - [Oregon: yetlaneci](https://nahuatl.wired-humanities.org/content/yetlaneci)
@@ -130,7 +132,7 @@ de Molina como tarea abierta.
 | Segmentación `a-meya-l-li` completa | glifos consignan el todo, no cada uno |
 | Asimilación `-ltli` a `-lli` | verificada contra bibliografía |
 | `tlanēci` como verbo impersonal | confirmado en el OCR del facsímil |
-| Secuencia `ye tlanēci` | verificada en dos fuentes independientes |
+| Secuencia `ye tlanēci` | confirmada en Brinton; f. 142r descartado |
 | Lema `yetlaneci`, parte 1 de Molina | confirmado en el OCR del facsímil |
 | Lema `yetlaneci`, parte 2 de Molina | confirmado en el OCR del facsímil |
 | Folios exactos (f. 4v, 9r, 36r, 127v) | imágenes exactas cotejadas |
@@ -425,12 +427,26 @@ cosas del campo» y «Palabras que comunmente se suelen dezir nombrando
 diversas cosas». La página citada queda por tanto confirmada directamente
 en el facsímil, sin corrección de contenido en el artículo.
 
+## Cotejo de Brinton y del Códice Florentino
+
+La imagen correspondiente a la página impresa 165 de Brinton (1887), hoja
+digital `n170`, contiene de manera inequívoca la entrada «Tlaneci, v. To
+dawn, to become day. Ye tlaneci, the day breaks». La hoja siguiente lleva
+el número 166, de modo que la paginación no depende de una estimación del
+visor. Esta localización queda confirmada contra el ejemplar completo y
+puede usarse como testimonio directo de la secuencia libre.
+
+El resultado es distinto para el folio 142 recto del libro 6 del Códice
+Florentino. La imagen y la transcripción oficiales del Digital Florentine
+Codex contienen allí «ca ie tlaca, ca ie tlatvi», no `ye tlaneci`; la
+atribución previa confundía el número de página de una edición con la
+foliación del manuscrito. El artículo retira por ello ese folio como
+segundo testimonio y no traslada la frase a otro folio sin una verificación
+independiente. La corrección reduce el número de testigos directos, pero
+evita conservar una localización precisa que el facsímil contradice.
+
 ## Tareas abiertas
 
-1. Cotejar directamente contra facsímil o edición crítica el folio 142
-   recto del Códice Florentino y la página 165 de Brinton (1887), ambos
-   atribuidos a la secuencia «ye tlaneci» por catálogos que no son este
-   trabajo.
 1. Consultar el sitio propio de Alexis Wimmer, inalcanzable en cuatro
    intentos durante tres sesiones de verificación en vivo —incluida una
    sesión en la que el dominio `web.archive.org` completo resultó

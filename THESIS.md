@@ -203,17 +203,15 @@ náhuatl-castellano, folio 127 vuelto, columna 2—, y Siméon (1885) y Wimmer
 está, por tanto, documentada de forma independiente en fuentes separadas
 por más de tres siglos.
 
-La secuencia libre `ye tlanēci` tiene, además, atestiguación textual directa
-y por partida doble **(A)**. El corpus sahaguntino registra la frase
-completa «ie tlaneci ie tlatvi in mjctlan» al describir la llegada del alba
-al inframundo, en un pasaje transmitido en el folio 142 recto de la
-tradición manuscrita conocida por el Códice Florentino (Sahagún,
-1950-1982). De manera independiente, la compilación de poesía náhuatl de
-Brinton (1887) traduce «ye tlaneci» como «the day breaks» en su página 165,
-lo que confirma la secuencia en una segunda fuente ajena al corpus
-sahaguntino. Ninguna de las dos localizaciones procede de un cotejo directo
-del facsímil por parte de este trabajo, sino de catálogos académicos que
-transcriben y referencian los manuscritos correspondientes.
+La secuencia libre `ye tlanēci` cuenta con atestiguación textual directa
+**(A)**. La página 165 del ejemplar completo de Brinton (1887) contiene la
+entrada «Tlaneci, v. To dawn, to become day. Ye tlaneci, the day breaks»,
+cotejada en la imagen y no solo en un catálogo. En cambio, el folio 142
+recto del libro 6 del Códice Florentino dice «ca ie tlaca, ca ie tlatvi» y
+no contiene `ye tlaneci`, según la imagen y la transcripción oficiales del
+Digital Florentine Codex. Esa localización se retira como una confusión
+entre paginación editorial y foliación manuscrita, sin trasladar la frase a
+otro folio por conjetura.
 
 La continuidad del verbo hasta el presente refuerza esta lectura **(A)**. El
 Gran Diccionario Náhuatl (2012) resume atestiguaciones que van de Olmos
