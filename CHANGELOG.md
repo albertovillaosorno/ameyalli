@@ -8,3 +8,4 @@
 - `b85111d` docs(ameyalli): fix orphaned citation and README question marks
 - `6aa7754` docs(ameyalli): verify sources live and add real CDMX name counts
 - `db567a7` docs(ameyalli): pin Molina folios and verify bibliography metadata
+- `b05ea4b` docs(ameyalli): confirm three entries in Molina's own facsimile
