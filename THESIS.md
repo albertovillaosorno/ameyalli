@@ -7,21 +7,24 @@ morfología histórica, la lexicografía colonial y la sociolingüística de la
 revitalización lingüística. El análisis sostiene que ambos componentes
 léxicos pertenecen de manera verificable al náhuatl del centro de México
 documentado en la época colonial, y que incluso la forma univerbada del
-segundo elemento aparece ya como lema en un vocabulario tardocolonial. Lo
-que carece de atestiguación histórica no es el léxico, sino el emparejamiento
-de ambas voces como nombre de una persona. Esa asimetría entre la antigüedad
-del material y la modernidad del uso onomástico es la conclusión central del
-estudio.
+segundo elemento aparece ya como lema en el vocabulario de Molina de 1571.
+Lo que carece de atestiguación histórica no es el léxico, sino el
+emparejamiento de ambas voces como nombre de una persona. Esa asimetría
+entre la antigüedad del material y la modernidad del uso onomástico es la
+conclusión central del estudio.
 
 La primera unidad, *āmēyalli*, es un sustantivo que significa «manantial» o
-«fuente de agua», registrado en la lexicografía del siglo XVII y conservado
+«fuente de agua», registrado en la lexicografía del siglo XVI y conservado
 en el repertorio glífico y toponímico. La segunda, *ye tlanēci*, es una
 oración impersonal cuyo sentido es «ya amanece», y su variante unida
-*yetlaneci* aparece lematizada hacia 1780 con el sentido de «amanecer». La
+*yetlaneci* aparece ya lematizada en 1571 con el sentido de «amanecer». La
 evidencia conductual de los registros modernos muestra que ambas voces
 funcionan como dos nombres de pila independientes al modo hispánico, y no
-como un compuesto. El testimonio decisivo es que el par aparece documentado
-en orden invertido para una misma persona.
+como un compuesto: el testimonio decisivo es que el par aparece documentado
+en orden invertido para una misma persona. Los registros de nacimiento de la
+Ciudad de México, además, muestran que ambos nombres son casi exclusivamente
+femeninos y que su frecuencia no crece hacia el presente, sino que alcanza
+su máximo a mediados de la década de 2000 y decae con claridad después.
 
 **Palabras clave**: náhuatl clásico, onomástica, morfología derivativa,
 difrasismo, antroponimia de revitalización.
@@ -62,7 +65,7 @@ señaladamente el vocabulario de Molina (1571), el de Arenas (1611), las
 gramáticas de Olmos (1547/1993) y de Carochi (1645/2001), y el corpus
 sahaguntino. En un segundo nivel, las afirmaciones se contrastan con la
 lexicografía académica moderna, en particular Siméon (1885), Karttunen
-(1992), Wimmer (2006), Andrews (2003) y Launey (2011), además del Gran
+(1992), Wimmer (2004), Andrews (2003) y Launey (2011), además del Gran
 Diccionario Náhuatl (2012) y su corpus glífico asociado. El uso
 contemporáneo se evalúa por separado, con criterios documentales que no se
 mezclan con la evidencia filológica.
@@ -121,12 +124,15 @@ pregunta abierta.
 
 El primer elemento goza de estatus **(A)**: está atestiguado en el corpus
 colonial como sustantivo común con los sentidos de «manantial», «fuente» u
-«ojo de agua». El vocabulario de Arenas (1611) lo registra con ese valor, y
-Karttunen (1992) lo recoge con marcación explícita de cantidad vocálica. El
-corpus glífico asociado al Gran Diccionario Náhuatl (2012) lo trata además
-como lectura de glifo, lo que confirma su circulación en el repertorio
-gráfico indígena. Su vitalidad como sustantivo común y como base toponímica
-está, en consecuencia, fuera de discusión.
+«ojo de agua». Molina (1571) y Arenas (1611) coinciden en ese valor de
+manera independiente, y Karttunen (1992) lo recoge con marcación explícita
+de cantidad vocálica. El corpus glífico asociado al Gran Diccionario
+Náhuatl (2012) lo trata además como lectura de glifo en varios manuscritos
+—entre ellos Metlaltoyuca, Cuauhtinchan 2 y Totomixtlahuacan—, siempre con
+el sentido de «manantial», lo que confirma su circulación en el repertorio
+gráfico indígena y no solo en la lexicografía alfabética. Su vitalidad como
+sustantivo común y como base toponímica está, en consecuencia, fuera de
+discusión.
 
 La estructura interna se segmenta en cuatro elementos, con una precisión
 metodológica importante. La segmentación `a-meya-l-li` está consignada en el
@@ -181,29 +187,44 @@ inglés, donde el pronombre carece de referente identificable.
 El núcleo verbal es `nēci`, «aparecer», «hacerse visible» o «mostrarse»
 **(A)**. El ensamblaje de `tla-` y `nēci` produce el verbo lexicalizado
 `tlanēci`, que fue el término estándar para «amanecer». Molina (1571) lo
-traduce en términos de esclarecer el día, Siméon (1885) lo clasifica como
-verbo impersonal y Wimmer (2006) lo define como el levantarse del día,
-citando de manera expresa la secuencia `ye tlanêci`. La lexicalización está,
-por tanto, documentada de forma independiente en fuentes separadas por más
-de tres siglos.
+traduce en dos direcciones —«esclarecer el día» y «hazer claro y sereno
+tiempo» en la parte castellano-náhuatl, «hazer claridad o amanecer» en la
+náhuatl-castellano—, y Siméon (1885) y Wimmer (2004) coinciden en
+clasificarlo como verbo impersonal. La lexicalización está, por tanto,
+documentada de forma independiente en fuentes separadas por más de tres
+siglos.
+
+La secuencia libre `ye tlanēci` tiene, además, atestiguación textual directa
+**(A)**. El corpus sahaguntino registra la frase completa «ie tlaneci ie
+tlatvi in mjctlan» al describir la llegada del alba al inframundo, en un
+pasaje transmitido en el folio 142 recto de la tradición manuscrita conocida
+por el Códice Florentino (Sahagún, 1950-1982). No es, por tanto, una
+reconstrucción a partir de piezas sueltas, sino una oración completa
+localizable en un texto concreto. La localización procede del catálogo que
+transcribe el manuscrito, no de un cotejo directo del facsímil.
 
 La continuidad del verbo hasta el presente refuerza esta lectura **(A)**. El
-Gran Diccionario Náhuatl (2012) resume atestiguaciones que van de Molina
-hasta índices tardíos del corpus sahaguntino (Sahagún, 1950-1982). La forma
-sigue viva como verbo de «amanecer» en variantes modernas documentadas, entre
-ellas la de Mecayapan. No se trata, pues, de un arcaísmo recuperado de un
+Gran Diccionario Náhuatl (2012) resume atestiguaciones que van de Olmos
+(1547) y Molina (1571) hasta índices tardíos del corpus sahaguntino y
+gramáticas posteriores como la de Carochi (1645/2001). La forma sigue viva
+como verbo de «amanecer» en variantes modernas documentadas, entre ellas la
+de Mecayapan. No se trata, pues, de un arcaísmo recuperado de un
 diccionario, sino de una pieza léxica con historia continua.
 
 ### La forma univerbada *yetlaneci*
 
-Este apartado corrige una hipótesis inicial de este trabajo y merece
-señalarse como tal. Una primera versión del análisis atribuía la unión de
-`ye` y `tlanēci` en una sola palabra al neonahuatlismo del siglo XX. La
-evidencia documental desmiente esa datación: un vocabulario tardocolonial
-conservado en el fondo mexicano de la Biblioteca Nacional de Francia,
-fechado hacia 1780, registra `yetlaneci` como lema con el significado de
-«amanecer» **(A)**. La univerbación es, por tanto, un proceso atestiguado ya
-en el siglo XVIII y no una invención contemporánea.
+Este apartado corrige dos veces la datación de este trabajo, y ambas
+correcciones merecen señalarse como tales. Una primera versión del análisis
+atribuía la unión de `ye` y `tlanēci` en una sola palabra al neonahuatlismo
+del siglo XX; una segunda versión, tras localizar un lema de 1780 en un
+vocabulario tardocolonial del fondo mexicano de la Biblioteca Nacional de
+Francia, retrasó esa fecha dos siglos. Ninguna de las dos era la más
+temprana disponible: el propio Molina registra `yetlaneci` como entrada
+verbal en 1571, tanto en la parte castellano-náhuatl («amanecer», f. 9r)
+como en la náhuatl-castellano («reír el alba, o amanecer», con el
+pretérito `yeotlanez`) **(A)**. La univerbación es, en consecuencia, un
+proceso atestiguado ya en la primera generación de la lexicografía
+colonial, no una acuñación dieciochesca ni mucho menos moderna.
 
 La consecuencia para la datación general del nombre es precisa y acotada.
 Lo moderno no es la palabra *Yetlanezi* en cuanto forma léxica unida, sino
@@ -276,7 +297,7 @@ ya      OBJ.INDEF-  aparecer.PRS
 
 ye-     tlaneci
 ya-     amanecer
-«amanecer», lema unido documentado hacia 1780              [A]
+«amanecer», lema unido documentado desde 1571 (Molina)      [A]
 ```
 
 Las abreviaturas siguen el uso convencional de la tipología lingüística.
@@ -316,19 +337,27 @@ anterior, `z` ante vocal posterior y `ç` con cedilla. La norma mayoritaria
 para el verbo «aparecer» se consolidó como *nēci*.
 
 La prevalencia moderna de la `z` ante vocal anterior en la forma «Yetlanezi»
-no puede interpretarse como lectura fiel de la fonología histórica **(B)**.
-La documentación colonial escribe de manera sistemática con `c`, tanto en la
-secuencia libre como en el lema unido de 1780. La grafía con `z` es, por
-tanto, una modernización hispanizada de una base documentada de otro modo.
-Su explicación es histórica y estética antes que fonética.
+no puede interpretarse como la norma histórica dominante, aunque tampoco
+carece por completo de precedente colonial **(A)**. La tradición
+lexicográfica principal —Olmos, Molina, Alarcón, Carochi, Clavijero— escribe
+de manera sistemática con `c`, incluida la entrada de `yetlaneci` de 1571.
+Pero un vocabulario más tardío y menos conocido, el de Guerra (1692), registra
+la paleografía `tlanezi` con `z`, lo que demuestra que esa grafía ya existía
+como variante minoritaria dentro del propio periodo colonial y no es una
+invención sin precedente del siglo XX. El estatus de la variante gráfica,
+entonces, debe distinguirse con cuidado del estatus de su predominio: rara
+en la colonia, mayoritaria hoy.
 
-Tres factores convergen en esa preferencia gráfica **(B)**. El primero es la
-inestabilidad ortográfica de la documentación temprana, anterior a la
-fijación normativa del siglo XVII. El segundo es la castellanización de los
-registros civiles, donde escribanos hispanohablantes tendieron a la
-hipercorrección al transcribir voces indígenas. El tercero es la preferencia
-deliberada del neonahuatlismo del siglo XX por las grafías `z`, `x` y `k`,
-percibidas como visualmente más auténticas que las alternativas suaves.
+Tres factores convergen, entonces, en la preferencia gráfica moderna
+**(B)**. El primero es esa variación ortográfica ya presente en la
+documentación colonial, de la que Guerra (1692) es apenas un testimonio
+entre varios. El segundo es la castellanización de los registros civiles,
+donde escribanos hispanohablantes tendieron a la hipercorrección al
+transcribir voces indígenas. El tercero es la preferencia deliberada del
+neonahuatlismo del siglo XX por las grafías `z`, `x` y `k`, percibidas como
+visualmente más auténticas que las alternativas suaves; este tercer factor,
+y no la existencia misma de la grafía con `z`, es lo que sí puede fecharse
+con seguridad en el siglo XX.
 
 Las normas ortográficas oficiales contemporáneas siguen un criterio opuesto.
 Las propuestas de unificación fonémica impulsadas desde las instituciones
@@ -342,12 +371,13 @@ cantidad vocálica y produciría «Āmēyalli ye tlanēci».
 
 | Variante | Época predominante | Estatus |
 | --- | --- | --- |
-| *āmēyalli*, *ameyalli* | siglo XVII en adelante | (A) |
+| *āmēyalli*, *ameyalli* | siglo XVI en adelante | (A) |
 | *Ameyali*, *Amellali* | siglo XX en adelante | (A) |
 | *Ameyaltzin* | siglo XX en adelante | (C) |
 | *tlaneci*, *nēci* | siglo XVI en adelante | (A) |
-| *ye tlanêci* | siglo XVI en adelante | (A) |
-| *yetlaneci* | hacia 1780 en adelante | (A) |
+| *tlanezi* (con `z`) | 1692 en adelante | (A) |
+| *ye tlanēci* | siglo XVI en adelante | (A) |
+| *yetlaneci* (con `c`) | 1571 en adelante | (A) |
 | *Yetlanezi*, *Yetlanesi* | siglo XX en adelante | (B) |
 | *Yetlanextli* | siglo XX en adelante | (C) |
 
@@ -471,47 +501,105 @@ entre un registro y otro, y constituyen la prueba conductual del apartado
 sobre la naturaleza de la unión. El cuadro documenta apariciones y no
 frecuencias, por lo que no debe leerse como una serie demográfica.
 
-## Disponibilidad de datos demográficos
+## Datos demográficos
 
-Este apartado sustituye a una estimación cuantitativa que una versión previa
-de este trabajo llegó a incluir. La revisión de fuentes obligó a retirarla
-por completo, y conviene explicar por qué con claridad. La conclusión
-honesta es que no existe, entre las fuentes públicas verificables, ninguna
-serie que permita contar cuántas personas llevan estos nombres. Presentar
-una curva de adopción en ausencia de esa serie equivale a fabricar datos.
+Una versión previa de este trabajo sostenía que ninguna fuente pública
+permitía contar cuántas personas llevan estos nombres, y presentaba en su
+lugar una tabla de «no disponible» seguida de una explicación de por qué
+fabricar una curva habría sido deshonesto. Una consulta posterior localizó y
+descargó en vivo el recurso completo de esa misma fuente, que sí contiene
+ambos nombres con cifras reales año por año. Esta sección sustituye la tabla
+anterior por esos datos verificados, y documenta con precisión su alcance y
+sus límites para no repetir el error opuesto de sobreinterpretarlos. El
+episodio completo queda registrado en `docs/procedencia-de-fuentes.md`.
 
-El panorama de fuentes es el siguiente **(A)**. El registro nacional de
-población identifica a las personas mediante consulta individual, pero no
-publica un contador agregable por nombre de pila. Las bases nacionales de
-nacimientos disponibles en los portales de datos abiertos recogen variables
-demográficas y de salud, no nombres propios. Las plataformas públicas de
-integración de datos no devuelven fichas indexadas para estos nombres.
+El panorama general de fuentes nacionales sigue siendo el descrito
+originalmente **(A)**. El registro nacional de población identifica a las
+personas mediante consulta individual, pero no publica un contador agregable
+por nombre de pila, y las bases nacionales de nacimientos en los portales de
+datos abiertos recogen variables demográficas y de salud, no nombres
+propios. Las plataformas públicas de integración de datos tampoco devuelven
+fichas indexadas para estos nombres. La única fuente cuantitativa disponible
+sigue siendo, por tanto, de alcance local.
 
-La mejor fuente abierta localizada es de alcance local y no nacional
-**(A)**. El portal de datos abiertos de la Ciudad de México publica los
-nombres registrados en actas del Registro Civil desde el año 2000,
-desagregados por mes, año y alcaldía. Esa base declara un umbral de
-anonimización que elimina los nombres con menos de seis apariciones en un
-mismo mes, año y alcaldía. El umbral es precisamente el mecanismo que vuelve
-invisible a un nombre poco frecuente, de modo que la ausencia de estos
-nombres en la base no permite concluir nada sobre su frecuencia real.
+Esa fuente es el conjunto de datos «Nombres registrados en actas del
+Registro Civil» de la Ciudad de México (Dirección General del Registro
+Civil de la Ciudad de México, 2023), en su recurso «Nombres registrados
+(completa)» **(A)**. El archivo descargado, `nombres_anio_sexo_2000_2023.csv`,
+agrega los nacimientos registrados en la ciudad por año y sexo para
+todo el periodo 2000-2023, sin desagregar por mes ni por alcaldía. Esa
+granularidad es más gruesa que la que el propio portal describe para la
+base completa en su nivel más fino, de modo que el umbral de anonimización
+por mes, año y alcaldía no se aplica necesariamente a los totales anuales
+que aquí se reportan. La descarga y el archivo íntegro pueden reproducirse
+desde el recurso público del propio portal.
 
-| Década de nacimiento | *Ameyalli* | *Yetlanezi* |
+| Año | *Ameyalli* (personas) | *Yetlanezi* (personas) |
 | --- | --- | --- |
-| 1980-1989 | no disponible | no disponible |
-| 1990-1999 | no disponible | no disponible |
-| 2000-2009 | no disponible | no disponible |
-| 2010-2019 | no disponible | no disponible |
-| 2020-2025 | no disponible | no disponible |
+| 2000 | 70 | 19 |
+| 2001 | 38 | 22 |
+| 2002 | 56 | 16 |
+| 2003 | 66 | 14 |
+| 2004 | 79 | 10 |
+| 2005 | 63 | 5 |
+| 2006 | 69 | 9 |
+| 2007 | 67 | 5 |
+| 2008 | 57 | 6 |
+| 2009 | 73 | 6 |
+| 2010 | 54 | 2 |
+| 2011 | 40 | 4 |
+| 2012 | 44 | 0 |
+| 2013 | 49 | 0 |
+| 2014 | 34 | 2 |
+| 2015 | 38 | 0 |
+| 2016 | 47 | 2 |
+| 2017 | 20 | 3 |
+| 2018 | 31 | 1 |
+| 2019 | 35 | 1 |
+| 2020 | 23 | 2 |
+| 2021 | 22 | 1 |
+| 2022 | 11 | 2 |
+| 2023 | 2 | 0 |
+| **Total** | **1088** | **132** |
 
-No se incluye ninguna gráfica de frecuencia por la misma razón. Dibujar
-ceros fabricaría una ausencia numérica que las fuentes no autorizan, y
-dibujar una tendencia fingiría una medición que no se realizó. Lo único que
-puede afirmarse con respaldo documental es un mínimo: existe evidencia
-pública de uso de *Ameyalli* como nombre personal al menos en una persona
-nacida en 1986, y evidencia de personas vivas que hoy portan ambos nombres.
-Un mínimo documental no es un conteo, y este trabajo no lo presenta como
-tal.
+```text
+Personas registradas por quinquenio, Ciudad de México, 2000-2023
+
+              Ameyalli                    Yetlanezi
+2000-2004     ################# 309       ##### 81
+2005-2009     ################## 329      ## 31
+2010-2014     ############ 221            1 8
+2015-2019     ######### 171               1 7
+2020-2023     ### 58                      1 5
+```
+
+Tres hechos se desprenden de la serie, y los tres son verificables volviendo
+a descargar el mismo archivo **(A)**. El primero es de escala: *Ameyalli*
+supera con claridad a *Yetlanezi* en cada año del periodo, en una proporción
+cercana a ocho veces más registros acumulados, lo que confirma con cifras
+la asimetría que el resto del artículo describía solo de forma cualitativa.
+El segundo es de sexo: 1087 de los 1088 registros de *Ameyalli* corresponden
+a mujeres, y 124 de los 132 de *Yetlanezi* también, de modo que ambos
+nombres son, en la práctica, casi exclusivamente femeninos en este periodo.
+El tercero contradice una expectativa razonable: ninguno de los dos nombres
+muestra una curva ascendente hacia el presente, sino que ambos alcanzan su
+máximo a mediados de la década de 2000 y descienden de manera sostenida
+hasta cifras mínimas en 2022 y 2023, un patrón de declive y no de expansión
+continua del neonahuatlismo onomástico dentro de esta ciudad y este periodo
+concretos.
+
+Conviene ser preciso sobre lo que estos números no permiten afirmar
+**(B)**. Cubren solo nacimientos registrados en la Ciudad de México, no el
+resto del país ni la diáspora, de modo que no son una cifra nacional. Cuentan
+personas por nombre de pila, y el propio portal advierte que un individuo con
+más de un nombre de pila se cuenta una vez en cada nombre que porta, así que
+esta serie no distingue cuántas de las 132 personas con *Yetlanezi* llevan
+también *Ameyalli* como el binomio completo estudiado en este artículo. La
+serie tampoco cubre nacimientos anteriores a 2000, por lo que no dice nada
+sobre el origen del nombre en las décadas de 1970 a 1990 que la sección
+histórica atribuye al movimiento de la mexicanidad, y con esas salvedades es
+la mejor evidencia cuantitativa disponible, que sustituye con propiedad a la
+declaración de indisponibilidad de la versión anterior.
 
 ## Etimología popular y resemantización
 
@@ -622,9 +710,10 @@ El examen permite responder con precisión a las preguntas planteadas. Ambos
 componentes pertenecen al náhuatl central documentado en época colonial:
 *āmēyalli* como sustantivo que designa un manantial, y `ye tlanēci` como
 oración impersonal que significa «ya amanece» **(A)**. La forma unida
-*yetlaneci* está lematizada hacia 1780, de modo que la univerbación es un
-proceso colonial tardío y no una invención del siglo XX. La grafía moderna
-con `z` sí es una adaptación contemporánea.
+*yetlaneci* está lematizada ya en Molina (1571), de modo que la univerbación
+es un proceso de la primera lexicografía colonial y no una invención del
+siglo XX. La grafía con `z` tiene un precedente colonial minoritario en
+Guerra (1692), pero su predominio actual sí es una preferencia contemporánea.
 
 La unión de ambas voces no es un compuesto ni una aposición, sino una
 secuencia de dos nombres de pila al modo hispánico **(A)**. La prueba es que
@@ -633,6 +722,17 @@ existe evidencia de que la combinación se usara como nombre personal antes
 del periodo contemporáneo, y las atestiguaciones públicas localizadas
 comienzan en la segunda década del siglo XXI **(B)**. Su estructura, además,
 contradice los tres patrones antroponímicos nahuas conocidos.
+
+El único dato cuantitativo verificado de este trabajo añade un matiz que
+ninguna de las fuentes previas anticipaba **(A)**. Los registros de
+nacimiento de la Ciudad de México entre 2000 y 2023 muestran ambos nombres
+en uso casi exclusivamente femenino, con un máximo a mediados de la década
+de 2000 seguido de un descenso sostenido hasta cifras mínimas en 2022 y
+2023. La imagen popular de una revitalización nahua en expansión continua
+no se sostiene, al menos para estos dos nombres y en esta ciudad concreta,
+frente a la evidencia de una moda onomástica que crece, alcanza un pico y
+declina como cualquier otra. Ese hallazgo pertenece al plano demográfico y
+no afecta la datación filológica establecida en los apartados anteriores.
 
 Conviene cerrar con una precisión que evite lecturas indebidas. Señalar que
 un uso es moderno no lo descalifica ni lo vuelve menos legítimo para quien
@@ -658,6 +758,10 @@ Canger, U. (1988). Nahuatl dialectology: A survey and some suggestions.
 Carochi, H. (2001). *Grammar of the Mexican language with an explanation of
 its adverbs* (J. Lockhart, ed. y trad.). Stanford University Press. (Obra
 original publicada en 1645).
+
+Dirección General del Registro Civil de la Ciudad de México. (2023).
+*Nombres registrados en actas del Registro Civil* [conjunto de datos].
+Portal de Datos Abiertos de la Ciudad de México.
 
 De la Peña, F. (2002). *Los hijos del sexto sol: Un estudio
 etnopsicoanalítico del movimiento de la mexicanidad*. Instituto Nacional de
@@ -704,4 +808,7 @@ School of American Research y University of Utah Press.
 Siméon, R. (1885). *Dictionnaire de la langue nahuatl ou mexicaine*.
 Imprimerie Nationale.
 
-Wimmer, A. (2006). *Dictionnaire de la langue nahuatl classique*.
+Wimmer, A. (2004). *Dictionnaire de la langue nahuatl classique*. Entradas
+consultadas a través del catálogo del Gran Diccionario Náhuatl (2012), que
+data la edición electrónica en 2004; el sitio original del autor no pudo
+consultarse de forma directa para este trabajo.

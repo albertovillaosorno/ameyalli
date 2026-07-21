@@ -90,18 +90,21 @@ de Molina como tarea abierta.
 
 | Afirmación | Estado |
 | --- | --- |
-| Valor léxico de *āmēyalli* | atestiguado en ambos informes |
-| Segmentación `a-meya-l-li` | consignada, sin glosa por morfema |
+| Valor léxico de *āmēyalli* | verificado en vivo, GDN: Molina y Arenas |
+| Segmentación `a-meya-l-li` | verificada en vivo, glifos de Tlachia |
 | Asimilación `-ltli` a `-lli` | verificada contra bibliografía |
-| `tlanēci` como verbo impersonal | atestiguado en ambos informes |
-| Secuencia `ye tlanēci` | atestiguada, folio exacto pendiente |
-| Lema `yetlaneci` hacia 1780 | atestiguado en un informe |
+| `tlanēci` como verbo impersonal | verificado en vivo, GDN: Molina, Siméon |
+| Secuencia `ye tlanēci` | verificada en vivo, Códice Florentino f. 142r |
+| Lema `yetlaneci` desde 1571 | verificado en vivo, GDN: Molina f. 9r |
+| *tlanezi* con `z` en 1692 | verificado en vivo, GDN: Guerra |
+| Año de la edición de Wimmer | corregido de 2006 a 2004, GDN |
 | *tlanextli* como «luz, claridad» | atestiguado en Molina |
 | Orden invertido del par | atestiguado en registros públicos |
-| Entrada de Molina para *ameyalli* | pendiente de cotejo |
+| Entrada de Molina para *ameyalli* | verificada en vivo, GDN |
 | Ausencia del binomio antes de 1900 | búsqueda no exhaustiva |
 | Cronología del neonahuatlismo | verificada contra bibliografía |
-| Frecuencia demográfica | no disponible en fuentes abiertas |
+| Frecuencia demográfica (CDMX, 2000-2023) | verificada, descarga oficial |
+| Frecuencia demográfica nacional | sigue no disponible |
 
 ## Material descartado
 
@@ -161,13 +164,113 @@ explícito el respaldo que ya estaba implícito en la prosa. Ese es precisamente
 el tipo de defecto que una auditoría de higiene bibliográfica debe encontrar
 antes que un lector.
 
+## Verificación directa contra el Gran Diccionario Náhuatl
+
+Una sesión posterior consultó en vivo el catálogo del Gran Diccionario
+Náhuatl de la UNAM (`gdn.iib.unam.mx`), que reúne las entradas de Molina,
+Olmos, Carochi, Arenas, Guerra, Alarcón, Clavijero, dos manuscritos del
+fondo mexicano de la Biblioteca Nacional de Francia y el diccionario en
+línea de Wimmer, entre otros. El objetivo era dejar de depender por completo
+de los dos informes de investigación asistida para las afirmaciones más
+cargadas de consecuencias, y cotejarlas contra el catálogo de fuentes
+primarias que esa plataforma agrega. La sesión produjo tres correcciones
+sustantivas, todas a favor de una datación más temprana o de una atribución
+más precisa que la que tenía el artículo hasta ese momento. Se documentan a
+continuación en orden de importancia para el argumento central.
+
+La primera y más importante: `yetlaneci` no aparece por primera vez hacia
+1780, como sostenía la versión anterior del artículo, sino en el propio
+Molina de 1571, con entrada verbal en ambas direcciones del vocabulario
+—«amanecer» en la parte castellano-náhuatl, folio 9r; «reír el alba, o
+amanecer», con el pretérito `yeotlanez`, en la náhuatl-castellano—. La
+univerbación de `ye` y `tlanēci` no es, por tanto, un fenómeno del siglo
+XVIII, sino un lema presente ya en la primera generación de la lexicografía
+colonial. El artículo, el resumen ejecutivo, la glosa interlineal, la tabla
+de variantes y las conclusiones se corrigieron para reflejar esta fecha. La
+corrección hace más fuerte, no más débil, el argumento original: la
+univerbación es aún más antigua de lo que el trabajo llegó a afirmar.
+
+La segunda: la secuencia libre `ye tlanēci` tiene una atestiguación textual
+localizable y no solo lexicográfica. El catálogo de Temoa, vinculado al
+mismo repositorio, ubica la frase «ie tlaneci ie tlatvi in mjctlan» en el
+folio 142 recto de la tradición manuscrita del Códice Florentino, en un
+pasaje sobre la llegada del alba al inframundo. Esta es, hasta donde llega
+la verificación de este trabajo, la localización más precisa disponible de
+esa secuencia en un texto corrido; no se afirma haber cotejado directamente
+el facsímil, sino el catálogo que lo transcribe y referencia. El artículo
+incorpora ahora esa referencia de folio en el cuerpo del texto.
+
+La tercera afecta a la grafía con `z`. El artículo sostenía que la
+documentación colonial escribía `tlaneci` de manera sistemática con `c`, y
+que la `z` era una preferencia exclusivamente moderna. La paleografía
+catalogada para el vocabulario de Guerra (1692) registra, en cambio, la
+forma `tlanezi` con `z`. La afirmación se corrigió: la grafía con `z` tiene
+un precedente colonial minoritario, aunque su predominio actual sí sea una
+preferencia del neonahuatlismo del siglo XX.
+
+Se corrigió además el año de la edición de Wimmer citada en la bibliografía,
+de 2006 a 2004, siguiendo la datación que el propio catálogo del GDN
+atribuye a esa obra. Una afirmación previa del artículo no pudo confirmarse
+con esta consulta y se retiró por prudencia: el texto sostenía que Wimmer
+citaba de manera expresa la secuencia `ye tlanêci` en su entrada de
+`tlaneci`, pero el fragmento capturado durante la consulta no mostraba esa
+cita, solo la definición general del verbo como impersonal. No poder
+confirmar una afirmación no es lo mismo que refutarla, y el sitio propio de
+Wimmer no pudo consultarse directamente en esta sesión. El criterio de este
+documento, sin embargo, es no mantener una cita que no se pudo ver con los
+propios ojos.
+
+## Recuperación de datos demográficos reales
+
+La misma sesión localizó el recurso descargable exacto del conjunto de datos
+que el artículo ya mencionaba de forma genérica, y lo descargó para
+comprobar si contenía de verdad los dos nombres estudiados. El resultado
+obligó a retirar la tabla de «no disponible» que una versión anterior
+mantenía por prudencia: ambos nombres sí aparecen, con cifras concretas por
+año, y la sección demográfica de `THESIS.md` se reescribió por completo con
+esos datos. El recurso exacto es `nombres_anio_sexo_2000_2023.csv`, dentro
+del conjunto «Nombres registrados en actas del Registro Civil» del Portal
+de Datos Abiertos de la Ciudad de México, recurso «Nombres registrados
+(completa)», con última actualización declarada del 3 de marzo de 2023.
+Cualquier persona puede repetir la descarga y comprobar cada cifra citada
+en `THESIS.md`.
+
+Dos precisiones metodológicas quedan documentadas en el artículo y se
+repiten aquí porque son fáciles de perder de vista. El archivo descargado
+agrega los nacimientos por año y sexo para toda la Ciudad de México, sin
+desagregar por mes ni por alcaldía, que es una granularidad más gruesa que
+la descrita en la página del conjunto de datos para su nivel más fino. El
+umbral de anonimización que el portal declara —eliminar los nombres con
+menos de seis apariciones en un mismo mes, año y alcaldía— por tanto no
+puede aplicarse sin más a los totales anuales agregados que aquí se citan,
+y no hay garantía de que el archivo descargado sea la única versión posible
+de esa base. Tampoco cubre nacimientos ocurridos fuera de la Ciudad de
+México, ni personas registradas en otra entidad que luego residan en ella.
+
+El hallazgo más importante para el argumento del artículo es que ninguno de
+los dos nombres muestra la curva de crecimiento continuo que la sección
+histórica, apoyada en la cronología del movimiento de la mexicanidad,
+podría sugerir de manera implícita. Ambos alcanzan su máximo hacia 2004-2009
+y decaen con claridad hasta 2023. Esa asimetría entre una narrativa
+histórica de expansión y un dato demográfico de declive reciente no se
+oculta ni se resuelve en el artículo: se reporta tal como aparece, porque
+resolverla exigiría datos que este trabajo no tiene. Una explicación
+plausible pero no verificada es que la moda onomástica local haya cedido
+terreno frente a otras formas de revitalización nahua más recientes.
+
 ## Tareas abiertas
 
-1. Cotejar la entrada de *ameyalli* en los vocabularios de Molina de 1571 y
-   de Arenas de 1611 contra ediciones facsimilares, con folio.
-1. Localizar y citar con folio los pasajes donde aparece la secuencia
-   `ye tlanēci`, y la entrada del lema `yetlaneci` en el manuscrito
-   tardocolonial.
+1. Cotejar directamente contra facsímil las entradas ya localizadas en el
+   catálogo del GDN: *ameyalli* en Molina (1571) y Arenas (1611), y
+   `yetlaneci` en Molina (1571, f. 9r). El catálogo transcribe; el facsímil
+   confirma.
+1. Cotejar directamente contra facsímil o edición crítica del Códice
+   Florentino el folio 142 recto que el catálogo de Temoa atribuye a la
+   secuencia «ie tlaneci ie tlatvi in mjctlan».
+1. Consultar el sitio propio de Alexis Wimmer (no accesible durante la
+   sesión de verificación en vivo) para confirmar de manera directa la
+   definición de `tlanēci` y determinar si contiene o no la secuencia de
+   ejemplo `ye tlanêci`, actualmente retirada del artículo por prudencia.
 1. Establecer la referencia bibliográfica completa del estudio arqueológico
    sobre el glifo de Amealco.
 1. Ejecutar una búsqueda sistemática del binomio y de cada elemento por

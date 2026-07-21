@@ -78,8 +78,8 @@ manantial.
 
 «Ya amanece». Se compone del adverbio `ye` («ya») y del verbo impersonal
 `tlanēci` («amanecer», literalmente «hacerse visibles las cosas»). La forma
-unida *yetlaneci* aparece ya como entrada de diccionario hacia 1780, con el
-sentido de «amanecer».
+unida *yetlaneci* ya aparece como entrada de diccionario en el vocabulario de
+Molina de 1571, con el sentido de «amanecer».
 
 ### ¿Es un nombre prehispánico?
 
@@ -137,7 +137,7 @@ evidencia, donde `A` es atestiguado, `B` inferido y `C` especulativo.
   "es_compuesto_nahuatl": false,
   "es_antroponimo_prehispanico": false,
   "primera_atestiguacion_como_nombre": "siglo XXI en registros públicos",
-  "lema_unido_yetlaneci_documentado": "hacia 1780",
+  "lema_unido_yetlaneci_documentado": "desde 1571, Molina",
   "significados_falsos_frecuentes": [
     "fuente de la sabiduría",
     "aurora boreal",
@@ -182,9 +182,9 @@ corrected, or argued with.
 
 The study reaches a two-part conclusion. Both lexical elements are securely
 Nahuatl of colonial central Mexico, and the fused form of the second one is
-already recorded as a dictionary entry around 1780; what has no documented
-precedent is the pairing of the two as the name of a person, which the
-public record only shows from the twenty-first century onward.
+already a dictionary entry in Molina's 1571 vocabulary; what has no
+documented precedent is the pairing of the two as the name of a person,
+which the public record only shows from the twenty-first century onward.
 
 ## Layout
 
@@ -222,11 +222,12 @@ this point onward is in English, as the entry point for a general audience.
 
 Structural claims — morpheme segmentation, the impersonal reading of the
 verb, the absence of the pair from the colonial record as a personal name,
-and the late-colonial dating of the fused lemma — rest on grammatical facts
-described in the cited literature. Citations are given in APA 7 without
-URLs, by editorial choice. Page-level and folio-level verification against
-the primary editions is still outstanding and is tracked in
-`docs/procedencia-de-fuentes.md`.
+and the dating of the fused lemma to Molina's 1571 vocabulary — rest on
+grammatical facts described in the cited literature, several of them checked
+directly against the Gran Diccionario Náhuatl's primary-source catalogue.
+Citations are given in APA 7 without URLs, by editorial choice. Some
+folio-level verification against facsimile editions is still outstanding and
+is tracked in `docs/procedencia-de-fuentes.md`.
 
 Corrections are welcome, particularly from readers with access to
 digitised notarial corpora in Nahuatl. The most valuable possible
