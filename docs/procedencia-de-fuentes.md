@@ -133,7 +133,7 @@ de Molina como tarea abierta.
 | Secuencia `ye tlanēci` | verificada en dos fuentes independientes |
 | Lema `yetlaneci`, parte 1 de Molina | confirmado en el OCR del facsímil |
 | Lema `yetlaneci`, parte 2 de Molina | confirmado en el OCR del facsímil |
-| Folios exactos (f. 4v, 9r, 36r, 127v) | de catálogo; folio no visto a ojo |
+| Folios exactos (f. 4v, 9r, 36r, 127v) | imágenes exactas cotejadas |
 | Edición príncipe de Arenas usada | confirmada, Newberry Library, 1611 |
 | *tlanezi* con `z` en 1692 | verificado en vivo, GDN: Guerra |
 | Año de la edición de Wimmer | corregido de 2006 a 2004, GDN |
@@ -385,16 +385,17 @@ traducciones sinónimas, junto con `tlahuizcalli moquetza` y otras. Las
 cuatro coincidencias se produjeron sin ajustar ni una palabra de lo que
 este trabajo ya había citado a partir de los catálogos de terceros.
 
-Esta verificación tiene un límite honesto que conviene declarar. El
-reconocimiento óptico de una tipografía gótica de 1571 es propenso a
-errores, y lo que se confirmó es que la cadena de texto existe en el
-documento digitalizado, no que el número de folio impreso en esa página
-coincida visualmente con el que los catálogos reportan. Cerrar esa
-distancia exigiría abrir la imagen de la página exacta y leer el folio a
-simple vista, tarea que esta sesión no completó por restricciones de
-tiempo. Con esa salvedad, la tarea de cotejo contra facsímil pasa de
-pendiente a parcialmente resuelta para *ameyalli*, `tlaneci` y
-`yetlaneci`.
+Una cuarta sesión abrió las imágenes exactas y cotejó la entrada con la
+foliación material, sin depender de la capa OCR. En el visor de Internet
+Archive corresponden a `n267` para *ameyalli* (f. 4v), `n28` para
+`yetlaneci` bajo «Amanecer» (f. 9r), `n330` para la entrada `Yetlaneci`
+(f. 36r) y `n513` para `Tlaneci` (f. 127v). Las cifras marginales de este
+ejemplar son muy tenues, de modo que la comprobación se apoyó también en
+la secuencia recto-vuelto de las hojas contiguas y en la distancia exacta
+entre los cuatro puntos; los errores de foliación declarados por el
+catálogo afectan otros folios. La ubicación citada queda confirmada, pero
+se conserva esta reserva sobre la baja legibilidad de varios numerales en
+la reproducción digital.
 
 ## Cotejo directo contra el facsímil de Arenas
 
@@ -416,27 +417,16 @@ La búsqueda en la capa OCR localizó *ameyalli* en dos listas temáticas
 distintas del volumen, con variantes de reconocimiento propias de una
 tipografía de 1611: «ameyall1» junto a «camino» y «arroyo», en una lista de
 cosas del campo, y «ameya alli los uranantiales» —donde el OCR confunde la
-`m` con `ur`— en una lista de palabras comunes, en la página impresa 143.
-Ambos contextos coinciden con los que el catálogo del GDN ya atribuía a
-Arenas, «Nombres de cosas del campo» y «Palabras que comunmente se suelen
-dezir nombrando diversas cosas», sin que este trabajo tuviera que ajustar
-ninguna cita para lograr la coincidencia. La tarea de cotejar a Arenas
-contra su propio facsímil, pendiente desde la ronda anterior, queda así
-resuelta en el mismo sentido parcial que la de Molina: la cadena de texto
-está confirmada, y la lectura visual del folio impreso sigue pendiente. El
-artículo no necesitó ninguna corrección de contenido tras este cotejo,
-solo la incorporación de un respaldo más firme para una cita que ya
-llevaba.
+`m` con `ur`— en una lista de palabras comunes. La imagen exacta `n298`
+muestra en el margen superior el número impreso 143 y, en el cuerpo de la
+página, la secuencia correspondiente a «los manantiales». Ambos contextos
+coinciden con los que el catálogo del GDN atribuía a Arenas, «Nombres de
+cosas del campo» y «Palabras que comunmente se suelen dezir nombrando
+diversas cosas». La página citada queda por tanto confirmada directamente
+en el facsímil, sin corrección de contenido en el artículo.
 
 ## Tareas abiertas
 
-1. Abrir la imagen exacta de cada folio en los escaneos ya localizados de
-   Internet Archive —Molina, `archive.org/details/vocabularioenlen00moli`,
-   y Arenas, `archive.org/details/ayer_871_a952_a7_1611`— y leer a simple
-   vista el número impreso, para cerrar la distancia entre «la cadena de
-   texto existe en el OCR del facsímil» y «el folio o página citados son
-   los correctos». Aplica a *ameyalli* (Molina f. 4v; Arenas p. 143),
-   `tlaneci` (f. 127v) y `yetlaneci` (f. 9r y f. 36r).
 1. Cotejar directamente contra facsímil o edición crítica el folio 142
    recto del Códice Florentino y la página 165 de Brinton (1887), ambos
    atribuidos a la secuencia «ye tlaneci» por catálogos que no son este
