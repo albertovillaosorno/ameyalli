@@ -300,8 +300,77 @@ etymology that the paper documents in order to reject it. Citing a **(C)**
 claim as though it were established would reproduce exactly the error this
 work exists to correct.
 
-Suggested form: Villa Osorno, A. (2026). *Análisis morfosintáctico e
-histórico del antropónimo «Ameyalli Yetlanezi»*. Repositorio Ameyalli.
+A machine-readable [`CITATION.cff`](CITATION.cff) sits at the repository
+root, in the format GitHub itself reads to generate a "Cite this
+repository" button on the repository page. The forms below are the same
+citation rendered by hand in four common styles, for readers whose tooling
+does not read CFF files.
+
+### APA 7
+
+```text
+Villa Osorno, A. (2026, July 21). Análisis morfosintáctico e histórico
+    del antropónimo «Ameyalli Yetlanezi». GitHub.
+    https://github.com/albertovillaosorno/ameyalli
+```
+
+### MLA 9
+
+```text
+Villa Osorno, Alberto. "Análisis Morfosintáctico e Histórico del
+    Antropónimo «Ameyalli Yetlanezi»." GitHub, 21 July 2026,
+    github.com/albertovillaosorno/ameyalli.
+```
+
+### Chicago (author-date, 17th ed.)
+
+```text
+Villa Osorno, Alberto. 2026. "Análisis Morfosintáctico e Histórico
+    del Antropónimo «Ameyalli Yetlanezi»." GitHub. July 21, 2026.
+    https://github.com/albertovillaosorno/ameyalli.
+```
+
+### BibTeX
+
+```bibtex
+@misc{villaosorno2026ameyalli,
+  author    = {Villa Osorno, Alberto},
+  title     = {An{\'a}lisis morfosint{\'a}ctico e hist{\'o}rico del
+               antrop{\'o}nimo {\guillemotleft}Ameyalli
+               Yetlanezi{\guillemotright}},
+  year      = {2026},
+  month     = jul,
+  publisher = {GitHub},
+  url       = {https://github.com/albertovillaosorno/ameyalli}
+}
+```
+
+`Villa Osorno` is one compound Spanish surname, not a given name followed
+by a second surname, so it stays together as the family-name element in
+every style above; splitting it at the space would misfile the citation
+under `Osorno`.
+
+## Linking to one exact section on GitHub
+
+GitHub turns every Markdown heading into a jump target automatically: it
+lowercases the heading, drops punctuation such as «», ¿, and colons, and
+replaces spaces with hyphens, while keeping accented letters as they are.
+Appending `#that-slug` to a file's GitHub URL opens the file already
+scrolled to that heading, which is useful for pointing someone straight at
+one claim instead of the top of a 700-line document.
+
+```text
+https://github.com/albertovillaosorno/ameyalli/blob/main/THESIS.md#resumen
+https://github.com/albertovillaosorno/ameyalli/blob/main/THESIS.md#datos-demográficos
+https://github.com/albertovillaosorno/ameyalli/blob/main/THESIS.md#conclusiones
+```
+
+As a Markdown link, the same targets look like this:
+
+```markdown
+[Resumen](https://github.com/albertovillaosorno/ameyalli/blob/main/THESIS.md#resumen)
+[Datos demográficos](https://github.com/albertovillaosorno/ameyalli/blob/main/THESIS.md#datos-demográficos)
+```
 
 ## License
 

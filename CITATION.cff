@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use or refer to this work, please cite it as below."
+title: "Análisis morfosintáctico e histórico del antropónimo «Ameyalli Yetlanezi»"
+type: generic
+authors:
+  - family-names: "Villa Osorno"
+    given-names: "Alberto"
+date-released: "2026-07-21"
+url: "https://github.com/albertovillaosorno/ameyalli"
+repository-code: "https://github.com/albertovillaosorno/ameyalli"
+license: MIT
+abstract: >-
+  A philological study of the compound personal name "Ameyalli Yetlanezi":
+  the Classical Nahuatl origin of each element, the colonial lexicographic
+  attestation of the fused second element, and the twenty-first-century
+  origin of the pairing as a personal name, verified against primary
+  colonial dictionaries and a Mexico City civil-registry dataset.
+keywords:
+  - nahuatl
+  - onomastics
+  - anthroponymy
+  - historical linguistics
+  - philology

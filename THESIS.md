@@ -620,9 +620,9 @@ Fuera del ámbito lexicográfico circula un conjunto de traducciones libres
 que conviene documentar y clasificar, no por afán polémico sino porque
 constituyen el grueso de lo que un lector encuentra al buscar el nombre.
 Todas comparten un mecanismo: parten de una base auténtica y la embellecen,
-la moralizan o la misticifican hasta presentar la paráfrasis como
-etimología. Las cuatro más difundidas se examinan a continuación. Todas
-reciben estatus **(C)**.
+la moralizan o la mitifican hasta presentar la paráfrasis como etimología.
+Las cuatro más difundidas se examinan a continuación. Todas reciben
+estatus **(C)**.
 
 La primera sostiene que *Ameyalli* significa «fuente de la sabiduría». La
 mitad correcta es «fuente»; el añadido «de la sabiduría» no está en ningún
