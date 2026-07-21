@@ -90,14 +90,15 @@ de Molina como tarea abierta.
 
 | Afirmación | Estado |
 | --- | --- |
-| Valor léxico de *āmēyalli* | verificado en vivo, GDN y WHP: Molina f. 4v |
+| Valor léxico de *āmēyalli* | confirmado en el OCR del facsímil de 1571 |
 | Raíces `ā-tl` y `mēy(a)` de *āmēyalli* | verificadas, cruce en Karttunen |
 | Segmentación `a-meya-l-li` completa | glifos consignan el todo, no cada uno |
 | Asimilación `-ltli` a `-lli` | verificada contra bibliografía |
-| `tlanēci` como verbo impersonal | verificado en vivo, Molina f. 127v |
+| `tlanēci` como verbo impersonal | confirmado en el OCR del facsímil |
 | Secuencia `ye tlanēci` | verificada en dos fuentes independientes |
-| Lema `yetlaneci`, parte 1 de Molina | verificado en vivo, GDN: f. 9r |
-| Lema `yetlaneci`, parte 2 de Molina | verificado en vivo, WHP: f. 36r |
+| Lema `yetlaneci`, parte 1 de Molina | confirmado en el OCR del facsímil |
+| Lema `yetlaneci`, parte 2 de Molina | confirmado en el OCR del facsímil |
+| Folios exactos (f. 4v, 9r, 36r, 127v) | de catálogo; folio no visto a ojo |
 | *tlanezi* con `z` en 1692 | verificado en vivo, GDN: Guerra |
 | Año de la edición de Wimmer | corregido de 2006 a 2004, GDN |
 | *tlanextli* como «luz, claridad» | atestiguado en Molina |
@@ -317,12 +318,57 @@ exigió, por tanto, corregir una sola palabra del cuerpo del artículo.
 Quedan, no obstante, sin verificar los números de página internos de
 varias de esas obras.
 
+## Cotejo directo contra el facsímil de Molina
+
+La tarea abierta más citada en las rondas anteriores era cotejar los
+folios ya localizados contra el facsímil, en lugar de confiar en la
+transcripción de un catálogo. Una tercera sesión localizó el escaneo
+íntegro del *Vocabulario* de 1571 en Internet Archive, a partir del
+ejemplar de la John Carter Brown Library
+(`archive.org/details/vocabularioenlen00moli`), con datos de publicación
+—«En Mexico: En casa de Antonio de Spinosa», 1571— que coinciden con la
+entrada bibliográfica ya escrita. El propio catálogo de Internet Archive
+advierte errores de foliación conocidos en las páginas 74-79 de ambas
+partes, que no afectan a ninguno de los folios citados en este trabajo.
+Ese aviso, en sí mismo, es un indicio de que el catálogo describe el
+volumen físico con cuidado y no de manera automática.
+
+El sitio no ofrece búsqueda interna indexada para este ejemplar, así que la
+verificación se hizo descargando la capa de texto reconocido por OCR
+(`vocabularioenlen00moli_djvu.txt`) y localizando cada entrada dentro de
+ella. El resultado confirma, con las palabras exactas y no solo con el
+sentido general, tres entradas que este trabajo ya citaba a partir de
+catálogos de terceros: «Fuente manantial. ameyalli. atl moloni.» en la
+parte castellano-náhuatl; «Yetlaneci. reir el alua, o amanecer. Preterito.
+yeotlanez.» como entrada propia en la parte náhuatl-castellano; y
+«Tlaneci. hazer claridad o amanecer. Preterito. otlanez.», también en esa
+segunda parte. La entrada «Amanecer» de la parte castellano-náhuatl
+confirma además que `yetlaneci` aparece ahí como una de varias
+traducciones sinónimas, junto con `tlahuizcalli moquetza` y otras. Las
+cuatro coincidencias se produjeron sin ajustar ni una palabra de lo que
+este trabajo ya había citado a partir de los catálogos de terceros.
+
+Esta verificación tiene un límite honesto que conviene declarar. El
+reconocimiento óptico de una tipografía gótica de 1571 es propenso a
+errores, y lo que se confirmó es que la cadena de texto existe en el
+documento digitalizado, no que el número de folio impreso en esa página
+coincida visualmente con el que los catálogos reportan. Cerrar esa
+distancia exigiría abrir la imagen de la página exacta y leer el folio a
+simple vista, tarea que esta sesión no completó por restricciones de
+tiempo. Con esa salvedad, la tarea de cotejo contra facsímil pasa de
+pendiente a parcialmente resuelta para *ameyalli*, `tlaneci` y
+`yetlaneci`.
+
 ## Tareas abiertas
 
-1. Cotejar directamente contra facsímil las entradas ya localizadas en dos
-   catálogos independientes (GDN y el diccionario de Oregon): *ameyalli*
-   en Molina (1571, f. 4v) y Arenas (1611), y `yetlaneci` en Molina
-   (1571, f. 9r y f. 36r). Los catálogos transcriben; el facsímil confirma.
+1. Abrir la imagen exacta de cada folio en el escaneo de Internet Archive
+   (`archive.org/details/vocabularioenlen00moli`) y leer a simple vista el
+   número impreso, para cerrar la distancia entre «la cadena de texto
+   existe en el OCR del facsímil» y «el folio citado es el correcto».
+   Aplica a *ameyalli* (f. 4v), `tlaneci` (f. 127v) y `yetlaneci` (f. 9r
+   y f. 36r).
+1. Repetir el mismo cotejo para Arenas (1611), cuyo facsímil aún no se ha
+   localizado ni descargado.
 1. Cotejar directamente contra facsímil o edición crítica el folio 142
    recto del Códice Florentino y la página 165 de Brinton (1887), ambos
    atribuidos a la secuencia «ye tlaneci» por catálogos que no son este
