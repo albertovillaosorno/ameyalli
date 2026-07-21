@@ -1,0 +1,45 @@
+# ==============================================================================
+# Operating system and editor noise
+# ==============================================================================
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+*.bak
+*.tmp
+*.swp
+*~
+
+# ==============================================================================
+# Secrets and local environment
+# ==============================================================================
+.env
+.env.*
+*.secret
+*.secrets
+*.key
+*.pem
+
+# ==============================================================================
+# Generated and temporary state
+# ==============================================================================
+cache/
+temp/
+tmp/
+dist/
+node_modules/
+
+# ==============================================================================
+# Operator-local validation surface
+# These files invoke or configure a private orchestrator outside this
+# repository. They stay local and are never published.
+# ==============================================================================
+validate.sh
+validate.ps1
+.editorconfig
+.markdownlint-cli2.jsonc
+.rustfmt.toml
+.clang-tidy
+clippy-rust-lint.toml
+pyproject.toml
+schoenwald.toml
