@@ -10,3 +10,4 @@
 - `db567a7` docs(ameyalli): pin Molina folios and verify bibliography metadata
 - `b05ea4b` docs(ameyalli): confirm three entries in Molina's own facsimile
 - `d00679b` docs(ameyalli): confirm Arenas facsimile, close Wimmer attempts
+- `d910aa5` docs(ameyalli): add verification links, fix bibliography order
