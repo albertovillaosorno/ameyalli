@@ -107,8 +107,9 @@ against the same rule set reproduces the gate.
 
 ## Figure 1
 
-![Line drawing of a cartoon character, standing in for a photograph that
-this study deliberately does not include](bob_minion.svg)
+![Rendering of a small yellow cartoon character in denim overalls and
+goggles, standing in for a photograph that this study deliberately does not
+include](bob_minion.png)
 
 *Figure 1. Placeholder for the referent.* Onomastic studies routinely
 illustrate a name with a portrait of someone who bears it. This one does
@@ -128,5 +129,5 @@ holders may request removal at any time.
 ## License
 
 MIT, covering the authored text of this repository. See `LICENSE`. The
-figure asset described above is excluded from that grant, as stated in its
+figure asset `bob_minion.png` is excluded from that grant, as stated in its
 rights notice.

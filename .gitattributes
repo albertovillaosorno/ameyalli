@@ -2,6 +2,5 @@
 # and stays LF.
 * text=auto eol=lf
 
-# Figure assets are stored verbatim. SVG is XML, but this one is a generated
-# export, so end-of-line normalization is disabled to keep the bytes stable.
-*.svg -text
+# Figure assets are stored verbatim, with no end-of-line normalization.
+*.png binary
