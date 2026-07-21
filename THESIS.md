@@ -80,12 +80,16 @@ registro completo de esa comparación vive en `docs/procedencia-de-fuentes.md`
 y condiciona varias de las conclusiones de este trabajo.
 
 Una advertencia final resulta indispensable. Las referencias se citan en
-formato APA 7 y se han omitido deliberadamente las direcciones electrónicas,
-según la convención descrita en `docs/convenciones-editoriales.md`. La
-verificación puntual de folios y páginas contra las ediciones primarias
-sigue pendiente y se registra como tarea abierta. Ese pendiente afecta a la
-precisión de las citas, no a los hechos gramaticales que sostienen el
-argumento.
+formato APA 7 y se han omitido deliberadamente las direcciones electrónicas
+del cuerpo del artículo, según la convención descrita en
+`docs/convenciones-editoriales.md`; los enlaces de verificación que sí se
+usaron viven en `docs/procedencia-de-fuentes.md`. Los folios de Molina y
+las páginas de Arenas citados en este trabajo ya se cotejaron contra la
+capa de texto reconocido de sus propios facsímiles digitalizados, y no
+solo contra un catálogo de terceros. Queda pendiente, en cambio, la lectura
+visual de esos folios sobre la imagen de la página, y el cotejo del folio
+142 recto del Códice Florentino y de la página 165 de Brinton (1887), que
+siguen respaldados solo por catálogos académicos.
 
 ## Filiación lingüística y dialectal
 
@@ -704,13 +708,16 @@ dialectal se detiene en el náhuatl central colonial y no alcanza a una
 comunidad de habla concreta. Cualquier cifra o atribución más precisa que
 circule sin ese respaldo debe tratarse como **(C)**.
 
-Persisten tres tareas de verificación de orden filológico. La primera es el
-cotejo puntual de folios y páginas de las citas primarias contra ediciones
-facsimilares y críticas, registrado en `docs/procedencia-de-fuentes.md`. La
-segunda es la búsqueda sistemática del binomio y de cada elemento en corpus
-notariales nahuas digitalizados, que convertiría el argumento negativo
-actual en una constatación más robusta. La tercera es el trabajo etnográfico
-con los herederos del movimiento de la mexicanidad, único camino para
+Persisten tres tareas de verificación de orden filológico. La primera es la
+lectura visual del número de folio impreso sobre la imagen de la página en
+los facsímiles de Molina y Arenas ya localizados, y el cotejo del folio 142
+recto del Códice Florentino y de la página 165 de Brinton (1887) contra
+edición crítica; el registro detallado vive en
+`docs/procedencia-de-fuentes.md`. La segunda es la búsqueda sistemática del
+binomio y de cada elemento en corpus notariales nahuas digitalizados, que
+convertiría el argumento negativo actual en una constatación más robusta.
+La tercera es el trabajo etnográfico con los herederos del movimiento de la
+mexicanidad, único camino para
 documentar las motivaciones concretas de la acuñación.
 
 ## Conclusiones
@@ -772,13 +779,13 @@ Carochi, H. (2001). *Grammar of the Mexican language with an explanation of
 its adverbs* (J. Lockhart, ed. y trad.). Stanford University Press. (Obra
 original publicada en 1645).
 
-Dirección General del Registro Civil de la Ciudad de México. (2023).
-*Nombres registrados en actas del Registro Civil* [conjunto de datos].
-Portal de Datos Abiertos de la Ciudad de México.
-
 De la Peña, F. (2002). *Los hijos del sexto sol: Un estudio
 etnopsicoanalítico del movimiento de la mexicanidad*. Instituto Nacional de
 Antropología e Historia.
+
+Dirección General del Registro Civil de la Ciudad de México. (2023).
+*Nombres registrados en actas del Registro Civil* [conjunto de datos].
+Portal de Datos Abiertos de la Ciudad de México.
 
 Garibay K., Á. M. (1953-1954). *Historia de la literatura náhuatl*. Porrúa.
 

@@ -8,6 +8,40 @@ justamente lo que permite que un error se propague sin dejar rastro.
 Cualquier persona que continúe este trabajo debería actualizarla antes que
 el artículo.
 
+## Enlaces de verificación
+
+`THESIS.md` omite direcciones electrónicas por decisión editorial, según
+`docs/convenciones-editoriales.md`. Esta nota no tiene esa restricción,
+porque su función es exactamente la contraria: dejar un camino corto para
+que cualquier lector repita las comprobaciones de este trabajo sin
+depender de la palabra de nadie. Los enlaces son a catálogos, facsímiles y
+portales públicos, nunca a resúmenes de terceros. Cada uno corresponde a
+una afirmación concreta ya descrita en las secciones anteriores de esta
+misma nota.
+
+- [GDN: ameyalli](https://gdn.iib.unam.mx/diccionario/ameyalli/10169)
+- [GDN: tlaneci](https://gdn.iib.unam.mx/diccionario/tlaneci)
+- [GDN: yetlaneci](https://gdn.iib.unam.mx/diccionario/yetlaneci)
+- [Molina 1571, facsímil](https://archive.org/details/vocabularioenlen00moli)
+- [Arenas 1611, facsímil](https://archive.org/details/ayer_871_a952_a7_1611)
+- [Oregon: ameyalli](https://nahuatl.wired-humanities.org/content/ameyalli)
+- [Oregon: tlaneci](https://nahuatl.wired-humanities.org/content/tlaneci)
+- [Oregon: yetlaneci](https://nahuatl.wired-humanities.org/content/yetlaneci)
+- [Canger (1988)](https://doi.org/10.1086/466074)
+- [Keltner y Haidt (2003)](https://doi.org/10.1080/02699930302297)
+
+El conjunto de datos de nombres de la Ciudad de México no tiene una
+dirección lo bastante corta para citarse sin romper el límite de columnas
+de este documento; se llama «Nombres registrados en actas del Registro
+Civil» y está publicado en el Portal de Datos Abiertos de la Ciudad de
+México, buscable por ese título exacto. Lo mismo ocurre con la ficha de
+WorldCat de cada autor verificado en la ronda de metadatos editoriales,
+que se localiza buscando el título exacto de la obra en `worldcat.org`.
+Ningún enlace de esta lista sustituye la cita en APA 7 del cuerpo del
+artículo; la complementa. El sitio propio de Alexis Wimmer queda fuera de
+esta lista por la misma razón que queda fuera del artículo: no pudo
+alcanzarse en ninguno de los cuatro intentos registrados más arriba.
+
 ## Diseño de doble fuente independiente
 
 El material de partida procede de dos informes de investigación asistida,

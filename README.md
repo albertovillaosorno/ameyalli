@@ -225,14 +225,38 @@ verb, the absence of the pair from the colonial record as a personal name,
 and the dating of the fused lemma to Molina's 1571 vocabulary — rest on
 grammatical facts described in the cited literature, several of them checked
 directly against the Gran Diccionario Náhuatl's primary-source catalogue.
-Citations are given in APA 7 without URLs, by editorial choice. Some
-folio-level verification against facsimile editions is still outstanding and
-is tracked in `docs/procedencia-de-fuentes.md`.
+Citations are given in APA 7 without URLs in the formal bibliography, by
+editorial choice explained in `docs/convenciones-editoriales.md`. Molina's
+1571 and Arenas's 1611 entries for *ameyalli* and *tlaneci* have since been
+checked against the OCR text of their own digitised facsimiles rather than
+a transcribing catalogue; what remains outstanding is reading the printed
+folio numbers by eye on the page images themselves, tracked in
+`docs/procedencia-de-fuentes.md`.
 
 Corrections are welcome, particularly from readers with access to
 digitised notarial corpora in Nahuatl. The most valuable possible
 contribution would be an attestation of either element used as a personal
 name before 1900, which would falsify the paper's central historical claim.
+
+## Primary sources you can check yourself
+
+Every link below goes to a catalogue, a digitised facsimile, or a public
+data portal — never to a summary written by someone else. They exist so
+a skeptical reader does not have to take this repository's word for
+anything.
+
+- [GDN: ameyalli](https://gdn.iib.unam.mx/diccionario/ameyalli/10169)
+- [GDN: tlaneci](https://gdn.iib.unam.mx/diccionario/tlaneci)
+- [Molina 1571, facsimile](https://archive.org/details/vocabularioenlen00moli)
+- [Arenas 1611, facsimile](https://archive.org/details/ayer_871_a952_a7_1611)
+- [Oregon: ameyalli](https://nahuatl.wired-humanities.org/content/ameyalli)
+
+The Mexico City civil-registry dataset behind the demographic table has no
+URL short enough to fit this file's line-length limit; search
+`datos.cdmx.gob.mx` for «Nombres registrados en actas del Registro Civil»
+to find it directly. The full list, including academic citations checked
+against WorldCat and two journal publishers, lives in
+[`docs/procedencia-de-fuentes.md`](docs/procedencia-de-fuentes.md).
 
 ## Validation
 

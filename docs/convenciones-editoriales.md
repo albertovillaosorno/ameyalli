@@ -50,11 +50,22 @@ nunca aplicarla de manera parcial.
 
 Las referencias siguen el estilo APA 7 en su adaptación al español. Las
 citas en el texto usan la forma de autor y año entre paréntesis, y la lista
-final se ordena alfabéticamente. Se omiten deliberadamente las direcciones
-electrónicas, por decisión editorial y porque las obras citadas son
-identificables por autor, año y editorial. Las obras primarias reeditadas
-indican el año de la edición consultada y, entre paréntesis, el de la
-publicación original.
+final se ordena alfabéticamente. La bibliografía de `THESIS.md` omite
+deliberadamente las direcciones electrónicas, por decisión editorial y
+porque las obras citadas son identificables por autor, año y editorial. Las
+obras primarias reeditadas indican el año de la edición consultada y, entre
+paréntesis, el de la publicación original.
+
+Esa omisión es exclusiva del cuerpo del artículo y no se extiende a
+`docs/procedencia-de-fuentes.md`, cuya función es precisamente permitir la
+reproducción de cada verificación. Ese archivo puede y debe enlazar
+catálogos, facsímiles digitalizados y portales públicos con su dirección
+completa, siempre que la línea respete el límite de columnas del formato
+compartido. La distinción es deliberada: una bibliografía académica no
+necesita URLs para ser rigurosa, pero un registro de procedencia sin ellas
+sería menos verificable de lo que puede ser. El README también puede
+enlazar con la misma condición, cuando el enlace ayuda a un lector general
+a llegar a la fuente primaria.
 
 ## Personas identificables
 
