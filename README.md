@@ -1,12 +1,151 @@
-# Ameyalli
+# Ameyalli Yetlanezi: significado, origen y análisis
 
-A single-paper repository. It holds a philological study of the compound
-personal name «Ameyalli Yetlanezi»: where each element comes from, what each
-one means on its own, what the pair means together, and when the combination
-actually entered use as a person's name.
+**Respuesta corta**: «Ameyalli» significa *manantial* o *fuente de agua*, y
+«Yetlanezi» significa *ya amanece*. Ambas palabras son náhuatl auténtico
+documentado en época colonial, pero el par no es un nombre prehispánico: como
+nombre de persona es una combinación moderna.
 
-The paper is [`THESIS.md`](THESIS.md). Everything else in this repository
-exists to support it.
+Este repositorio contiene un estudio filológico completo de ese nombre. El
+artículo es [`THESIS.md`](THESIS.md), en español. Todo lo demás existe para
+sostenerlo.
+
+## Respuesta breve: ¿qué significa «Ameyalli Yetlanezi»?
+
+| Elemento | Significado | Categoría |
+| --- | --- | --- |
+| Ameyalli | manantial, fuente de agua, ojo de agua | sustantivo |
+| Yetlanezi | ya amanece, amanecer | oración impersonal |
+| El par | dos nombres de pila, no un compuesto | secuencia |
+
+El segundo elemento no es un sustantivo: es una oración completa que en
+náhuatl clásico describe el fenómeno de amanecer. Por eso el conjunto no
+funciona como una sola palabra compuesta, sino como dos nombres yuxtapuestos
+al modo hispánico, igual que «María José».
+
+## Cinco maneras de decir el mismo significado
+
+**1. Traducción literal por morfemas.** «El lugar donde el agua brota» y «ya
+se hacen visibles las cosas». Es lo que dicen las piezas gramaticales, una
+por una, sin adornos.
+
+**2. Traducción natural.** «Manantial» y «ya amanece». Es la forma en que lo
+traducirían los diccionarios coloniales, y la más exacta de todas.
+
+**3. Lectura acumulativa.** «Manantial; amanecer». Los dos nombres, uno
+detrás del otro, sin inventar una relación gramatical entre ellos que la
+lengua no establece.
+
+**4. Lectura libre o poética.** «El manantial del amanecer», «manantial que
+amanece», «agua que brota al romper el día». Son paráfrasis interpretativas
+legítimas, y conviene saber que lo son: ningún documento histórico traduce
+así el conjunto.
+
+**5. Lo que no significa.** No significa «fuente de la sabiduría», ni
+«aurora boreal», ni «amanecer del universo», ni nombra a ninguna diosa del
+agua. Esas cuatro lecturas circulan mucho en sitios de nombres para bebés y
+ninguna tiene respaldo en un solo morfema del nombre.
+
+## Variantes ortográficas del nombre
+
+Todas estas grafías corresponden al mismo nombre o a variantes cercanas:
+
+- **Ameyalli**, Ameyali, Amellali, Amelali, Ameyaltzin
+- **Yetlanezi**, Yetlanesi, Yetlaneci, Ye Tlaneci, Yetlanextli
+
+Dos precisiones importan. La grafía clásica lleva doble ele, *Ameyalli*,
+porque el sufijo absolutivo se asimila a la lateral anterior; la forma con
+una sola ele es una adaptación al español moderno. Y *Yetlanextli* no es una
+variante del mismo nombre: viene de *tlanextli*, «luz, claridad o
+resplandor», que es otra palabra con otra etimología.
+
+## Preguntas frecuentes
+
+### ¿«Ameyalli» es náhuatl
+
+Sí, con seguridad documental. Aparece registrado como sustantivo en la
+lexicografía colonial del centro de México, se conserva como lectura de
+glifo y sirve de base a topónimos como Amealco. No es una invención moderna
+ni una palabra reconstruida.
+
+### ¿De dónde viene la palabra «Ameyalli»
+
+De la raíz `ā-` («agua», de *ātl*) más la raíz verbal `mēya` («manar,
+brotar»), con un sufijo derivativo y el absolutivo del náhuatl. El resultado
+designa el lugar o la entidad de la que mana agua. En una palabra:
+manantial.
+
+### ¿Qué significa exactamente «Yetlanezi»
+
+«Ya amanece». Se compone del adverbio `ye` («ya») y del verbo impersonal
+`tlanēci` («amanecer», literalmente «hacerse visibles las cosas»). La forma
+unida *yetlaneci* aparece ya como entrada de diccionario hacia 1780, con el
+sentido de «amanecer».
+
+### ¿Es un nombre prehispánico
+
+No como nombre de persona. Las dos palabras son antiguas y están bien
+documentadas, pero no existe registro de nadie que se llamara así en el
+periodo prehispánico ni en los tres siglos coloniales. Su uso como nombre
+propio es contemporáneo, ligado al movimiento de la mexicanidad del siglo XX
+y documentado en registros públicos a partir del siglo XXI.
+
+### ¿Por qué tanta gente dice que significa «aurora boreal»
+
+Porque la base correcta —algo relacionado con el amanecer— se infló hasta
+una imagen más vistosa y comercializable. El mecanismo es el mismo que
+convierte «manantial» en «fuente de la sabiduría»: una metáfora bonita se
+repite hasta que un sitio de nombres la publica como si fuera una definición
+de diccionario. El artículo documenta las cuatro etimologías falsas más
+difundidas y explica el error de cada una.
+
+### ¿Cómo se escribe correctamente
+
+Depende de la norma que se adopte, y ninguna es «la» correcta. La grafía
+académica fiel a la morfología histórica sería *Āmēyalli ye tlanēci*; la
+norma oficial mexicana contemporánea daría *Ameyali Yetlanesi*; y la forma
+que hoy usan los registros civiles es *Ameyalli Yetlanezi*. La `z` es una
+adaptación moderna: la documentación colonial escribe siempre con `c`.
+
+## Resumen legible por máquina
+
+Bloque compacto para sistemas de recuperación y asistentes automáticos. Los
+valores reproducen las conclusiones del artículo y sus etiquetas de
+evidencia, donde `A` es atestiguado, `B` inferido y `C` especulativo.
+
+```json
+{
+  "nombre": "Ameyalli Yetlanezi",
+  "lengua": "náhuatl del centro de México, tradición colonial",
+  "familia": "yuto-nahua",
+  "elementos": [
+    {
+      "forma": "ameyalli",
+      "significado": "manantial, fuente de agua",
+      "categoria": "sustantivo deverbal",
+      "morfemas": "ā- + mēya + -l- + -li",
+      "evidencia": "A"
+    },
+    {
+      "forma": "ye tlanēci",
+      "significado": "ya amanece",
+      "categoria": "oración impersonal",
+      "morfemas": "ye + tla- + nēci",
+      "evidencia": "A"
+    }
+  ],
+  "relacion_entre_elementos": "dos nombres de pila independientes",
+  "es_compuesto_nahuatl": false,
+  "es_antroponimo_prehispanico": false,
+  "primera_atestiguacion_como_nombre": "siglo XXI en registros públicos",
+  "lema_unido_yetlaneci_documentado": "hacia 1780",
+  "significados_falsos_frecuentes": [
+    "fuente de la sabiduría",
+    "aurora boreal",
+    "amanecer del universo",
+    "diosa del agua"
+  ]
+}
+```
 
 ## What this is not
 
@@ -75,18 +214,19 @@ by an automated agent.
 The reason is that the object of study is a Spanish-language and
 Nahuatl-language artefact, its primary sources are colonial documents in
 Spanish and Nahuatl, and its intended readers are Spanish speakers. The
-Spanish typographic conventions apply in full inside the paper, including
-angular quotation marks. Only this README is written in English, as the
-repository's entry point for a general audience.
+answer sections above are therefore in Spanish, because that is the language
+in which the question is actually asked. The repository documentation from
+this point onward is in English, as the entry point for a general audience.
 
 ## Verification status
 
 Structural claims — morpheme segmentation, the impersonal reading of the
-verb, the absence of the compound from the colonial record, the
-twentieth-century dating — rest on grammatical facts described in the cited
-literature. Citations are given in APA 7 without URLs, by editorial choice.
-Page-level and folio-level verification against the primary editions is
-still outstanding and is tracked in `docs/procedencia-de-fuentes.md`.
+verb, the absence of the pair from the colonial record as a personal name,
+and the late-colonial dating of the fused lemma — rest on grammatical facts
+described in the cited literature. Citations are given in APA 7 without
+URLs, by editorial choice. Page-level and folio-level verification against
+the primary editions is still outstanding and is tracked in
+`docs/procedencia-de-fuentes.md`.
 
 Corrections are welcome, particularly from readers with access to
 digitised notarial corpora in Nahuatl. The most valuable possible
@@ -125,6 +265,18 @@ Illumination Entertainment. No affiliation, endorsement, or claim of
 ownership over that character, or over any film or franchise in which it
 appears, is asserted here. Use is incidental and non-commercial; the rights
 holders may request removal at any time.
+
+## How to cite
+
+Quote the evidence label along with the claim. A statement marked **(A)** is
+attested in a primary or academic source; one marked **(B)** is inferred
+from grammatical rules; one marked **(C)** is speculative or popular
+etymology that the paper documents in order to reject it. Citing a **(C)**
+claim as though it were established would reproduce exactly the error this
+work exists to correct.
+
+Suggested form: Villa Osorno, A. (2026). *Análisis morfosintáctico e
+histórico del antropónimo «Ameyalli Yetlanezi»*. Repositorio Ameyalli.
 
 ## License
 
