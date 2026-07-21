@@ -29,6 +29,9 @@ misma nota.
 - <https://www.malinal.net/lexik/nahuatlTL.html#TLANECI>
 - <https://www6.cmq.edu.mx/libreria3/817-jilotepec.html>
 - <https://doi.org/10.24901/rehs.v33i132b.483>
+- <https://enl.wired-humanities.org/>
+- <https://totlajtol.mx/>
+- <https://www.iifilologicas.unam.mx/satnu/>
 - [Oregon: ameyalli](https://nahuatl.wired-humanities.org/content/ameyalli)
 - [Oregon: tlaneci](https://nahuatl.wired-humanities.org/content/tlaneci)
 - [Oregon: yetlaneci](https://nahuatl.wired-humanities.org/content/yetlaneci)
@@ -145,7 +148,7 @@ de Molina como tarea abierta.
 | *tlanextli* como «luz, claridad» | atestiguado en Molina |
 | Relación glífica con Amealco | confirmada en el Códice de Huichapan |
 | Orden invertido del par | atestiguado en registros públicos |
-| Ausencia del binomio antes de 1900 | búsqueda no exhaustiva |
+| Ausencia del binomio antes de 1900 | cero resultados en tres repositorios |
 | Cronología del neonahuatlismo | verificada contra bibliografía |
 | Metadatos editoriales de seis autores | verificados en vivo, WorldCat |
 | Keltner y Haidt (2003) | verificado en vivo, Taylor & Francis |
@@ -487,10 +490,35 @@ sostiene la antigua afirmación sobre una talla eclesiástica. La corrección
 separa así la evidencia documental auténtica de la localización material
 que no pudo verificarse.
 
+## Búsqueda sistemática en corpus documentales
+
+La búsqueda se ejecutó en tres repositorios que ofrecen documentos nahuas
+coloniales y capas de texto o metadatos consultables: Early Nahuatl Library,
+Totlajtol y Satnu, el Repositorio Filológico Mesoamericano. En cada uno se
+consultaron por separado `ameyalli`, `ameialli`, `ameyali`, `tlaneci`,
+`tlanezi`, `yetlaneci`, `yetlanezi`, `ye tlaneci` y el binomio completo
+`Ameyalli Yetlanezi`. La serie incluye las grafías con `c` y `z`, la forma
+unida, la secuencia libre y dos simplificaciones previsibles de la doble
+lateral.
+
+Early Nahuatl Library devolvió «Your search yielded no results» para las
+nueve consultas. Satnu devolvió `Search (0 total)` en todos los casos al
+buscar simultáneamente registros de tipo documento y archivo. Totlajtol no
+produjo coincidencias en su buscador y el resultado se verificó además
+contra los 58 registros públicos que devolvía su interfaz WordPress: una
+búsqueda local normalizada sobre título, contenido y resumen produjo cero
+apariciones para cada variante.
+
+El resultado negativo eleva la búsqueda de exploratoria a sistemática, pero
+no demuestra inexistencia absoluta. Los tres ceros describen las capas
+indexadas, transcritas o provistas de metadatos en la fecha de consulta; no
+incluyen palabras que solo puedan verse en imágenes sin transcripción ni
+OCR. El artículo formula por ello una ausencia documentada dentro de esos
+límites y conserva el estatus **(B)** para la inferencia histórica más
+amplia.
+
 ## Tareas abiertas
 
-1. Ejecutar una búsqueda sistemática del binomio y de cada elemento por
-   separado en corpus notariales nahuas digitalizados.
 1. Verificar de manera directa las páginas exactas de Karttunen (1992, p.
    10 y p. 284 según el diccionario de Oregon) y de Canger (1988, pp.
    28-72 según la cita original) contra un ejemplar o una edición digital

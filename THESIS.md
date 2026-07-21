@@ -418,15 +418,14 @@ aparece tanto en los vocabularios como en la prosa etnográfica. Su presencia
 en el corpus es abundante y no admite discusión. Se trata, en todos los
 casos documentados, de un verbo y no de un nombre de persona.
 
-El hallazgo negativo es aquí tan importante como el positivo. En los
-padrones censales indígenas, en las matrículas tributarias y en el corpus
-notarial en lengua náhuatl estudiado por Lockhart (1992), no se ha
-localizado registro de persona alguna nombrada *Yetlanezi* o *Ameyalli*
-durante los siglos XVI, XVII y XVIII. La ausencia debe formularse con la
-cautela que impone todo argumento negativo: no equivale a una prueba de
-inexistencia, sino a la constatación de que ninguna búsqueda documentada ha
-producido tal ocurrencia. Ese resultado se clasifica como **(B)** y se
-señala en las limitaciones del estudio.
+El hallazgo negativo es aquí tan importante como el positivo. Una búsqueda
+sistemática de nueve variantes del binomio y de sus componentes produjo
+cero resultados en las capas consultables de Early Nahuatl Library,
+Totlajtol y Satnu, repositorios que reúnen documentos coloniales, entre
+ellos materiales civiles y notariales. La ausencia no prueba inexistencia,
+pues las imágenes sin transcripción u OCR quedan fuera del alcance de una
+consulta textual. El resultado se clasifica como **(B)** y se limita a los
+registros indexados disponibles en la fecha de búsqueda.
 
 ### El sistema antroponímico nahua
 
@@ -789,6 +788,9 @@ Dirección General del Registro Civil de la Ciudad de México. (2023).
 *Nombres registrados en actas del Registro Civil* [conjunto de datos].
 Portal de Datos Abiertos de la Ciudad de México.
 
+Early Nahuatl Library. (s.f.). *Early Nahuatl Library* [repositorio
+digital].
+
 Garibay K., Á. M. (1953-1954). *Historia de la literatura náhuatl*. Porrúa.
 
 González Torres, Y. (2005). *Danza tu palabra: La danza de los concheros*.
@@ -829,6 +831,13 @@ School of American Research y University of Utah Press.
 
 Siméon, R. (1885). *Dictionnaire de la langue nahuatl ou mexicaine*.
 Imprimerie Nationale.
+
+Satnu. (s.f.). *Repositorio Filológico Mesoamericano* [repositorio
+digital]. Universidad Nacional Autónoma de México, Instituto de
+Investigaciones Filológicas.
+
+Totlajtol. (s.f.). *Documentos coloniales en náhuatl del Occidente
+novohispano* [repositorio digital].
 
 Wimmer, A. (2004). *Dictionnaire de la langue nahuatl classique*
 [diccionario en línea]. Sitio propio del autor.
