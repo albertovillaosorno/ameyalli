@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-07-22
+
+- `6e75f12` docs(ameyalli): lead with the epistemological objection as Part I
+
 ## 2026-07-21
 
 - `942f63e` docs(ameyalli): add the Ameyalli Yetlanezi onomastic study
