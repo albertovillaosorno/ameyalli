@@ -40,13 +40,21 @@ misma nota.
 - [Canger (1988)](https://doi.org/10.1086/466074)
 - [Keltner y Haidt (2003)](https://doi.org/10.1080/02699930302297)
 
-El conjunto de datos de nombres de la Ciudad de México no tiene una
-dirección lo bastante corta para citarse sin romper el límite de columnas
-de este documento; se llama «Nombres registrados en actas del Registro
-Civil» y está publicado en el Portal de Datos Abiertos de la Ciudad de
-México, buscable por ese título exacto. Lo mismo ocurre con la ficha de
-WorldCat de cada autor verificado en la ronda de metadatos editoriales,
-que se localiza buscando el título exacto de la obra en `worldcat.org`.
+El conjunto de datos de nombres de la Ciudad de México está disponible
+directamente en el Portal de Datos Abiertos de la Ciudad de México:
+
+<!-- markdownlint-disable-next-line MD013 -->
+[Nombres registrados en actas del Registro Civil](https://datos.cdmx.gob.mx/dataset/nombres-registrados-en-actas-del-registro-civil)
+
+El recurso completo empleado para la tabla demográfica también puede abrirse
+de forma directa:
+
+<!-- markdownlint-disable-next-line MD013 -->
+[Nombres registrados (completa)](https://datos.cdmx.gob.mx/dataset/nombres-registrados-en-actas-del-registro-civil/resource/7f31d33b-45b2-46c4-8801-22aa0261a6dd)
+
+Lo mismo ocurre con la ficha de WorldCat de cada autor verificado en la ronda
+de metadatos editoriales, que se localiza buscando el título exacto de la obra
+en `worldcat.org`.
 Ningún enlace de esta lista sustituye la cita en APA 7 del cuerpo del
 artículo; la complementa. El enlace de Wimmer apunta a su entrada propia y
 no a la reproducción que hace el Gran Diccionario Náhuatl.

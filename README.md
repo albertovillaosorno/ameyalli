@@ -251,11 +251,14 @@ anything.
 - [Arenas 1611, facsimile](https://archive.org/details/ayer_871_a952_a7_1611)
 - [Oregon: ameyalli](https://nahuatl.wired-humanities.org/content/ameyalli)
 
-The Mexico City civil-registry dataset behind the demographic table has no
-URL short enough to fit this file's line-length limit; search
-`datos.cdmx.gob.mx` for «Nombres registrados en actas del Registro Civil»
-to find it directly. The full list, including academic citations checked
-against WorldCat and two journal publishers, lives in
+The Mexico City civil-registry dataset behind the demographic table is
+available directly from the Portal de Datos Abiertos de la Ciudad de México:
+
+<!-- markdownlint-disable-next-line MD013 -->
+[Nombres registrados en actas del Registro Civil](https://datos.cdmx.gob.mx/dataset/nombres-registrados-en-actas-del-registro-civil)
+
+The full list, including academic citations checked against WorldCat and two
+journal publishers, lives in
 [`docs/procedencia-de-fuentes.md`](docs/procedencia-de-fuentes.md).
 
 ## Validation
