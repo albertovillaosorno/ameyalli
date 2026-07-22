@@ -3,6 +3,7 @@
 ## 2026-07-22
 
 - `6e75f12` docs(ameyalli): lead with the epistemological objection as Part I
+- `d279d1d` docs(ameyalli): split document and object language, date citations
 
 ## 2026-07-21
 
