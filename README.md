@@ -9,6 +9,15 @@ Este repositorio contiene un estudio filológico completo de ese nombre. El
 artículo es [`THESIS.md`](THESIS.md), en español. Todo lo demás existe para
 sostenerlo.
 
+**Pero la respuesta de arriba es más frágil de lo que suena, y el artículo
+ahora empieza explicando por qué.** Saber cómo se forma una palabra no
+equivale a saber qué significaba para quienes la usaban: hace falta el
+contexto social, y el del náhuatl clásico se perdió en buena parte. La
+[Parte I](THESIS.md#parte-i-lo-que-este-trabajo-no-puede-saber) desarrolla
+esa objeción y es la aportación original del autor; la Parte II es la
+investigación académica, válida dentro de los límites que la Parte I
+establece.
+
 ## Respuesta breve: ¿qué significa «Ameyalli Yetlanezi»?
 
 | Elemento | Significado | Categoría |
