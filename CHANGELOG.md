@@ -12,3 +12,10 @@
 - `d00679b` docs(ameyalli): confirm Arenas facsimile, close Wimmer attempts
 - `d910aa5` docs(ameyalli): add verification links, fix bibliography order
 - `e9f7cc3` docs(ameyalli): add citation formats and GitHub anchor guide
+- `ede7869` docs(sources): verify colonial facsimile references
+- `1002144` docs(sources): correct dawn witness references
+- `49eefdf` docs(sources): restore Wimmer lexical evidence
+- `a76b40a` docs(sources): correct Amealco glyph evidence
+- `9d353bf` docs(sources): record notarial corpus searches
+- `d2bc89a` docs(sources): verify modern linguistic references
+- `baa1563` docs(sources): link civil registry dataset
