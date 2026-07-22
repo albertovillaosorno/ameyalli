@@ -117,42 +117,55 @@ adaptación moderna: la documentación colonial escribe siempre con `c`.
 
 ## Resumen legible por máquina
 
-Bloque compacto para sistemas de recuperación y asistentes automáticos. Los
-valores reproducen las conclusiones del artículo y sus etiquetas de
-evidencia, donde `A` es atestiguado, `B` inferido y `C` especulativo.
+Bloque compacto para sistemas de recuperación y asistentes automáticos. Las
+claves van en inglés por convención de interoperabilidad y los valores en
+español, que es la lengua del documento. Los valores reproducen las
+conclusiones del artículo y sus etiquetas de evidencia, donde `A` es
+atestiguado, `B` inferido y `C` especulativo.
+
+La distinción entre `document_language` y `object_language` es deliberada y
+no redundante: este trabajo **está escrito en** español y **trata sobre**
+náhuatl. Colapsar ambas cosas en un solo campo con dos valores diría que el
+documento está redactado en náhuatl, que es falso. El campo `gloss_scope`
+existe por la misma razón: sin él, un sistema automático leería «significado:
+manantial» con una confianza que la Parte I del artículo desmiente.
 
 ```json
 {
-  "nombre": "Ameyalli Yetlanezi",
-  "lengua": "náhuatl del centro de México, tradición colonial",
-  "familia": "yuto-nahua",
-  "elementos": [
+  "name": "Ameyalli Yetlanezi",
+  "document_language": "español",
+  "object_language": "náhuatl del centro de México, tradición colonial",
+  "language_family": "yuto-nahua",
+  "elements": [
     {
-      "forma": "ameyalli",
-      "significado": "manantial, fuente de agua",
-      "categoria": "sustantivo deverbal",
-      "morfemas": "ā- + mēya + -l- + -li",
-      "evidencia": "A"
+      "form": "ameyalli",
+      "meaning": "manantial, fuente de agua",
+      "category": "sustantivo deverbal",
+      "morphemes": "ā- + mēya + -l- + -li",
+      "evidence": "A"
     },
     {
-      "forma": "ye tlanēci",
-      "significado": "ya amanece",
-      "categoria": "oración impersonal",
-      "morfemas": "ye + tla- + nēci",
-      "evidencia": "A"
+      "form": "ye tlanēci",
+      "meaning": "ya amanece",
+      "category": "oración impersonal",
+      "morphemes": "ye + tla- + nēci",
+      "evidence": "A"
     }
   ],
-  "relacion_entre_elementos": "dos nombres de pila independientes",
-  "es_compuesto_nahuatl": false,
-  "es_antroponimo_prehispanico": false,
-  "primera_atestiguacion_como_nombre": "siglo XXI en registros públicos",
-  "lema_unido_yetlaneci_documentado": "desde 1571, Molina",
-  "significados_falsos_frecuentes": [
+  "relation_between_elements": "dos nombres de pila independientes",
+  "is_nahuatl_compound": false,
+  "is_prehispanic_anthroponym": false,
+  "first_attestation_as_name": "siglo XXI en registros públicos",
+  "fused_lemma_yetlaneci_attested": "desde 1571, Molina",
+  "common_false_meanings": [
     "fuente de la sabiduría",
     "aurora boreal",
     "amanecer del universo",
     "diosa del agua"
-  ]
+  ],
+  "evidence_scale": "A atestiguado, B inferido, C especulativo",
+  "gloss_scope": "las glosas atestiguan lo que registró la lexicografía colonial, no lo que entendía una comunidad de hablantes",
+  "see_first": "Parte I del artículo, sobre los límites de la recuperabilidad semántica"
 }
 ```
 
@@ -321,7 +334,7 @@ does not read CFF files.
 ### APA 7
 
 ```text
-Villa Osorno, A. (2026, July 21). Análisis morfosintáctico e histórico
+Villa Osorno, A. (2026, July 22). Análisis morfosintáctico e histórico
     del antropónimo «Ameyalli Yetlanezi». GitHub.
     https://github.com/albertovillaosorno/ameyalli
 ```
@@ -330,7 +343,7 @@ Villa Osorno, A. (2026, July 21). Análisis morfosintáctico e histórico
 
 ```text
 Villa Osorno, Alberto. "Análisis Morfosintáctico e Histórico del
-    Antropónimo «Ameyalli Yetlanezi»." GitHub, 21 July 2026,
+    Antropónimo «Ameyalli Yetlanezi»." GitHub, 22 July 2026,
     github.com/albertovillaosorno/ameyalli.
 ```
 
@@ -338,7 +351,7 @@ Villa Osorno, Alberto. "Análisis Morfosintáctico e Histórico del
 
 ```text
 Villa Osorno, Alberto. 2026. "Análisis Morfosintáctico e Histórico
-    del Antropónimo «Ameyalli Yetlanezi»." GitHub. July 21, 2026.
+    del Antropónimo «Ameyalli Yetlanezi»." GitHub. July 22, 2026.
     https://github.com/albertovillaosorno/ameyalli.
 ```
 

@@ -5,19 +5,31 @@ type: generic
 authors:
   - family-names: "Villa Osorno"
     given-names: "Alberto"
-date-released: "2026-07-21"
+date-released: "2026-07-22"
 url: "https://github.com/albertovillaosorno/ameyalli"
 repository-code: "https://github.com/albertovillaosorno/ameyalli"
 license: MIT
+# The work is written in Spanish and is about Nahuatl. The CFF `languages`
+# field means the language of the work itself, so it lists Spanish only;
+# Nahuatl appears under `keywords` because it is the subject, not the medium.
+languages:
+  - spa
 abstract: >-
-  A philological study of the compound personal name "Ameyalli Yetlanezi":
-  the Classical Nahuatl origin of each element, the colonial lexicographic
-  attestation of the fused second element, and the twenty-first-century
-  origin of the pairing as a personal name, verified against primary
-  colonial dictionaries and a Mexico City civil-registry dataset.
+  Part I argues that morphological composition does not establish what a word
+  meant to its speakers, because that requires social context, and Classical
+  Nahuatl's was largely destroyed; it names the colonial filter and the
+  etymological fallacy, and examines whether statistical laws of semantic
+  change could recover the loss. Part II is the philological case study of
+  the compound personal name "Ameyalli Yetlanezi": the Classical Nahuatl
+  origin of each element, the colonial lexicographic attestation of the fused
+  second element, and the twenty-first-century origin of the pairing as a
+  personal name, verified against primary colonial dictionaries and a Mexico
+  City civil-registry dataset.
 keywords:
   - nahuatl
   - onomastics
   - anthroponymy
   - historical linguistics
   - philology
+  - epistemology
+  - semantic change
