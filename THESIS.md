@@ -1,12 +1,12 @@
 # Análisis morfosintáctico e histórico del antropónimo «Ameyalli Yetlanezi»
 
 Este documento tiene dos partes y conviene decir desde el principio cuál
-manda. La **Parte I** es una objeción epistemológica al método que la Parte
-II emplea, y es la aportación original del autor. La **Parte II** es la
-investigación filológica propiamente dicha, que sigue siendo válida dentro
-de sus límites, pero que solo puede leerse correctamente después de saber
-cuáles son esos límites. Quien lea la Parte II sin la Parte I obtendrá
-respuestas más confiadas de lo que la evidencia permite.
+manda. La **Parte I** es una objeción epistemológica al alcance de algunas
+inferencias de la Parte II, y es la aportación original del autor. La
+**Parte II** es la investigación filológica propiamente dicha, que sigue
+siendo válida dentro de sus límites, pero que solo puede leerse correctamente
+después de saber cuáles son esos límites. Quien lea la Parte II sin la Parte
+I obtendrá respuestas más confiadas de lo que la evidencia permite.
 
 ## Resumen
 
@@ -21,12 +21,12 @@ emparejamiento de ambas voces como nombre de una persona. Esa asimetría
 entre la antigüedad del material y la modernidad del uso onomástico es la
 conclusión central del estudio.
 
-La primera unidad, *āmēyalli*, es un sustantivo que significa «manantial» o
-«fuente de agua», registrado en la lexicografía del siglo XVI y conservado
+La primera unidad, *āmēyalli*, es un sustantivo atestiguado con el valor de
+«manantial» o «fuente de agua» en la lexicografía del siglo XVI y conservado
 en el repertorio glífico y toponímico. La segunda, *ye tlanēci*, es una
-oración impersonal cuyo sentido es «ya amanece», y su variante unida
-*yetlaneci* aparece ya lematizada en 1571 con el sentido de «amanecer». La
-evidencia conductual de los registros modernos muestra que ambas voces
+oración impersonal atestiguada con el sentido de «ya amanece», y su variante
+unida *yetlaneci* aparece ya lematizada en 1571 con el sentido de «amanecer».
+La evidencia conductual de los registros modernos muestra que ambas voces
 funcionan como dos nombres de pila independientes al modo hispánico, y no
 como un compuesto: el testimonio decisivo es que el par aparece documentado
 en orden invertido para una misma persona. Los registros de nacimiento de la
@@ -50,24 +50,33 @@ propio autor se puso a sí mismo. La secuencia importa: primero se hizo la
 investigación con todo el rigor disponible, y solo después se vio con
 claridad qué era lo que ese rigor no podía alcanzar.
 
-### La composición no determina el significado
+### La composición no agota el significado
 
-La Parte II reconstruye el significado de dos palabras a partir de sus
-morfemas y de las glosas que unos diccionarios coloniales les asignaron. Ese
-método supone que conocer cómo se forma una palabra basta para saber qué
-significa. La objeción es que no basta, y que el propio español ofrece la
-demostración: para saber qué significa «bellakito» no alcanza con conocer
-las reglas de formación del diminutivo ni con haber leído la entrada
-«bellaco» en un diccionario antiguo. Hace falta el contexto social, y ese
-contexto cambia con una rapidez que lo vuelve impredecible a gran escala.
+La Parte II combina morfología, sintaxis, distribución textual y glosas
+lexicográficas para reconstruir valores documentados de dos palabras. Ese
+método permite establecer con grados distintos de confianza qué sentidos
+están atestiguados y qué análisis estructurales los explican. Lo que no puede
+hacer por sí solo es convertir esa reconstrucción en una descripción
+exhaustiva de los valores pragmáticos, sociales o afectivos que una comunidad
+concreta asociaba a una forma. La objeción de esta parte no invalida la
+semántica histórica; limita el tipo de conocimiento que puede producir.
+
+El propio español ofrece una demostración útil de ese límite: para saber qué
+significa «bellakito» en determinados usos contemporáneos no alcanza con
+conocer las reglas de formación del diminutivo ni con haber leído la entrada
+«bellaco» en un diccionario antiguo. Hace falta también el contexto social en
+el que la forma circula. El ejemplo es deliberadamente extremo, porque una
+innovación reciente puede cambiar de valor con mucha rapidez. De hecho,
+Hamilton, Leskovec y Jurafsky (2016) encuentran que, en sus corpus, las
+palabras de mayor frecuencia tienden a cambiar más despacio.
 
 El punto se agudiza al notar que algunos compuestos sí son transparentes y
-otros no. «Rascacielos» es perfecto: las piezas dicen exactamente lo que la
-palabra significa, y cualquiera podría reconstruirla sin haberla oído nunca.
-Pero esa transparencia no es la regla, sino el caso afortunado, y desde
-fuera de una lengua viva no hay manera de saber de antemano en cuál de los
-dos grupos cae una palabra dada. Un compuesto opaco leído con método
-composicional produce una respuesta segura, ordenada y equivocada.
+otros no. «Rascacielos» es un caso favorable en el que las piezas permiten
+aproximar bien el valor del conjunto. Otros compuestos se lexicalizan o
+adquieren usos que ya no se deducen de manera suficiente de sus partes. Por
+eso la composición aporta evidencia semántica, pero gana fuerza cuando
+converge con usos textuales, sintaxis, comparación interna y testimonios
+independientes.
 
 ### El experimento de 1611
 
@@ -81,66 +90,70 @@ disponiendo únicamente de Covarrubias escribiría «pequeño malvado» con foli
 cita y método impecable, y no tendría ningún modo de descubrir que se
 equivoca por completo respecto del uso vivo cuatro siglos después.
 
-La diferencia entre ese caso hipotético y el de este trabajo no está en el
-método, que es el mismo, sino en la posibilidad de comprobación. El español
-sobrevivió, de modo que su deriva semántica puede medirse comparando 1611
-con el habla actual. El náhuatl sufrió una ruptura de continuidad que dejó
-la fotografía de la lexicografía misionera sin la película que le seguiría.
-Tenemos una muestra densa de aproximadamente un siglo y ninguna manera
-interna de saber cuánto se había movido ya el significado cuando se tomó esa
-muestra, ni cuánto se habría movido después.
+La diferencia entre ese caso hipotético y el de este trabajo no es que una
+lengua haya sobrevivido y la otra no: el náhuatl continúa vivo en múltiples
+variantes y dejó además un archivo colonial amplio. La asimetría es
+principalmente documental. Para el español pueden seguirse muchos cambios con
+una secuencia de registros extraordinariamente densa; para el náhuatl de los
+siglos XVI y XVII, aunque sobreviven gramáticas, vocabularios, poesía y
+abundante documentación administrativa, judicial y notarial, la cobertura
+por periodos, regiones y registros sociales es mucho más desigual (Lockhart,
+1992). Esa desigualdad limita la precisión con la que pueden reconstruirse
+ciertos cambios y, sobre todo, ciertos valores de uso, pero no elimina la
+continuidad lingüística ni la posibilidad de reconstrucción histórica.
 
-### El filtro colonial
+### El filtro lexicográfico y colonial
 
-A lo anterior se añade un problema de origen que la Parte II no menciona ni
-una sola vez, y que constituye su omisión más grave. Fray Alonso de Molina
-no era un lingüista neutral registrando una lengua por interés científico:
-era un franciscano compilando un instrumento de evangelización. Sus glosas
-están seleccionadas por lo que la misión necesitaba nombrar, obtenidas de
-informantes de un registro social concreto, y vertidas a categorías
-semánticas del español que la lengua descrita no tenía por qué compartir.
-La afirmación honesta no es «*ameyalli* significa manantial», sino
-«*ameyalli* fue glosado como fuente de agua por un fraile español en 1571
-para un público de misioneros españoles».
+A lo anterior se añade un problema general de toda lexicografía: ningún
+diccionario reproduce sin mediación el repertorio semántico de una comunidad.
+Todo lexicógrafo selecciona lemas, separa sentidos y busca equivalencias que
+dependen de su tradición descriptiva. En Molina hay además un filtro
+histórico específico: fue un franciscano cuyo *Vocabulario* pertenecía al
+proyecto misionero, y su obra muestra rasgos de una «variedad misionera» del
+náhuatl (Flores Farfán, 2013). Por eso sus glosas son evidencia primaria de
+enorme valor, pero deben leerse como descripciones situadas y no como
+transcripciones neutrales de una conciencia lingüística colectiva.
 
-Este problema tiene nombre y literatura propia en la filología
-mesoamericana, y no exime a nadie de usar esas fuentes, porque no hay otras.
-Lo que exige es no confundir el registro con la cosa registrada. Todo lo que
-la Parte II clasifica como **(A)** debería leerse, con precisión, como
-atestiguación de lo que un diccionario colonial dice, no como acceso directo
-a lo que una comunidad de hablantes entendía. La distancia entre ambas cosas
-es desconocida y probablemente no sea pequeña.
+Este límite no vuelve inútiles los vocabularios coloniales ni los convierte
+en testimonios intercambiables con cualquier fuente posterior. También
+sobreviven gramáticas, textos religiosos y literarios, documentación notarial
+y judicial, y materiales de variantes modernas que permiten contrastar las
+glosas desde ángulos distintos. Para una glosa concreta, la confianza aumenta
+cuando esas fuentes independientes convergen con la morfología y la sintaxis.
+Por tanto, una etiqueta **(A)** debe interpretarse según el tipo de fuente que
+la sostiene: una atestiguación directa es evidencia fuerte del uso
+documentado, no acceso automático a todas sus connotaciones sociales.
 
 ### La falacia etimológica
 
 Conviene nombrar el error con el término técnico que le corresponde, porque
 existe. Se llama falacia etimológica y consiste en creer que el significado
-verdadero de una palabra es su significado histórico o su composición
-original. La ironía es incómoda y merece quedar escrita: la Parte II dedica
-una sección entera a denunciar la etimología popular ajena —«fuente de la
-sabiduría», «aurora boreal»— mientras comete una versión culta y bien
-documentada del mismo error. La diferencia de rigor entre ambas es real; la
-diferencia de estructura lógica es menor de lo que el tono del artículo
-sugiere.
+verdadero de una palabra queda determinado por su origen o por la composición
+de sus morfemas. La Parte II correría ese riesgo si tratara la composición
+morfológica como significado total o si proyectara un sentido histórico
+directamente sobre cualquier uso moderno. No lo comete cuando una glosa se
+apoya en atestiguación lexicográfica, distribución textual y gramática
+convergentes; la autocrítica consiste en impedir que esa evidencia se haga
+decir más de lo que dice.
 
 ### El problema del testimonio
 
 Queda una objeción más simple y más difícil de responder, que se formula
 mejor sin tecnicismos: ¿cómo puedo confiar en un desconocido de la UNAM que
-escribió un significado? Al final es un ser humano como cualquiera, y los
-seres humanos a veces somos una mierda; eso es normal y no tiene nada de
-escandaloso. La objeción es legítima porque todo el conocimiento heredado
-descansa en cadenas de testimonio que nadie recorre entera. Fingir que la
-autoridad institucional disuelve ese problema sería exactamente el tipo de
-gesto que este documento intenta evitar.
+escribió un significado? Todo testigo, editor y lexicógrafo es falible, y el
+conocimiento heredado descansa en cadenas de transmisión que ningún
+investigador recorre por completo. La autoridad institucional reduce algunos
+riesgos de error y facilita la trazabilidad. No sustituye, sin embargo, la
+verificación de las afirmaciones que sí pueden comprobarse.
 
 La respuesta parcial es que la confianza no se resuelve confiando, sino
-verificando, y que ese eslabón concreto sí se cerró. El registro de
+verificando, y ese eslabón concreto sí se cerró. El registro de
 `docs/procedencia-de-fuentes.md` documenta la descarga del facsímil de 1571
-y la confirmación, palabra por palabra, de que Molina escribió lo que los
-catálogos afirman que escribió. Lo que no tiene facsímil, ni lo tendrá
-nunca, es lo que los nahuas realmente querían decir. Molina resulta
-verificable en todo salvo en el único punto que de verdad importa.
+y la confirmación de las entradas citadas directamente contra Molina. Esa
+comprobación establece qué escribió el lexicógrafo y permite contrastarlo con
+otros testimonios. Lo que no ofrece ningún facsímil es acceso exhaustivo a la
+experiencia pragmática de cada hablante, aunque los contextos conservados sí
+permitan reconstruir valores públicos con grados distintos de confianza.
 
 ### La idea de la constante semántica
 
@@ -157,16 +170,15 @@ en el cerebro de la mayoría, de modo que podría descubrirse también
 analizando el cerebro a nivel sistémico.
 
 La idea no es descabellada y coincide en parte con un campo activo.
-Hamilton, Leskovec y Jurafsky (2016) entrenaron representaciones
-vectoriales por décadas y encontraron regularidades estadísticas reales del
-cambio semántico, entre ellas que las palabras más frecuentes cambian más
-despacio y las más polisémicas más deprisa. Youn et al. (2016) mostraron,
-con datos de lenguas seleccionadas por su diversidad mundial, que la red de
-polisemias que conecta conceptos básicos tiene una estructura consistente
-entre grupos lingüísticos y en buena medida independiente de la geografía,
-del entorno y de la presencia de tradición literaria. Existen, por tanto,
-constantes, y la intuición del autor sobre su existencia y sobre su vínculo
-con la cognición era correcta en ambos extremos.
+Hamilton, Leskovec y Jurafsky (2016) entrenaron representaciones vectoriales
+por décadas y encontraron regularidades estadísticas del cambio semántico,
+entre ellas que las palabras más frecuentes cambian más despacio y las más
+polisémicas más deprisa. Youn et al. (2016) mostraron, con datos de lenguas
+seleccionadas por su diversidad mundial, que la red de polisemias que conecta
+conceptos básicos presenta regularidades entre grupos lingüísticos. Estos
+resultados apoyan la búsqueda de patrones probabilísticos, no la existencia
+demostrada de constantes deterministas del significado ni de un código
+universal recuperable directamente del cerebro.
 
 ### Por qué la constante no rescata este caso
 
@@ -180,13 +192,14 @@ no predice dónde estará una molécula determinada.
 
 A la limitación teórica se suma una material que es decisiva para el náhuatl
 en particular. Los métodos distribucionales aprenden el significado de la
-compañía que una palabra mantiene, y para eso necesitan mucho texto de cada
-periodo que se quiera comparar. Los corpus históricos del inglés se cuentan
-en cientos de millones o miles de millones de palabras, mientras que todo el
-náhuatl colonial alfabético que sobrevivió se cuenta en unos pocos millones
-y se concentra en aproximadamente un siglo. No se puede ajustar una línea de
-tendencia a un solo punto, y ninguna arquitectura por sofisticada que sea
-fabrica el corpus que no existe.
+compañía que una palabra mantiene, y para eso necesitan mucho texto comparable
+de cada periodo, región y registro que se quiera contrastar. La documentación
+náhuatl conservada es rica pero heterogénea, y los corpus digitalizados y
+consultables no ofrecen una serie uniforme equivalente a las grandes
+colecciones usadas para algunas lenguas europeas. Eso dificulta la inferencia
+distribucional fina, sobre todo por registro social, pero no reduce el archivo
+a un solo punto ni borra la evidencia disponible para la lingüística
+histórica.
 
 ### El contraargumento del propio autor
 
@@ -217,13 +230,13 @@ cual no disuelve la duda: la formaliza y le pone un número. Eso tiene valor
 real y es honesto, pero no es consuelo.
 
 Hay, sin embargo, un uso concreto que sí serviría a este trabajo y conviene
-anotarlo. Las regularidades direccionales permiten falsar etimologías: si lo
-normal es que lo concreto se vuelva abstracto y casi nunca al revés,
-entonces proponer que *ameyalli* significaba originalmente «fuente de la
-sabiduría» exige un recorrido en la dirección improbable. La constante no
-confirma la lectura documentada, pero sí debilita la lectura popular por
-razones independientes del archivo colonial. Es un apoyo lateral, modesto y
-verdadero.
+anotarlo. Las regularidades direccionales pueden aportar evidencia comparativa
+contra algunas etimologías, pero no falsarlas por sí solas. Si una propuesta
+requiere una trayectoria semántica poco común, como derivar directamente
+«fuente de la sabiduría» de un sustantivo documentado como «manantial», la
+carga de prueba aumenta. Esa regularidad no confirma la lectura documentada,
+pero sí obliga a la lectura alternativa a aportar evidencia histórica
+independiente.
 
 ### Desventajas de aceptar esta parte
 
@@ -236,33 +249,36 @@ es falso y sería un abuso de este apartado. Y arriesga que un lector
 descarte también las partes del trabajo que la objeción no toca.
 
 Por eso conviene delimitar con exactitud qué sobrevive intacto a esta
-crítica. Sobrevive la afirmación negativa, porque que nadie aparezca llamado
-así en tres siglos de registro es un hecho sobre el archivo y no sobre la
-semántica. Sobreviven los datos del registro civil de la Ciudad de México,
-que son medición directa y no interpretación. Y sobreviven los hechos
-estructurales de la morfología, comprobables contra miles de formas del
-corpus, frente a los cuales una glosa aislada tiene mucho menos peso.
+crítica. Sobrevive la constatación negativa dentro de los archivos y capas
+consultados, porque describe el resultado de una búsqueda y no una propiedad
+semántica de la lengua. Sobreviven los datos del registro civil de la Ciudad
+de México, que son medición directa y no interpretación. Y sobreviven las
+conclusiones léxicas y estructurales cuando convergen testimonios
+independientes; la Parte I restringe las afirmaciones pragmáticas y
+experienciales, no la posibilidad de reconstrucción histórica.
 
 ### Estado del contexto cultural
 
 Queda por responder la pregunta que el autor formuló en su forma más
 inquietante: ¿estamos tratando al náhuatl como una lengua totalmente
-conservada, cuando quizá el contexto cultural ya se perdió? La respuesta
-honesta es que se conservó el léxico y se perdió la mayor parte de lo demás.
-Sobreviven las denotaciones que un diccionario puede fijar y se perdieron el
-registro, la connotación, el valor social de usar una palabra y no otra, el
-tono, la ironía y la carga afectiva. Existen variantes modernas vivas —la
-Parte II cita la de Mecayapan— de modo que la continuidad no es nula, pero
-está atenuada y divergida por siglos de separación.
+conservada, cuando quizá parte del contexto cultural ya no es observable? La
+respuesta honesta no es que se conservara el léxico y se perdiera casi todo
+lo demás: el archivo colonial contiene géneros diversos y las variantes
+modernas mantienen una continuidad lingüística real. Lo que está representado
+de forma mucho más desigual es la conversación cotidiana espontánea, la
+prosodia y parte de la indexicalidad social, la ironía y la carga afectiva de
+usos locales. La pérdida es, por tanto, selectiva y dependiente del registro,
+no una ruptura general entre la lengua documentada y la lengua vivida.
 
 La conclusión no es que el trabajo sea inútil, sino que su objeto es más
 estrecho de lo que su primera versión aparentaba. Este documento reconstruye
-con solidez lo que unas fuentes coloniales registraron y lo que la
-morfología permite, y no reconstruye lo que una comunidad de hablantes
-sentía al pronunciar estas palabras. Ese segundo objeto probablemente sea
-irrecuperable, no por falta de método sino porque la información que haría
-falta fue destruida. Ninguna ley recrea información destruida, y esa es la
-forma exacta que toma aquí la entropía que el autor invocó.
+con grados altos de confianza valores léxicos y morfosintácticos documentados,
+y puede inferir otros cuando varias clases de evidencia convergen. No
+reconstruye de manera exhaustiva la experiencia subjetiva ni todas las
+connotaciones conversacionales de cada comunidad que usó esas palabras. Parte
+de esa información puede ser irrecuperable porque no quedó representada en
+las fuentes conservadas, pero «no preservada» es una descripción más precisa
+que «destruida» y no invalida las inferencias que el archivo sí permite.
 
 ## Parte II. Investigación filológica
 
@@ -515,13 +531,13 @@ de verbal. Quien porte esa variante lleva un nombre que significa «luz» y no
 «ya amanece», y confundir ambas formas produce un análisis erróneo aunque
 las dos sean auténticas.
 
-La conclusión del examen es unívoca. Solo la lectura de `ye` como adverbio
-temporal, combinado con un verbo impersonal lexicalizado, resulta
-gramatical, fonológicamente regular y semánticamente coherente para la forma
-estudiada. Esa lectura además está atestiguada de forma repetida en las
-fuentes coloniales, tanto como secuencia libre cuanto como lema unido. Las
-tres primeras alternativas se descartan con estatus **(C)**, y la cuarta se
-reclasifica como forma distinta con etimología propia.
+La evidencia disponible favorece claramente una lectura. Solo la lectura de
+`ye` como adverbio temporal, combinado con un verbo impersonal lexicalizado,
+resulta gramatical, fonológicamente regular y semánticamente coherente para
+la forma estudiada. Esa lectura además está atestiguada de forma repetida en
+las fuentes coloniales, tanto como secuencia libre cuanto como lema unido.
+Las tres primeras alternativas se descartan con estatus **(C)**, y la cuarta
+se reclasifica como forma distinta con etimología propia.
 
 #### Glosa interlineal
 
@@ -903,31 +919,30 @@ ante algo que obliga a reajustar la escala con la que uno se mide a sí
 mismo. Es, con precisión, la emoción que la pregunta describe.
 
 El punto lingüísticamente relevante es otro y merece exponerse con cuidado.
-El náhuatl construye conceptos abstractos mediante un recurso llamado
-difrasismo, término acuñado por Garibay y estudiado en detalle por Montes de
-Oca Vega (2013): dos voces concretas se yuxtaponen para nombrar una tercera
-cosa que ninguna de las dos designa por separado **(A)**. Así, *in atl in
-tepetl*, «el agua, el cerro», significa la ciudad; *in xochitl in cuicatl*,
-«la flor, el canto», significa la poesía y, por extensión, la verdad que
-solo el arte alcanza. La lengua nombra lo inefable emparejando dos imágenes
-físicas, que es exactamente lo que la pregunta intuye.
+En los estudios sobre náhuatl, *difrasismo* designa pares históricamente
+atestiguados cuyos elementos forman una unidad de sentido convencional,
+frecuente en registros rituales y formales (Montes de Oca Vega, 2013). Así,
+*in atl in tepetl*, «el agua, el cerro», puede designar la ciudad, mientras
+que *in xochitl in cuicatl*, «la flor, el canto», forma otra unidad semántica
+tradicional **(A)**. La mera semejanza con una yuxtaposición binaria no basta,
+por tanto, para clasificar un par nuevo como difrasismo.
 
-De ahí se sigue una conclusión de doble filo, y ambas mitades deben
-sostenerse a la vez. «Ameyalli Yetlanezi» no es un difrasismo atestiguado, y
-afirmar lo contrario sería incurrir en el mismo error que este trabajo
-denuncia en el apartado anterior **(C)**. Pero el par «manantial, amanecer»
-tiene la forma exacta de un difrasismo: dos elementos concretos, agua y luz,
-cuya unión apunta a algo que ninguno nombra por sí solo. Quien lee ahí el
-asombro de estar vivo no está proyectando una fantasía sobre la lengua, sino
-aplicando el mecanismo que la lengua misma emplea.
+De ahí se sigue una conclusión de doble filo, y ambas mitades deben sostenerse
+a la vez. «Ameyalli Yetlanezi» no es un difrasismo atestiguado, y la
+semejanza formal no permite atribuirle una convención histórica **(C)**. El
+par «manantial, amanecer» sí admite una lectura poética moderna por la
+yuxtaposición de dos imágenes concretas, pero eso es una analogía con un
+recurso documentado y no evidencia de pertenencia a la clase. Quien lo asocia
+con el asombro de estar vivo está creando una interpretación compatible con
+esas imágenes, no recuperando un significado léxico o fraseológico antiguo.
 
 La consecuencia práctica es modesta y honesta. El nombre no significa
-documentalmente esa emoción, y ninguna fuente colonial autoriza a
-traducirlo así. Lo que sí puede afirmarse es que la lectura no es
-arbitraria: reproduce un procedimiento genuino de construcción de sentido en
-náhuatl, aplicado a materiales léxicos auténticos. Un significado
-documentado y un significado bien construido son cosas distintas, y esta
-sección afirma el segundo sin pretender el primero.
+documentalmente esa emoción, y ninguna fuente colonial autoriza a traducirlo
+así. Lo que sí puede afirmarse es algo más estrecho: la interpretación usa
+materiales léxicos auténticos y recuerda una estrategia histórica de
+construcción de sentido en náhuatl. Significado documentado, construcción
+históricamente convencional y lectura poética moderna son tres categorías
+que deben mantenerse separadas.
 
 ### Limitaciones e incertidumbre residual
 
@@ -982,23 +997,26 @@ declina como cualquier otra. Ese hallazgo pertenece al plano demográfico y
 no afecta la datación filológica establecida en los apartados anteriores.
 
 Todo lo anterior debe leerse, sin embargo, bajo la advertencia de la Parte
-I, que es la conclusión de orden superior de este documento. Lo que se
-reconstruye aquí es lo que unas fuentes coloniales registraron y lo que la
-morfología autoriza, no lo que una comunidad de hablantes entendía al usar
-estas palabras. Ese segundo objeto es probablemente irrecuperable, porque la
-información que haría falta fue destruida y ninguna regularidad estadística
-recrea información destruida. La investigación filológica conserva su valor
-dentro de ese perímetro y lo pierde por completo fuera de él.
+I, que es la conclusión de orden superior de este documento. La semántica
+histórica puede reconstruir valores públicos documentados mediante la
+convergencia de léxico, morfología, sintaxis, distribución y comparación,
+pero no garantiza una descripción exhaustiva de la experiencia de cada
+hablante. La información menos accesible incluye sobre todo prosodia y
+conversación espontánea, connotaciones sociales finas y asociaciones
+subjetivas, algunas de las cuales quizá no sean recuperables porque no
+quedaron preservadas en las fuentes. La investigación filológica conserva su
+valor precisamente dentro de esos grados de evidencia y no necesita reclamar
+acceso total a la experiencia lingüística para producir conocimiento válido.
 
 Conviene cerrar con una precisión que evite lecturas indebidas. Señalar que
-un uso es moderno no lo descalifica ni lo vuelve menos legítimo para quien
-lo porta. Todas las tradiciones onomásticas del mundo incorporan
-invenciones recientes construidas sobre materiales antiguos, y este caso
-tiene además la particularidad de emparejarlos según un patrón que la propia
-lengua practicaba. Lo que este trabajo sostiene es únicamente que la
-descripción correcta de «Ameyalli Yetlanezi» es la de un nombre
-contemporáneo hecho con piezas cuya historia documentada es larga y
-verificable.
+un uso es moderno no lo descalifica ni lo vuelve menos legítimo para quien lo
+porta. Todas las tradiciones onomásticas del mundo incorporan invenciones
+recientes construidas sobre materiales antiguos, y este caso empareja
+materiales nahuas auténticos en una lectura poética moderna que puede
+compararse, sin identificarse, con recursos históricos de yuxtaposición. Lo
+que este trabajo sostiene es únicamente que la descripción correcta de
+«Ameyalli Yetlanezi» es la de un nombre contemporáneo hecho con piezas cuya
+historia documentada es larga y verificable.
 
 ## Referencias
 
@@ -1036,6 +1054,10 @@ Portal de Datos Abiertos de la Ciudad de México.
 
 Early Nahuatl Library. (s.f.). *Early Nahuatl Library* [repositorio
 digital].
+
+Flores Farfán, J. A. (2013). La variedad misionera del náhuatl en el
+*Vocabulario en lengua castellana y mexicana y mexicana y castellana* de fray
+Alonso de Molina (1555-1571). *Estudios de Cultura Náhuatl*, *45*, 233-266.
 
 Garibay K., Á. M. (1953-1954). *Historia de la literatura náhuatl*. Porrúa.
 

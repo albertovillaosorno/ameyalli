@@ -39,6 +39,8 @@ misma nota.
 - [Oregon: yetlaneci](https://nahuatl.wired-humanities.org/content/yetlaneci)
 - [Canger (1988)](https://doi.org/10.1086/466074)
 - [Keltner y Haidt (2003)](https://doi.org/10.1080/02699930302297)
+<!-- markdownlint-disable-next-line MD013 -->
+- [Flores Farfán (2013)](https://nahuatl.historicas.unam.mx/index.php/ecn/article/view/77714)
 
 El conjunto de datos de nombres de la Ciudad de México está disponible
 directamente en el Portal de Datos Abiertos de la Ciudad de México:
@@ -548,6 +550,27 @@ posterior explica por qué esos reflejos no bastan por sí solos para construir
 una genealogía dialectal simple. El uso que hace el artículo de Canger queda
 así limitado a un marco de contraste dialectológico, no a una adscripción
 microregional del antropónimo.
+
+## Revisión epistemológica de la Parte I
+
+Una revisión posterior contrastó las afirmaciones sobre Molina con José
+Antonio Flores Farfán (2013), publicado en *Estudios de Cultura Náhuatl* 45,
+páginas 233-266. La ficha oficial de la UNAM confirma título, autor, volumen y
+extensión, y el artículo caracteriza rasgos del *Vocabulario* como parte de
+una variedad misionera del náhuatl. Esa fuente respalda la existencia de un
+filtro colonial específico, no la idea de que cada glosa de Molina sea
+errónea. El artículo principal incorpora por ello una crítica doble: toda
+lexicografía media, y la lexicografía misionera añade condicionantes propios.
+
+La misma revisión retiró dos formulaciones que excedían la evidencia: una
+«ruptura de continuidad» del náhuatl y la afirmación de que la información
+semántica necesaria había sido «destruida». El propio registro de esta
+investigación documenta corpus coloniales de géneros diversos y continuidad
+en variantes modernas, de modo que la pérdida debe describirse como selectiva
+y desigual por registro. La Parte I distingue ahora lo reconstruible mediante
+fuentes convergentes de lo poco representado, como conversación espontánea,
+prosodia y connotación social fina. Esa corrección limita el alcance de la
+reconstrucción sin convertir la limitación en escepticismo semántico.
 
 ## Cierre de las áreas revisadas
 

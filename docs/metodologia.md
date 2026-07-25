@@ -28,16 +28,20 @@ sino una precisión. El artículo la marca de manera explícita cuando ocurre.
 
 ## Jerarquía de fuentes
 
-Las fuentes se ordenan por peso probatorio y no por comodidad de acceso. Una
-fuente de nivel inferior nunca corrige a una superior en materia
-etimológica. Cuando dos fuentes del mismo nivel se contradicen, el artículo
-expone la contradicción en lugar de promediarla. Ese criterio se aplica sin
-excepción.
+Las fuentes se ordenan por función probatoria y no por comodidad de acceso.
+Una fuente primaria tiene el mayor peso para establecer qué forma o glosa
+quedó atestiguada en su época, pero ese privilegio no convierte su análisis
+lingüístico en incuestionable. La gramática y la lexicografía académicas
+modernas pueden corregir una segmentación o interpretación de una fuente
+primaria sin alterar el hecho de que esa fuente documenta una forma concreta.
+Cuando dos evidencias relevantes se contradicen, el artículo expone la
+contradicción y distingue qué clase de afirmación puede resolver cada una.
 
-1. Fuentes primarias coloniales: Molina, Olmos, Carochi, el corpus
-   sahaguntino y la documentación notarial en lengua náhuatl.
-1. Lexicografía y gramática académicas: Siméon, Karttunen, Andrews, Launey,
-   Lockhart y Canger.
+1. Fuentes primarias coloniales, para atestiguación histórica: Molina, Olmos,
+   Carochi, el corpus sahaguntino y la documentación notarial en lengua
+   náhuatl.
+1. Lexicografía y gramática académicas, para análisis y comparación: Siméon,
+   Karttunen, Andrews, Launey, Lockhart y Canger.
 1. Bibliografía etnohistórica y sociológica arbitrada sobre los movimientos
    de revitalización del siglo XX.
 1. Estadística y registros públicos institucionales, exclusivamente para el
