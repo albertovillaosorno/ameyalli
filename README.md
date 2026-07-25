@@ -1,5 +1,7 @@
 # Ameyalli Yetlanezi: significado, origen y análisis
 
+> Project started: July 2026.
+
 **Respuesta corta**: «Ameyalli» significa *manantial* o *fuente de agua*, y
 «Yetlanezi» significa *ya amanece*. Ambas palabras son náhuatl auténtico
 documentado en época colonial, pero el par no es un nombre prehispánico: como

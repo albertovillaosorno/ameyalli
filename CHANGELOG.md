@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-07-25
+
+- Recorded the project start as July 2026.
+
 ## 2026-07-22
 
 - `6e75f12` docs(ameyalli): lead with the epistemological objection as Part I
