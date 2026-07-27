@@ -4,3 +4,8 @@
 
 # Figure assets are stored verbatim, with no end-of-line normalization.
 *.png binary
+
+*.yaml text eol=lf
+*.md text eol=lf linguist-language=Markdown linguist-detectable -linguist-documentation
+*.mdc text eol=lf linguist-language=Markdown linguist-detectable -linguist-documentation
+*.tex text eol=lf
