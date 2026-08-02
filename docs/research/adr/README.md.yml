@@ -1,0 +1,42 @@
+schema: jig-graph-node/v2
+identity:
+  id: "artifact:decision-record:296e5fbd65e6e369"
+  kind: "artifact"
+  name: "Research decisions"
+  path: "docs/research/adr/README.md"
+  role: "decision-record"
+contracts:
+  universal: graph-node/v2
+  location: repository-path/v1
+  domain: research/v1
+  role: decision-record/v1
+classification:
+  repository: ameyalli
+  location: docs
+  domain: research
+  lifecycle: active
+  confidentiality: public
+ownership:
+  primary: repository:ameyalli
+  accountable: Alberto Villa Osorno
+lifecycle:
+  stage: none
+content:
+  format: md
+  purpose: decision-record
+  authored: true
+graph:
+  node: "artifact:decision-record:296e5fbd65e6e369"
+  labels:
+    - artifact
+    - decision-record
+  hubs: []
+  edges: []
+provenance:
+  authority: .jig/taxonomy.json
+  origin: authored-repository
+  template_mode: active
+validation:
+  mode: active
+  exact_path: required
+  unknown_fields: fatal

@@ -1,0 +1,361 @@
+[jig]
+schema_version = 18
+
+[documentation]
+path_style = "lower-kebab"
+# jig-ignore-next-line: closed TOML parser requires one physical value
+required_paths = ["docs/README.md", "docs/bibliography/README.md", "docs/bibliography/adr/README.md", "docs/bibliography/legal/README.md", "docs/bibliography/sources/README.md", "docs/bibliography/standards/README.md", "docs/bibliography/tools/README.md", "docs/legal/README.md", "docs/legal/adr/README.md", "docs/research/README.md", "docs/research/adr/README.md", "docs/research/methodology/README.md", "docs/research/papers/README.md", "docs/technical/README.md", "docs/technical/adr/README.md", "docs/technical/integrations/README.md", "docs/technical/verification/README.md"]
+roots = ["docs/"]
+
+[documentation.profile.bibliography-adr]
+decision_id = "required"
+decision_id_section = "Decision ID"
+decision_id_style = "opaque"
+kind = "adr"
+paths = ["docs/bibliography/adr/"]
+section_mode = "exact"
+# jig-ignore-next-line: closed TOML parser requires one physical value
+sections = ["Status", "Decision ID", "Context", "Decision", "Advantages", "Disadvantages", "Consequences", "Rejected Alternatives", "Evidence"]
+
+[documentation.profile.bibliography-catalog]
+decision_id = "none"
+kind = "markdown"
+# jig-ignore-next-line: closed TOML parser requires one physical value
+paths = ["docs/bibliography/README.md", "docs/bibliography/adr/README.md", "docs/bibliography/legal/README.md", "docs/bibliography/provenance/README.md", "docs/bibliography/sources/README.md", "docs/bibliography/standards/README.md", "docs/bibliography/tools/README.md"]
+section_mode = "required"
+sections = ["Purpose", "Contents"]
+
+[documentation.profile.bibliography-provenance]
+decision_id = "none"
+kind = "markdown"
+paths = ["docs/bibliography/provenance/"]
+section_mode = "required"
+sections = ["Status"]
+
+[documentation.profile.bibliography-record]
+decision_id = "none"
+kind = "markdown"
+# jig-ignore-next-line: closed TOML parser requires one physical value
+paths = ["docs/bibliography/legal/", "docs/bibliography/sources/", "docs/bibliography/standards/", "docs/bibliography/tools/"]
+section_mode = "exact"
+# jig-ignore-next-line: closed TOML parser requires one physical value
+sections = ["Status", "Subject", "Repository use", "Provenance", "Identity and version", "License or terms", "Evidence", "Sources"]
+
+[documentation.profile.legal-adr]
+decision_id = "required"
+decision_id_section = "Decision ID"
+decision_id_style = "opaque"
+kind = "adr"
+paths = ["docs/legal/adr/"]
+section_mode = "exact"
+# jig-ignore-next-line: closed TOML parser requires one physical value
+sections = ["Status", "Decision ID", "Context", "Decision", "Advantages", "Disadvantages", "Consequences", "Rejected Alternatives", "Evidence"]
+
+[documentation.profile.legal-catalog]
+decision_id = "none"
+kind = "markdown"
+paths = ["docs/legal/README.md", "docs/legal/adr/README.md"]
+section_mode = "required"
+sections = ["Purpose", "Contents"]
+
+[documentation.profile.repository-index]
+decision_id = "none"
+kind = "markdown"
+paths = ["docs/README.md"]
+section_mode = "exact"
+sections = ["Purpose", "Contents"]
+
+[documentation.profile.research-adr]
+decision_id = "required"
+decision_id_section = "Decision ID"
+decision_id_style = "opaque"
+kind = "adr"
+paths = ["docs/research/adr/"]
+section_mode = "exact"
+# jig-ignore-next-line: repository ADRs use this exact capitalization
+sections = ["Status", "Decision ID", "Context", "Decision", "Advantages", "Disadvantages", "Consequences", "Rejected alternatives", "Evidence"]
+
+[documentation.profile.research-catalog]
+decision_id = "none"
+kind = "markdown"
+# jig-ignore-next-line: closed TOML parser requires one physical value
+paths = ["docs/research/README.md", "docs/research/adr/README.md", "docs/research/methodology/README.md", "docs/research/papers/README.md"]
+section_mode = "required"
+sections = ["Purpose"]
+
+[documentation.profile.research-methodology]
+decision_id = "none"
+kind = "markdown"
+paths = ["docs/research/methodology/"]
+section_mode = "required"
+sections = ["Status", "Purpose", "Verification"]
+
+[documentation.profile.technical-adr]
+decision_id = "required"
+decision_id_section = "Decision ID"
+decision_id_style = "opaque"
+kind = "adr"
+paths = ["docs/technical/adr/"]
+section_mode = "exact"
+# jig-ignore-next-line: closed TOML parser requires one physical value
+sections = ["Status", "Decision ID", "Context", "Decision", "Advantages", "Disadvantages", "Consequences", "Rejected Alternatives", "Evidence"]
+
+[documentation.profile.technical-catalog]
+decision_id = "none"
+kind = "markdown"
+# jig-ignore-next-line: closed TOML parser requires one physical value
+paths = ["docs/technical/README.md", "docs/technical/adr/README.md", "docs/technical/integrations/README.md", "docs/technical/verification/README.md"]
+section_mode = "required"
+sections = ["Purpose", "Contents"]
+
+[documentation.profile.technical-general]
+decision_id = "none"
+kind = "markdown"
+paths = ["docs/technical/integrations/", "docs/technical/verification/"]
+section_mode = "exact"
+# jig-ignore-next-line: closed TOML parser requires one physical value
+sections = ["Status", "Purpose", "Scope", "Current behavior", "Invariants", "Failure behavior", "Verification", "References"]
+
+[graphify]
+authority_roots = ["."]
+cache_root = ".cache/jig/graph"
+excluded_roots = [".cache", ".dependencies", ".git", ".logs", ".temp"]
+taxonomy_path = ".jig/taxonomy.json"
+
+[header]
+adapters = []
+confidential = false
+copyright = "Copyright (c) 2026 Alberto Villa Osorno."
+exempt_paths = []
+extensions = []
+max_lines = 32
+required_boundary_fields = ["Owns"]
+require_module_summary = false
+
+[license]
+files = ["LICENSE-MIT"]
+spdx_expression = "MIT"
+
+[language]
+analyzed = []
+present = []
+
+[linters.applicability.clang-format]
+enabled = false
+reason = "The repository contains no C, C++, or CUDA source."
+
+[linters.applicability.clang-tidy]
+enabled = false
+reason = "The repository contains no C, C++, or CUDA source."
+
+[linters.applicability.clippy-config]
+enabled = false
+reason = "The repository contains no Rust workspace."
+
+[linters.applicability.clippy-lints]
+enabled = false
+reason = "The repository contains no Rust workspace."
+
+[linters.applicability.coverage-py]
+enabled = false
+reason = "The repository contains no Python coverage target."
+
+[linters.applicability.csharp-global]
+enabled = false
+reason = "The repository contains no C# source."
+
+[linters.applicability.csharp-visualstudio]
+enabled = false
+reason = "The repository contains no C# source."
+
+[linters.applicability.directory-build]
+enabled = false
+reason = "The repository contains no MSBuild-governed source."
+
+[linters.applicability.editorconfig]
+enabled = true
+reason = "EditorConfig governs repository-authored text surfaces."
+
+[linters.applicability.msvc-cpp]
+enabled = false
+reason = "The repository contains no MSVC-governed C++ source."
+
+[linters.applicability.pyright]
+enabled = false
+reason = "The repository contains no Python source."
+
+[linters.applicability.pytest]
+enabled = false
+reason = "The repository contains no Python tests."
+
+[linters.applicability.ruff]
+enabled = false
+reason = "The repository contains no Python source."
+
+[linters.applicability.rust-toolchain]
+enabled = false
+reason = "The repository contains no Rust workspace."
+
+[linters.applicability.rustc-lints]
+enabled = false
+reason = "The repository contains no Rust workspace."
+
+[linters.applicability.rustfmt]
+enabled = false
+reason = "The repository contains no Rust source."
+
+[linters.applicability.typescript]
+enabled = false
+reason = "The repository contains no TypeScript source."
+
+[linters.applicability.unreal]
+enabled = false
+reason = "The repository is not an Unreal Engine project."
+
+[rules]
+all_registered = true
+allow_disable = false
+unknown_rule = "deny"
+
+[cspell]
+config_path = ".jig/cspell/cspell.json"
+dictionary_root = ".jig/cspell"
+# jig-ignore-next-line: closed TOML parser requires one physical value
+files = [".github/**/*.md", ".jig/**/*.{toml,json,jsonc,yml,yaml}", "AGENTS.md", "CHANGELOG.md", "DISCLAIMER.md", "README.md", "ROADMAP.md", "THIRD-PARTY-NOTICES.md", "TODO.md", "docs/bibliography/**/README.md", "docs/legal/**/*.md", "docs/research/**/README.md", "docs/technical/README.md", "docs/technical/adr/README.md", "docs/technical/integrations/*.md", "docs/technical/verification/*.md"]
+# jig-ignore-next-line: closed configuration value is indivisible
+ignore_paths = [".cache/**", ".dependencies/**", ".git/**", ".logs/**", ".temp/**"]
+language = "en-US"
+min_word_length = 3
+# jig-ignore-next-line: canonical schema URL is indivisible
+schema = "https://raw.githubusercontent.com/streetsidesoftware/cspell/main/cspell.schema.json"
+version = "0.2"
+
+[cspell.dictionary.english]
+name = "ameyalli-english"
+path = ".jig/cspell/english.txt"
+
+[cspell.dictionary.named-entities]
+name = "ameyalli-named-entities"
+path = ".jig/cspell/named-entities.txt"
+
+[cspell.dictionary.technical]
+name = "ameyalli-technical"
+path = ".jig/cspell/technical.txt"
+
+[todo]
+acceptance_section = "Acceptance"
+completed_root = "docs/todo/completed/"
+lane_policy = "strict-dependency-order"
+open_root = "docs/todo/open/"
+record_extension = "mdc"
+record_root = "docs/todo/"
+require_acceptance_items = true
+require_validation_commands = true
+sections = ["Objective", "Acceptance", "Evidence"]
+task_document = "TODO.md"
+task_heading_level = 3
+
+[version.git]
+current = "2.55.0"
+stable = "2.55.0"
+
+[version.git.projection.tool]
+kind = "tool"
+target = "git"
+template = "{version}"
+
+[version.jig]
+current = "26.3.0"
+stable = "26.3.0"
+
+[version.jig.projection.identity]
+kind = "toml"
+path = ".jig/version/jig.toml"
+selector = "jig.version"
+template = "{version}"
+
+[portability]
+# jig-ignore-next-line: closed TOML parser requires one physical value
+forbidden_roots = [".jig-cache", ".turbo", "cache", "dependencies", "logs", "target", "temp", "tmp"]
+required_roots = [".cache", ".dependencies", ".logs", ".temp"]
+runtime_roots = [".cache", ".dependencies", ".temp"]
+
+[layout]
+adjacent_component_repetition = "deny"
+
+[repository]
+fixture_roots = []
+
+[rigor]
+mode = "additive"
+conflict = "fail"
+
+[taxonomy]
+required = true
+unknown_paths = "deny"
+overlapping_roles = "deny"
+one_role_per_path = true
+spaces_in_paths = "deny"
+
+[taxonomy.role.documentation]
+# jig-ignore-next-line: closed configuration value is indivisible
+paths = ["docs/README.md", "docs/README.md.yml", "docs/bibliography/", "docs/legal/", "docs/research/", "docs/technical/"]
+
+[taxonomy.role.git_hooks]
+paths = [".githooks/"]
+
+[taxonomy.role.github]
+paths = [".github/"]
+
+[taxonomy.role.jig_configuration]
+paths = [".jig/"]
+
+[taxonomy.role.root_governance]
+# jig-ignore-next-line: closed configuration value is indivisible
+paths = [".editorconfig", ".editorconfig.yml", ".gitattributes", ".gitattributes.yml", ".gitignore", ".gitignore.yml", "AGENTS.md", "AGENTS.md.yml", "CHANGELOG.md", "CHANGELOG.md.yml", "CITATION.cff", "CITATION.cff.yml", "DISCLAIMER.md", "DISCLAIMER.md.yml", "LICENSE-MIT", "LICENSE-MIT.yml", "README.md", "README.md.yml", "ROADMAP.md", "ROADMAP.md.yml", "THESIS.md", "THESIS.md.yml", "THIRD-PARTY-NOTICES.md", "THIRD-PARTY-NOTICES.md.yml", "TODO.md", "TODO.md.yml"]
+
+[taxonomy.role.todo]
+paths = ["docs/todo/"]
+
+[analysis]
+full_workspace = true
+incremental = true
+cache = "bounded"
+
+[code_ownership]
+default = "authored-production"
+exact_languages = []
+
+[code_ownership.override.generated_cspell_projection]
+authority = "jig.cspell.projection"
+kind = "generated"
+selectors = ["exact:.jig/cspell/cspell.json"]
+
+[commit]
+allowed_scopes = ["ci", "docs", "legal", "repo", "research", "tooling"]
+allowed_trailers = ["BREAKING CHANGE", "Co-authored-by"]
+# jig-ignore-next-line: closed TOML parser requires one physical value
+allowed_types = ["build", "chore", "ci", "docs", "feat", "fix", "perf", "refactor", "release", "revert", "style", "test"]
+allow_merge_commits = false
+allow_revert_type = true
+body_line_max_length = 80
+body_min_length = 80
+history_baseline = "a542145259d2e1eb2393a2223ecc5437a6ee2e57"
+required_trailers = []
+require_scope = true
+subject_max_length = 72
+
+[contribution]
+exact_form = true
+private_authoritative_review = true
+
+[tool.git]
+path = ".dependencies/git/2.55.0/bin/git.exe"
+version = "2.55.0"
+
+[git]
+required_hooks = ["commit-msg"]
+required_ignored_paths = [".githooks/commit-msg", ".githooks/commit-msg.exe"]
+
+[git_attributes]
+binary_extensions = ["png"]

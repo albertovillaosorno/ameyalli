@@ -1,0 +1,43 @@
+schema: jig-graph-node/v2
+identity:
+  id: "artifact:research-thesis:ac06dd591bf12e3e"
+  kind: "artifact"
+  # jig-ignore-next-line: exact artifact value is indivisible
+  name: "Análisis morfosintáctico e histórico del antropónimo «Ameyalli Yetlanezi»"
+  path: "THESIS.md"
+  role: "research-thesis"
+contracts:
+  universal: graph-node/v2
+  location: repository-path/v1
+  domain: research/v1
+  role: research-thesis/v1
+classification:
+  repository: ameyalli
+  location: root
+  domain: research
+  lifecycle: active
+  confidentiality: public
+ownership:
+  primary: repository:ameyalli
+  accountable: Alberto Villa Osorno
+lifecycle:
+  stage: none
+content:
+  format: md
+  purpose: research-thesis
+  authored: true
+graph:
+  node: "artifact:research-thesis:ac06dd591bf12e3e"
+  labels:
+    - artifact
+    - research-thesis
+  hubs: []
+  edges: []
+provenance:
+  authority: .jig/taxonomy.json
+  origin: authored-repository
+  template_mode: active
+validation:
+  mode: active
+  exact_path: required
+  unknown_fields: fatal

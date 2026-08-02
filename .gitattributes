@@ -1,11 +1,49 @@
-# Text normalization: the authored content of this repository is Markdown
-# and stays LF.
+# Normalize authored text to LF in the index and working tree.
 * text=auto eol=lf
 
-# Figure assets are stored verbatim, with no end-of-line normalization.
-*.png binary
-
+# Explicit authored text families.
+*.rs text eol=lf
+*.c text eol=lf
+*.cc text eol=lf
+*.cpp text eol=lf
+*.cxx text eol=lf
+*.h text eol=lf
+*.hpp text eol=lf
+*.hxx text eol=lf
+*.cu text eol=lf linguist-language=Cuda linguist-detectable
+*.cuh text eol=lf linguist-language=Cuda linguist-detectable
+*.py text eol=lf
+*.ts text eol=lf
+*.tsx text eol=lf
+*.toml text eol=lf
+*.lock text eol=lf
+*.json text eol=lf
+*.jsonc text eol=lf
+*.yml text eol=lf
 *.yaml text eol=lf
-*.md text eol=lf linguist-language=Markdown linguist-detectable -linguist-documentation
-*.mdc text eol=lf linguist-language=Markdown linguist-detectable -linguist-documentation
+*.md text eol=lf
+*.mdc text eol=lf
 *.tex text eol=lf
+*.bib text eol=lf
+*.malbolge text eol=lf linguist-language=Malbolge linguist-detectable
+*.editorconfig text eol=lf
+*.props text eol=lf
+*.sample text eol=lf
+
+# Binary families.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.ico binary
+*.pdf binary
+*.zip binary
+*.gz binary
+*.7z binary
+*.exe binary
+*.dll binary
+*.so binary
+*.dylib binary
+*.a binary
+*.lib binary

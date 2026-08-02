@@ -1,0 +1,42 @@
+schema: jig-graph-node/v2
+identity:
+  id: "artifact:bibliography-source:7424b4edc708c60d"
+  kind: "artifact"
+  name: "Mexico City Civil Registry 2023 — Recorded Names Dataset"
+  path: "docs/bibliography/sources/cdmx-civil-registry-2023.md"
+  role: "bibliography-source"
+contracts:
+  universal: graph-node/v2
+  location: repository-path/v1
+  domain: bibliography/v1
+  role: bibliography-source/v1
+classification:
+  repository: ameyalli
+  location: docs
+  domain: bibliography
+  lifecycle: active
+  confidentiality: public
+ownership:
+  primary: repository:ameyalli
+  accountable: Alberto Villa Osorno
+lifecycle:
+  stage: none
+content:
+  format: md
+  purpose: bibliography-source
+  authored: true
+graph:
+  node: "artifact:bibliography-source:7424b4edc708c60d"
+  labels:
+    - artifact
+    - bibliography-source
+  hubs: []
+  edges: []
+provenance:
+  authority: .jig/taxonomy.json
+  origin: authored-repository
+  template_mode: active
+validation:
+  mode: active
+  exact_path: required
+  unknown_fields: fatal

@@ -1,0 +1,37 @@
+---
+id: "spanish-spelling-validation"
+status: "pending"
+lane: "2"
+area: "tooling"
+task: "Add reproducible Spanish spelling validation"
+contract: ".jig/jig.toml"
+depends_on:
+adr_paths:
+scope:
+  - ".jig/cspell/"
+  - ".jig/jig.toml"
+  - "THESIS.md"
+  - "docs/bibliography/provenance/verification-status.md"
+  - "docs/research/methodology/evidence-methodology.md"
+  - "docs/research/adr/editorial-conventions.md"
+validation:
+  - "jig check --full"
+---
+
+# Add reproducible Spanish spelling validation
+
+## Objective
+
+Pin a licensed Spanish dictionary and extend CSpell to the complete Spanish
+research corpus without generating a dictionary from the corpus itself.
+
+## Acceptance
+
+- Dictionary identity, version, license, and origin are recorded.
+- Existing Spanish content is checked rather than globally ignored.
+- Research terminology uses narrow, reviewed additions.
+- Owning validation gates pass.
+
+## Evidence
+
+- The initial Jig adoption validates English governance surfaces only.

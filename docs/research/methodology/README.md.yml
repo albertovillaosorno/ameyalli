@@ -1,0 +1,42 @@
+schema: jig-graph-node/v2
+identity:
+  id: "artifact:research-document:a0d6992660367d76"
+  kind: "artifact"
+  name: "Research methodology"
+  path: "docs/research/methodology/README.md"
+  role: "research-document"
+contracts:
+  universal: graph-node/v2
+  location: repository-path/v1
+  domain: research/v1
+  role: research-document/v1
+classification:
+  repository: ameyalli
+  location: docs
+  domain: research
+  lifecycle: active
+  confidentiality: public
+ownership:
+  primary: repository:ameyalli
+  accountable: Alberto Villa Osorno
+lifecycle:
+  stage: none
+content:
+  format: md
+  purpose: research-document
+  authored: true
+graph:
+  node: "artifact:research-document:a0d6992660367d76"
+  labels:
+    - artifact
+    - research-document
+  hubs: []
+  edges: []
+provenance:
+  authority: .jig/taxonomy.json
+  origin: authored-repository
+  template_mode: active
+validation:
+  mode: active
+  exact_path: required
+  unknown_fields: fatal

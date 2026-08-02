@@ -1,0 +1,42 @@
+schema: jig-graph-node/v2
+identity:
+  id: "artifact:root-governance:8c6aa9e65ae4ec81"
+  kind: "artifact"
+  name: "Third-party notices"
+  path: "THIRD-PARTY-NOTICES.md"
+  role: "root-governance"
+contracts:
+  universal: graph-node/v2
+  location: repository-path/v1
+  domain: repository-governance/v1
+  role: root-governance/v1
+classification:
+  repository: ameyalli
+  location: root
+  domain: repository-governance
+  lifecycle: active
+  confidentiality: public
+ownership:
+  primary: repository:ameyalli
+  accountable: Alberto Villa Osorno
+lifecycle:
+  stage: none
+content:
+  format: md
+  purpose: root-governance
+  authored: true
+graph:
+  node: "artifact:root-governance:8c6aa9e65ae4ec81"
+  labels:
+    - artifact
+    - root-governance
+  hubs: []
+  edges: []
+provenance:
+  authority: .jig/taxonomy.json
+  origin: authored-repository
+  template_mode: active
+validation:
+  mode: active
+  exact_path: required
+  unknown_fields: fatal

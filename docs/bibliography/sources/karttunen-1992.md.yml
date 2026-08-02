@@ -1,0 +1,42 @@
+schema: jig-graph-node/v2
+identity:
+  id: "artifact:bibliography-source:21432084f1b1e3fe"
+  kind: "artifact"
+  name: "Karttunen 1992 — Analytical Dictionary of Nahuatl"
+  path: "docs/bibliography/sources/karttunen-1992.md"
+  role: "bibliography-source"
+contracts:
+  universal: graph-node/v2
+  location: repository-path/v1
+  domain: bibliography/v1
+  role: bibliography-source/v1
+classification:
+  repository: ameyalli
+  location: docs
+  domain: bibliography
+  lifecycle: active
+  confidentiality: public
+ownership:
+  primary: repository:ameyalli
+  accountable: Alberto Villa Osorno
+lifecycle:
+  stage: none
+content:
+  format: md
+  purpose: bibliography-source
+  authored: true
+graph:
+  node: "artifact:bibliography-source:21432084f1b1e3fe"
+  labels:
+    - artifact
+    - bibliography-source
+  hubs: []
+  edges: []
+provenance:
+  authority: .jig/taxonomy.json
+  origin: authored-repository
+  template_mode: active
+validation:
+  mode: active
+  exact_path: required
+  unknown_fields: fatal

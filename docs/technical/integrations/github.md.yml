@@ -1,0 +1,42 @@
+schema: jig-graph-node/v2
+identity:
+  id: "artifact:technical-document:16778fb5bdadd6ce"
+  kind: "artifact"
+  name: "GitHub integration"
+  path: "docs/technical/integrations/github.md"
+  role: "technical-document"
+contracts:
+  universal: graph-node/v2
+  location: repository-path/v1
+  domain: technical/v1
+  role: technical-document/v1
+classification:
+  repository: ameyalli
+  location: docs
+  domain: technical
+  lifecycle: active
+  confidentiality: public
+ownership:
+  primary: repository:ameyalli
+  accountable: Alberto Villa Osorno
+lifecycle:
+  stage: none
+content:
+  format: md
+  purpose: technical-document
+  authored: true
+graph:
+  node: "artifact:technical-document:16778fb5bdadd6ce"
+  labels:
+    - artifact
+    - technical-document
+  hubs: []
+  edges: []
+provenance:
+  authority: .jig/taxonomy.json
+  origin: authored-repository
+  template_mode: active
+validation:
+  mode: active
+  exact_path: required
+  unknown_fields: fatal

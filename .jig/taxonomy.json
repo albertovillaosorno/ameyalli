@@ -1,0 +1,79 @@
+{
+  "$schema": "jig-taxonomy/v2",
+  "version": 1,
+  "architecture": {
+    "kinds": {}
+  },
+  "function_capabilities": {
+    "manifest": "capabilities.yml",
+    "order": [],
+    "kind_surfaces": {},
+    "surfaces": {},
+    "required": [],
+    "surface_sidecars": "required"
+  },
+  "function_projects": {},
+  "graph": {
+    "edge_types": {
+      "governs": "governed-by",
+      "governed-by": "governs",
+      "indexes": "indexed-by",
+      "indexed-by": "indexes"
+    },
+    "edge_lifecycle": [
+      "active",
+      "none"
+    ],
+    "field_order": [
+      "schema",
+      "identity",
+      "contracts",
+      "classification",
+      "ownership",
+      "lifecycle",
+      "content",
+      "graph",
+      "provenance",
+      "validation"
+    ],
+    "hub_kinds": [
+      "hub"
+    ],
+    "node_kinds": [
+      "artifact",
+      "authority",
+      "hub"
+    ],
+    "required_groups": [
+      "schema",
+      "identity",
+      "contracts",
+      "classification",
+      "ownership",
+      "lifecycle",
+      "graph",
+      "provenance",
+      "validation"
+    ],
+    "required_hubs": [],
+    "role_groups": [
+      "content"
+    ]
+  },
+  "lifecycle": {
+    "mandatory_causal_route": [
+      "open",
+      "completed"
+    ]
+  },
+  "source": {
+    "route": "src/<domain>/<function>/<kind>/<part>",
+    "boundary_documents": [],
+    "boundary_sidecars": "required",
+    "manifest": "function.yml",
+    "parts_at_function_root": "forbidden"
+  },
+  "tools": {
+    "route": "tools/<function>/<kind>/<part>"
+  }
+}

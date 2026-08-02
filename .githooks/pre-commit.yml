@@ -1,0 +1,42 @@
+schema: jig-graph-node/v2
+identity:
+  id: "artifact:git-hook:87320095d7c4f39e"
+  kind: "artifact"
+  name: "pre-commit"
+  path: ".githooks/pre-commit"
+  role: "git-hook"
+contracts:
+  universal: graph-node/v2
+  location: repository-path/v1
+  domain: repository-automation/v1
+  role: git-hook/v1
+classification:
+  repository: ameyalli
+  location: githooks
+  domain: repository-automation
+  lifecycle: active
+  confidentiality: public
+ownership:
+  primary: repository:ameyalli
+  accountable: Alberto Villa Osorno
+lifecycle:
+  stage: none
+content:
+  format: text
+  purpose: git-hook
+  authored: true
+graph:
+  node: "artifact:git-hook:87320095d7c4f39e"
+  labels:
+    - artifact
+    - git-hook
+  hubs: []
+  edges: []
+provenance:
+  authority: .jig/taxonomy.json
+  origin: authored-repository
+  template_mode: active
+validation:
+  mode: active
+  exact_path: required
+  unknown_fields: fatal

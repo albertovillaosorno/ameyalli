@@ -13,7 +13,7 @@ esac
 
 if [[ ! -x "$jig" ]]; then
   printf '%s\n' \
-    'Jig v26.3.1 is not installed under .dependencies/jig.' >&2
+    'Jig v26.3.0 is not installed under .dependencies/jig.' >&2
   exit 1
 fi
 

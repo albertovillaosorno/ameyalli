@@ -1,0 +1,42 @@
+schema: jig-graph-node/v2
+identity:
+  id: "artifact:provenance-record:b6a840a3f6e3e807"
+  kind: "artifact"
+  name: "Research assistance provenance"
+  path: "docs/bibliography/provenance/research-assistance.md"
+  role: "provenance-record"
+contracts:
+  universal: graph-node/v2
+  location: repository-path/v1
+  domain: bibliography/v1
+  role: provenance-record/v1
+classification:
+  repository: ameyalli
+  location: docs
+  domain: bibliography
+  lifecycle: active
+  confidentiality: public
+ownership:
+  primary: repository:ameyalli
+  accountable: Alberto Villa Osorno
+lifecycle:
+  stage: none
+content:
+  format: md
+  purpose: provenance-record
+  authored: true
+graph:
+  node: "artifact:provenance-record:b6a840a3f6e3e807"
+  labels:
+    - artifact
+    - provenance-record
+  hubs: []
+  edges: []
+provenance:
+  authority: .jig/taxonomy.json
+  origin: authored-repository
+  template_mode: active
+validation:
+  mode: active
+  exact_path: required
+  unknown_fields: fatal

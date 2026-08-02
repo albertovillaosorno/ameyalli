@@ -1,0 +1,43 @@
+---
+id: "publish-governance-baseline"
+status: "pending"
+lane: "1"
+area: "tooling"
+task: "Publish governance baseline and capture Linux evidence"
+contract: ".github/workflows/jig.yml"
+depends_on:
+adr_paths:
+scope:
+  - ".github/patches/jig-linux.patch"
+  - ".github/workflows/jig.yml"
+  - ".jig/jig.toml"
+  - ".jig/taxonomy.json"
+  - "docs/technical/verification/repository-validation.md"
+validation:
+  - "jig validate --full --root . --max-diagnostics 1000"
+  - "gh run watch --exit-status"
+---
+
+# Publish governance baseline and capture Linux evidence
+
+## Objective
+
+Publish the reviewed governance baseline without rewriting history, run the
+tracked GitHub Actions workflow on Linux, and retain the resulting validation
+evidence.
+
+## Acceptance
+
+- The governance changes are committed only after explicit owner approval.
+- The pushed workflow resolves every immutable checkout revision.
+- The compatibility patch applies without context inference.
+- The Linux job reports `status: clean` and zero diagnostics.
+- The successful workflow identity and URL are recorded in verification
+  evidence.
+
+## Evidence
+
+- Local exhaustive Ameyalli validation currently reports zero diagnostics.
+- Patched Jig source compiles for `x86_64-unknown-linux-gnu`.
+- Remote execution remains intentionally pending because no commit was
+  authorized.

@@ -1,0 +1,42 @@
+schema: jig-graph-node/v2
+identity:
+  id: "artifact:documentation-index:0b5ca119d2be595a"
+  kind: "artifact"
+  name: "Documentation index"
+  path: "docs/README.md"
+  role: "documentation-index"
+contracts:
+  universal: graph-node/v2
+  location: repository-path/v1
+  domain: documentation/v1
+  role: documentation-index/v1
+classification:
+  repository: ameyalli
+  location: docs
+  domain: documentation
+  lifecycle: active
+  confidentiality: public
+ownership:
+  primary: repository:ameyalli
+  accountable: Alberto Villa Osorno
+lifecycle:
+  stage: none
+content:
+  format: md
+  purpose: documentation-index
+  authored: true
+graph:
+  node: "artifact:documentation-index:0b5ca119d2be595a"
+  labels:
+    - artifact
+    - documentation-index
+  hubs: []
+  edges: []
+provenance:
+  authority: .jig/taxonomy.json
+  origin: authored-repository
+  template_mode: active
+validation:
+  mode: active
+  exact_path: required
+  unknown_fields: fatal

@@ -1,0 +1,64 @@
+{
+  "$schema": "https://raw.githubusercontent.com/streetsidesoftware/cspell/main/cspell.schema.json",
+  "version": "0.2",
+  "language": "en-US",
+  "readonly": true,
+  "useGitignore": true,
+  "enableGlobDot": true,
+  "validateDirectives": true,
+  "caseSensitive": true,
+  "allowCompoundWords": false,
+  "minWordLength": 3,
+  "usePnP": false,
+  "files": [
+    "../../.github/**/*.md",
+    "../**/*.{toml,json,jsonc,yml,yaml}",
+    "../../AGENTS.md",
+    "../../CHANGELOG.md",
+    "../../DISCLAIMER.md",
+    "../../README.md",
+    "../../ROADMAP.md",
+    "../../THIRD-PARTY-NOTICES.md",
+    "../../TODO.md",
+    "../../docs/bibliography/**/README.md",
+    "../../docs/legal/**/*.md",
+    "../../docs/research/**/README.md",
+    "../../docs/technical/README.md",
+    "../../docs/technical/adr/README.md",
+    "../../docs/technical/integrations/*.md",
+    "../../docs/technical/verification/*.md"
+  ],
+  "ignoreRegExpList": [
+    "/\\b[0-9a-f]{7,64}\\b/g"
+  ],
+  "ignoreWords": [],
+  "dictionaryDefinitions": [
+    {
+      "name": "ameyalli-english",
+      "path": "./english.txt",
+      "addWords": true
+    },
+    {
+      "name": "ameyalli-named-entities",
+      "path": "./named-entities.txt",
+      "addWords": true
+    },
+    {
+      "name": "ameyalli-technical",
+      "path": "./technical.txt",
+      "addWords": true
+    }
+  ],
+  "dictionaries": [
+    "ameyalli-english",
+    "ameyalli-named-entities",
+    "ameyalli-technical"
+  ],
+  "ignorePaths": [
+    "../../.cache/**",
+    "../../.dependencies/**",
+    "../../.git/**",
+    "../../.logs/**",
+    "../../.temp/**"
+  ]
+}

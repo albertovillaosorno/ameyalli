@@ -148,7 +148,8 @@ verificación de las afirmaciones que sí pueden comprobarse.
 
 La respuesta parcial es que la confianza no se resuelve confiando, sino
 verificando, y ese eslabón concreto sí se cerró. El registro de
-`docs/procedencia-de-fuentes.md` documenta la descarga del facsímil de 1571
+`docs/bibliography/provenance/verification-status.md` documenta la descarga
+del facsímil de 1571
 y la confirmación de las entradas citadas directamente contra Molina. Esa
 comprobación establece qué escribió el lexicógrafo y permite contrastarlo con
 otros testimonios. Lo que no ofrece ningún facsímil es acceso exhaustivo a la
@@ -329,14 +330,17 @@ producidos de manera independiente, uno de ellos con las hipótesis
 morfológicas sembradas para su verificación y el otro sin ninguna pista
 previa. Las coincidencias entre ambos se tratan como indicios robustos, y
 las divergencias se declaran de manera explícita en lugar de promediarse. El
-registro completo de esa comparación vive en `docs/procedencia-de-fuentes.md`
+registro completo de esa comparación vive en
+`docs/bibliography/provenance/verification-status.md`
 y condiciona varias de las conclusiones de este trabajo.
 
 Una advertencia final resulta indispensable. Las referencias se citan en
 formato APA 7 y se han omitido deliberadamente las direcciones electrónicas
 del cuerpo del artículo, según la convención descrita en
-`docs/convenciones-editoriales.md`; los enlaces de verificación que sí se
-usaron viven en `docs/procedencia-de-fuentes.md`. Los folios de Molina y
+`docs/research/adr/editorial-conventions.md`; los enlaces de verificación
+que sí se
+usaron viven en `docs/bibliography/provenance/verification-status.md`. Los
+folios de Molina y
 las páginas de Arenas citados en este trabajo ya se cotejaron contra la
 capa de texto reconocido de sus propios facsímiles digitalizados, y no
 solo contra un catálogo de terceros. Queda pendiente, en cambio, la lectura
@@ -743,7 +747,8 @@ públicas localizadas es que no antes del periodo contemporáneo y, en la
 práctica documentable, ya en el siglo XXI **(B)**. El cuadro siguiente
 recoge los testimonios públicos fechados que ha sido posible localizar, con
 indicación del tipo de fuente. Se describen por categoría y sin identificar
-a las personas, conforme al criterio de `docs/convenciones-editoriales.md`.
+a las personas, conforme al criterio de
+`docs/research/adr/editorial-conventions.md`.
 
 | Año | Forma y orden | Tipo de fuente |
 | --- | --- | --- |
@@ -771,7 +776,8 @@ descargó en vivo el recurso completo de esa misma fuente, que sí contiene
 ambos nombres con cifras reales año por año. Esta sección sustituye la tabla
 anterior por esos datos verificados, y documenta con precisión su alcance y
 sus límites para no repetir el error opuesto de sobreinterpretarlos. El
-episodio completo queda registrado en `docs/procedencia-de-fuentes.md`.
+episodio completo queda registrado en
+`docs/bibliography/provenance/verification-status.md`.
 
 El panorama general de fuentes nacionales sigue siendo el descrito
 originalmente **(A)**. El registro nacional de población identifica a las
@@ -959,7 +965,8 @@ lectura visual del número de folio impreso sobre la imagen de la página en
 los facsímiles de Molina y Arenas ya localizados, y el cotejo del folio 142
 recto del Códice Florentino y de la página 165 de Brinton (1887) contra
 edición crítica; el registro detallado vive en
-`docs/procedencia-de-fuentes.md`. La segunda es la búsqueda sistemática del
+`docs/bibliography/provenance/verification-status.md`. La segunda es la
+búsqueda sistemática del
 binomio y de cada elemento en corpus notariales nahuas digitalizados, que
 convertiría el argumento negativo actual en una constatación más robusta.
 La tercera es el trabajo etnográfico con los herederos del movimiento de la

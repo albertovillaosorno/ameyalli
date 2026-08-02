@@ -1,0 +1,42 @@
+schema: jig-graph-node/v2
+identity:
+  id: "artifact:github-automation:07ba0ee129864e5c"
+  kind: "artifact"
+  name: "jig.yml"
+  path: ".github/workflows/jig.yml"
+  role: "github-automation"
+contracts:
+  universal: graph-node/v2
+  location: repository-path/v1
+  domain: repository-automation/v1
+  role: github-automation/v1
+classification:
+  repository: ameyalli
+  location: github
+  domain: repository-automation
+  lifecycle: active
+  confidentiality: public
+ownership:
+  primary: repository:ameyalli
+  accountable: Alberto Villa Osorno
+lifecycle:
+  stage: none
+content:
+  format: yml
+  purpose: github-automation
+  authored: true
+graph:
+  node: "artifact:github-automation:07ba0ee129864e5c"
+  labels:
+    - artifact
+    - github-automation
+  hubs: []
+  edges: []
+provenance:
+  authority: .jig/taxonomy.json
+  origin: authored-repository
+  template_mode: active
+validation:
+  mode: active
+  exact_path: required
+  unknown_fields: fatal

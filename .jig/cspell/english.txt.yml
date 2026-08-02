@@ -1,0 +1,42 @@
+schema: jig-graph-node/v2
+identity:
+  id: "artifact:jig-configuration:95b6b69282349276"
+  kind: "artifact"
+  name: "english.txt"
+  path: ".jig/cspell/english.txt"
+  role: "jig-configuration"
+contracts:
+  universal: graph-node/v2
+  location: repository-path/v1
+  domain: repository-configuration/v1
+  role: jig-configuration/v1
+classification:
+  repository: ameyalli
+  location: jig
+  domain: repository-configuration
+  lifecycle: active
+  confidentiality: public
+ownership:
+  primary: repository:ameyalli
+  accountable: Alberto Villa Osorno
+lifecycle:
+  stage: none
+content:
+  format: txt
+  purpose: jig-configuration
+  authored: true
+graph:
+  node: "artifact:jig-configuration:95b6b69282349276"
+  labels:
+    - artifact
+    - jig-configuration
+  hubs: []
+  edges: []
+provenance:
+  authority: .jig/taxonomy.json
+  origin: authored-repository
+  template_mode: active
+validation:
+  mode: active
+  exact_path: required
+  unknown_fields: fatal

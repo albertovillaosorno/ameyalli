@@ -1,0 +1,42 @@
+schema: jig-graph-node/v2
+identity:
+  id: "artifact:tool-record:43affd2d2e3ea759"
+  kind: "artifact"
+  name: "GitHub Actions"
+  path: "docs/bibliography/tools/github-actions.md"
+  role: "tool-record"
+contracts:
+  universal: graph-node/v2
+  location: repository-path/v1
+  domain: bibliography/v1
+  role: tool-record/v1
+classification:
+  repository: ameyalli
+  location: docs
+  domain: bibliography
+  lifecycle: active
+  confidentiality: public
+ownership:
+  primary: repository:ameyalli
+  accountable: Alberto Villa Osorno
+lifecycle:
+  stage: none
+content:
+  format: md
+  purpose: tool-record
+  authored: true
+graph:
+  node: "artifact:tool-record:43affd2d2e3ea759"
+  labels:
+    - artifact
+    - tool-record
+  hubs: []
+  edges: []
+provenance:
+  authority: .jig/taxonomy.json
+  origin: authored-repository
+  template_mode: active
+validation:
+  mode: active
+  exact_path: required
+  unknown_fields: fatal

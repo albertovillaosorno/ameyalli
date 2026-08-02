@@ -28,3 +28,7 @@ NUL
 .temp/
 .logs/
 .dependencies/
+
+# Jig-owned generated commit-message hook projections.
+.githooks/commit-msg
+.githooks/commit-msg.exe
