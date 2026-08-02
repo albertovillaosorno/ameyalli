@@ -9,6 +9,7 @@ desktop.ini
 *.tmp
 *.swp
 *~
+NUL
 
 # ==============================================================================
 # Secrets and local environment
@@ -23,23 +24,7 @@ desktop.ini
 # ==============================================================================
 # Generated and temporary state
 # ==============================================================================
-cache/
-temp/
-tmp/
-dist/
-node_modules/
-
-# ==============================================================================
-# Operator-local validation surface
-# These files invoke or configure a private orchestrator outside this
-# repository. They stay local and are never published.
-# ==============================================================================
-validate.sh
-validate.ps1
-.editorconfig
-.markdownlint-cli2.jsonc
-.rustfmt.toml
-.clang-tidy
-clippy-rust-lint.toml
-pyproject.toml
-schoenwald.toml
+.cache/
+.temp/
+.logs/
+.dependencies/

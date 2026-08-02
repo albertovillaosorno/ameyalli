@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+repository_root=$(git rev-parse --show-toplevel)
+case "${OS:-}" in
+  Windows_NT)
+    jig="$repository_root/.dependencies/jig/bin/jig.exe"
+    ;;
+  *)
+    jig="$repository_root/.dependencies/jig/bin/jig"
+    ;;
+esac
+
+if [[ ! -x "$jig" ]]; then
+  printf '%s\n' \
+    'Jig v26.3.1 is not installed under .dependencies/jig.' >&2
+  exit 1
+fi
+
+exec "$jig" validate \
+  --full \
+  --root "$repository_root" \
+  --max-diagnostics 1000
