@@ -21,7 +21,8 @@
 *.jsonc text eol=lf
 *.yml text eol=lf
 *.yaml text eol=lf
-*.md text eol=lf
+# jig-ignore-next-line: Linguist projection is one atomic attribute rule
+*.md text eol=lf linguist-language=Markdown linguist-detectable -linguist-documentation
 *.mdc text eol=lf
 *.tex text eol=lf
 *.bib text eol=lf
@@ -29,6 +30,11 @@
 *.editorconfig text eol=lf
 *.props text eol=lf
 *.sample text eol=lf
+
+# Exclude executable support artifacts from repository language statistics.
+.githooks/* linguist-vendored
+.github/patches/*.patch linguist-vendored
+.github/workflows/*.yml linguist-vendored
 
 # Binary families.
 *.png binary

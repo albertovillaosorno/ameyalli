@@ -359,3 +359,8 @@ required_ignored_paths = [".githooks/commit-msg", ".githooks/commit-msg.exe"]
 
 [git_attributes]
 binary_extensions = ["png"]
+
+[git_attributes.linguist.md]
+detectable = true
+documentation = false
+language = "Markdown"

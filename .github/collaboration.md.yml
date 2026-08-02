@@ -1,9 +1,9 @@
 schema: jig-graph-node/v2
 identity:
-  id: "artifact:github-automation:438478e7713ffdb9"
+  id: "artifact:github-automation:eeabc02a8baf4975"
   kind: "artifact"
   name: "GitHub collaboration surface"
-  path: ".github/README.md"
+  path: ".github/collaboration.md"
   role: "github-automation"
 contracts:
   universal: graph-node/v2
@@ -26,7 +26,7 @@ content:
   purpose: github-automation
   authored: true
 graph:
-  node: "artifact:github-automation:438478e7713ffdb9"
+  node: "artifact:github-automation:eeabc02a8baf4975"
   labels:
     - artifact
     - github-automation

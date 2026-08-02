@@ -24,7 +24,7 @@ jobs:
       JIG_BUILD_DIRTY: "dirty"
       JIG_COMPATIBILITY_PATCH: .github/patches/jig-linux.patch
       JIG_RUST_VERSION: "1.97.1"
-      JIG_SOURCE_REVISION: 015735e0dafb06b9d9c1016476416ae0f7caabe4
+      JIG_BUILD_REVISION: 015735e0dafb06b9d9c1016476416ae0f7caabe4
       JIG_SOURCE_ROOT: .dependencies/jig-source
 
     steps:
@@ -55,7 +55,7 @@ jobs:
           source_root="$GITHUB_WORKSPACE/$JIG_SOURCE_ROOT"
           patch="$GITHUB_WORKSPACE/$JIG_COMPATIBILITY_PATCH"
           actual_revision=$(git -C "$source_root" rev-parse HEAD)
-          test "$actual_revision" = "$JIG_SOURCE_REVISION"
+          test "$actual_revision" = "$JIG_BUILD_REVISION"
           git -C "$source_root" apply --unidiff-zero --check "$patch"
           git -C "$source_root" apply --unidiff-zero "$patch"
           git -C "$source_root" diff --check
@@ -120,7 +120,7 @@ jobs:
           binary="$target_root/release/jig"
           identity=$("$binary" --version --identity)
           grep -Fx \
-            "build_revision=$JIG_SOURCE_REVISION" <<< "$identity"
+            "build_revision=$JIG_BUILD_REVISION" <<< "$identity"
           grep -Fx 'build_dirty=dirty' <<< "$identity"
           printf 'JIG_BRIDGE_BINARY=%s\n' "$binary" >> "$GITHUB_ENV"
 
