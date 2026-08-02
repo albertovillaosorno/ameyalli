@@ -27,6 +27,8 @@ SHA-256 is fixed, builds Jig with Rust `1.97.1`, refreshes the required
 - Jig source revision equals the declared upstream revision.
 - The patched Jig identity reports `build_dirty=dirty` honestly.
 - Integration refresh must not change tracked Ameyalli files.
+- Workflow files have no adjacent YAML sidecars because GitHub would execute
+  those sidecars as workflows.
 - The workflow has read-only repository permissions.
 
 ## Failure behavior
