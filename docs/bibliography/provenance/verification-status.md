@@ -32,7 +32,29 @@ Active.
 | Six author publication identities | Checked through WorldCat records |
 | Keltner and Haidt 2003 | Publication identity checked |
 | Mexico City frequency, 2000–2023 | Reproduced from the official open dataset |
-| National frequency | Not established; remains open work |
+<!-- jig-ignore-next-line: table row is one structural record -->
+| National frequency | No reproducible name-frequency source located; bounded national review completed |
+
+## National demographic boundary
+
+The national search was closed on 2026-08-03 without claiming global
+nonexistence. The INEGI *Estadística de Nacimientos Registrados* data dictionary
+for 2024 exposes 44 demographic and registration variables but no personal-name
+field. The Secretaría de Salud *Registro de nacimientos* resources likewise
+describe demographic, health, entitlement, and certification variables rather
+than names. RENAPO's CURP service is an individual lookup by CURP or personal
+data, not an aggregate frequency interface.
+
+Accordingly, the study retains the explicit bounded conclusion that the
+reproducible quantitative evidence located for these names is the Mexico City
+Civil Registry dataset. This conclusion must be reopened if a national public
+source with an exact identity and aggregable name field is found.
+
+Official surfaces checked:
+
+- https://www.inegi.org.mx/rnm/index.php/catalog/1131/data-dictionary
+- https://www.datos.gob.mx/dataset/registro_nacimientos
+- https://consultas.curp.gob.mx/CurpSP/html/informacionecurpPS.html
 
 ## Update rule
 

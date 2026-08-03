@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/streetsidesoftware/cspell/main/cspell.schema.json",
   "version": "0.2",
-  "language": "en-US",
+  "language": "en-US,es-ES,es-MX",
   "readonly": true,
   "useGitignore": true,
   "enableGlobDot": true,
@@ -16,12 +16,17 @@
     "../../AGENTS.md",
     "../../CHANGELOG.md",
     "../../DISCLAIMER.md",
+    "../../README.md",
     "../../ROADMAP.md",
+    "../../THESIS.md",
     "../../THIRD-PARTY-NOTICES.md",
     "../../TODO.md",
     "../../docs/bibliography/**/README.md",
+    "../../docs/bibliography/provenance/verification-status.md",
     "../../docs/legal/**/*.md",
     "../../docs/research/**/README.md",
+    "../../docs/research/adr/editorial-conventions.md",
+    "../../docs/research/methodology/evidence-methodology.md",
     "../../docs/technical/README.md",
     "../../docs/technical/adr/README.md",
     "../../docs/technical/integrations/*.md",
@@ -43,6 +48,11 @@
       "addWords": true
     },
     {
+      "name": "ameyalli-spanish",
+      "path": "./spanish.txt",
+      "addWords": true
+    },
+    {
       "name": "ameyalli-technical",
       "path": "./technical.txt",
       "addWords": true
@@ -51,6 +61,7 @@
   "dictionaries": [
     "ameyalli-english",
     "ameyalli-named-entities",
+    "ameyalli-spanish",
     "ameyalli-technical"
   ],
   "ignorePaths": [

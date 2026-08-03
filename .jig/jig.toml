@@ -221,10 +221,10 @@ unknown_rule = "deny"
 config_path = ".jig/cspell/cspell.json"
 dictionary_root = ".jig/cspell"
 # jig-ignore-next-line: closed TOML parser requires one physical value
-files = [".github/**/*.md", ".jig/**/*.{toml,json,jsonc,yml,yaml}", "AGENTS.md", "CHANGELOG.md", "DISCLAIMER.md", "ROADMAP.md", "THIRD-PARTY-NOTICES.md", "TODO.md", "docs/bibliography/**/README.md", "docs/legal/**/*.md", "docs/research/**/README.md", "docs/technical/README.md", "docs/technical/adr/README.md", "docs/technical/integrations/*.md", "docs/technical/verification/*.md"]
+files = [".github/**/*.md", ".jig/**/*.{toml,json,jsonc,yml,yaml}", "AGENTS.md", "CHANGELOG.md", "DISCLAIMER.md", "README.md", "ROADMAP.md", "THESIS.md", "THIRD-PARTY-NOTICES.md", "TODO.md", "docs/bibliography/**/README.md", "docs/bibliography/provenance/verification-status.md", "docs/legal/**/*.md", "docs/research/**/README.md", "docs/research/adr/editorial-conventions.md", "docs/research/methodology/evidence-methodology.md", "docs/technical/README.md", "docs/technical/adr/README.md", "docs/technical/integrations/*.md", "docs/technical/verification/*.md"]
 # jig-ignore-next-line: closed configuration value is indivisible
 ignore_paths = [".cache/**", ".dependencies/**", ".git/**", ".logs/**", ".temp/**"]
-language = "en-US"
+language = "en-US,es-ES,es-MX"
 min_word_length = 3
 # jig-ignore-next-line: canonical schema URL is indivisible
 schema = "https://raw.githubusercontent.com/streetsidesoftware/cspell/main/cspell.schema.json"
@@ -237,6 +237,10 @@ path = ".jig/cspell/english.txt"
 [cspell.dictionary.named-entities]
 name = "ameyalli-named-entities"
 path = ".jig/cspell/named-entities.txt"
+
+[cspell.dictionary.spanish]
+name = "ameyalli-spanish"
+path = ".jig/cspell/spanish.txt"
 
 [cspell.dictionary.technical]
 name = "ameyalli-technical"

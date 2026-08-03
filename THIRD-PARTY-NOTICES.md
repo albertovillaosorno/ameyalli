@@ -20,6 +20,16 @@ Their individual records live under `docs/bibliography/tools/`; standards and
 formats live under `docs/bibliography/standards/`; legal identities live under
 `docs/bibliography/legal/`.
 
+## Spanish spelling dictionaries
+
+`.jig/cspell/spanish.txt` combines expanded `es_ES` and `es_MX` Hunspell
+forms from `LibreOffice/dictionaries` commit
+`f2ff99058268502bdcf4cad25c1ca2935ad8aa7d`. The combined list is
+redistributed under LGPL-3.0-or-later; its license text is retained at
+`.jig/cspell/LICENSE-spanish-LGPL-3.0.txt`, and exact generation provenance is
+recorded in
+`docs/bibliography/tools/spanish-spelling-dictionaries.md`.
+
 ## Jig Action source
 
 The workflow fetches Jig from its immutable public Git commit and builds it

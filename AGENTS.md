@@ -16,6 +16,8 @@ living people, and exact source provenance.
 - Governance, bibliography, provenance, and technical documentation are
   English.
 - Git history is evidence; do not rewrite published research history.
+- `CITATION.cff` keeps the fixed publication date `2026-07-26`; later edits,
+  commits, releases, or deposits must not replace it.
 - GitHub is a publication and collaboration surface, not factual authority.
 - AI systems may assist research and editing but cannot create evidence.
 - Source records are individual; no untyped bibliography dump is authoritative.

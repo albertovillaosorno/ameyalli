@@ -1,0 +1,54 @@
+---
+id: "publish-governance-baseline"
+status: "completed"
+lane: "1"
+area: "tooling"
+task: "Publish governance baseline and capture Linux evidence"
+contract: ".github/workflows/jig.yml"
+depends_on:
+adr_paths:
+scope:
+  - ".github/workflows/jig.yml"
+  - ".jig/jig.toml"
+  - ".jig/taxonomy.json"
+  - "docs/technical/verification/repository-validation.md"
+validation:
+  - "jig validate --full --root . --max-diagnostics 1000"
+  - "gh run watch --exit-status"
+---
+
+# Publish governance baseline and capture Linux evidence
+
+## Objective
+
+Publish the reviewed governance baseline without rewriting history, run the
+tracked GitHub Actions workflow on Linux, and retain the resulting validation
+evidence.
+
+## Acceptance
+
+- The governance changes are committed only after explicit owner approval.
+- The pushed workflow resolves every immutable checkout revision.
+- The immutable public Jig Action resolves and reports clean build identity.
+- The Linux job reports `status: clean` and zero diagnostics.
+- The successful workflow identity and URL are recorded in verification
+  evidence.
+
+## Evidence
+
+- Local exhaustive Ameyalli validation currently reports zero diagnostics.
+- Jig `44b6df689e0f52e30fe62f7c1773d885e232892c` compiles for
+  `x86_64-unknown-linux-gnu`.
+- Remote execution remains pending for the registry migration commit.
+
+**Completion evidence - 2026-08-03.**
+
+- The governance baseline was published without rewriting accepted research
+  history.
+- GitHub Actions run `30827777665` validated commit
+  `16f592f5b516ded170f521c86711acc600ee1027` on Ubuntu successfully.
+- The retained run URL is
+  `https://github.com/albertovillaosorno/ameyalli/actions/runs/30827777665`.
+- Later workflow runs also completed successfully; the named run is retained as
+  the completion witness for this task.
+

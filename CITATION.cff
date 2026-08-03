@@ -6,6 +6,8 @@ type: software
 authors:
   - family-names: "Villa Osorno"
     given-names: "Alberto"
+# Fixed publication date: do not replace it with an edit, commit,
+# release, or deposit date.
 date-released: "2026-07-26"
 url: "https://github.com/albertovillaosorno/ameyalli"
 repository-code: "https://github.com/albertovillaosorno/ameyalli"

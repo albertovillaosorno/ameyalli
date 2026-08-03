@@ -1,0 +1,52 @@
+---
+id: "spanish-spelling-validation"
+status: "completed"
+lane: "2"
+area: "tooling"
+task: "Add reproducible Spanish spelling validation"
+contract: ".jig/jig.toml"
+depends_on:
+adr_paths:
+scope:
+  - ".jig/cspell/"
+  - ".jig/jig.toml"
+  - "README.md"
+  - "THESIS.md"
+  - "docs/bibliography/provenance/verification-status.md"
+  - "docs/research/methodology/evidence-methodology.md"
+  - "docs/research/adr/editorial-conventions.md"
+validation:
+  - "jig check --full"
+---
+
+# Add reproducible Spanish spelling validation
+
+## Objective
+
+Pin a licensed Spanish dictionary and extend CSpell to `README.md` and the
+complete Spanish research corpus without generating a dictionary from the
+corpus itself.
+
+## Acceptance
+
+- Dictionary identity, version, license, and origin are recorded.
+- Existing Spanish content is checked rather than globally ignored.
+- Research terminology uses narrow, reviewed additions.
+- Owning validation gates pass.
+
+## Evidence
+
+- The initial Jig adoption validates English governance surfaces only.
+
+**Completion evidence - 2026-08-03.**
+
+- `spanish.txt` contains 670,757 expanded, sorted, deduplicated forms from
+  pinned LibreOffice `es_ES` and `es_MX` dictionaries.
+- Source commit, expansion tool, SHA-256, and LGPL-3.0-or-later redistribution
+  terms are recorded in
+  `docs/bibliography/tools/spanish-spelling-dictionaries.md`.
+- 208 proper names, Nahuatl forms, foreign titles, and specialist terms were
+  reviewed into narrow repository dictionaries rather than admitted as corpus-
+  generated general Spanish vocabulary.
+- CSpell `10.0.1` checks 137 configured files with zero findings.
+

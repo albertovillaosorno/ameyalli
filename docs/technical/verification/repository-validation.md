@@ -33,6 +33,20 @@ exhaustive mode.
 Unknown paths, stale projections, malformed records, incomplete graph evidence,
 and failed configured gates produce deterministic nonzero validation.
 
+### Retained Linux evidence
+
+GitHub Actions run `30827777665` validated governance commit
+`16f592f5b516ded170f521c86711acc600ee1027` on Ubuntu and completed
+successfully. The retained run is
+`https://github.com/albertovillaosorno/ameyalli/actions/runs/30827777665`.
+
+### Spanish spelling evidence
+
+CSpell `10.0.1` validates 137 configured files with zero findings using the
+pinned `es_ES` and `es_MX` list plus reviewed repository terminology. Exact
+dictionary identity, generation, hash, and licensing are recorded in
+`docs/bibliography/tools/spanish-spelling-dictionaries.md`.
+
 ## Verification
 
 Run:

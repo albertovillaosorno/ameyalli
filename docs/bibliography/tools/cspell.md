@@ -6,11 +6,12 @@ Active repository record.
 
 ## Subject
 
-Spelling configuration for selected English governance documents.
+Spelling validation for English governance and Spanish research documents.
 
 ## Repository use
 
-Owns the checked-in projection below `.jig/cspell/`.
+Owns the checked-in projection below `.jig/cspell/`, including pinned Spanish
+and Mexican Spanish word forms plus narrow reviewed research terminology.
 
 ## Provenance
 
@@ -19,11 +20,15 @@ It does not grant the subject authority over research claims.
 
 ## Identity and version
 
-The repository records configuration compatibility, not a bundled runtime.
+The repository records CSpell configuration compatibility. The Spanish word
+list is bundled separately with exact provenance and license information in
+`spanish-spelling-dictionaries.md`.
 
 ## License or terms
 
-The tool is external and is not redistributed here.
+The CSpell runtime is external and is not redistributed here. The Spanish
+dictionary data is redistributed under the terms recorded in
+`spanish-spelling-dictionaries.md`.
 
 ## Evidence
 
