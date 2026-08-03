@@ -15,6 +15,7 @@ Tool configuration, hosted-platform behavior, or external-source identity.
 
 ## Contents
 
+- Root `README.md` is the public Spanish answer and discovery surface.
 - Root `THESIS.md` is the public Spanish study.
 - `methodology/evidence-methodology.md` defines evidence classification.
 - `adr/editorial-conventions.md` governs language and composition.

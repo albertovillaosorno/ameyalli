@@ -11,6 +11,7 @@ living people, and exact source provenance.
 
 ## Repository invariants
 
+- `README.md` is the public answer and remains written in Spanish.
 - `THESIS.md` is the public study and remains written in Spanish.
 - Governance, bibliography, provenance, and technical documentation are
   English.

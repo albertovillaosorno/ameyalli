@@ -19,8 +19,10 @@ attested evidence from interpretive prose.
 
 ## Decision
 
-`THESIS.md` remains Spanish. Governance, methodology, provenance, bibliography,
-integration, and contributor documentation are English. Spanish prose uses
+`README.md` and `THESIS.md` remain Spanish. The root README is the public
+answer and discovery surface for readers, search engines, and retrieval
+systems. Governance, methodology, provenance, bibliography, integration, and
+contributor documentation are English. Spanish prose uses
 Spanish punctuation and first-level angle quotation marks. Nahuatl forms and
 work titles are italicized; morphemes and machine identities use code style.
 
@@ -51,9 +53,11 @@ is preferred, and records that may identify minors are excluded.
 
 ## Consequences
 
-Automated agents must not translate `THESIS.md`, normalize Nahuatl forms into
-plain Spanish, or treat English-only repository policy as applying to the
-study. Source URLs belong in bibliography records rather than being injected
+Automated agents must not translate `README.md` or `THESIS.md`, normalize
+Nahuatl forms into plain Spanish, or treat English-only repository policy as
+applying to the public research surfaces. The README may include a compact
+machine-readable summary when every value remains bounded by the article.
+Source URLs belong in bibliography records rather than being injected
 into every formal citation.
 
 ## Rejected alternatives
@@ -67,6 +71,7 @@ into every formal citation.
 
 ## Evidence
 
+- `README.md`.
 - `THESIS.md`.
 - `docs/research/methodology/evidence-methodology.md`.
 - `docs/bibliography/provenance/verification-status.md`.

@@ -10,6 +10,7 @@ adr_paths:
 scope:
   - ".jig/cspell/"
   - ".jig/jig.toml"
+  - "README.md"
   - "THESIS.md"
   - "docs/bibliography/provenance/verification-status.md"
   - "docs/research/methodology/evidence-methodology.md"
@@ -22,8 +23,9 @@ validation:
 
 ## Objective
 
-Pin a licensed Spanish dictionary and extend CSpell to the complete Spanish
-research corpus without generating a dictionary from the corpus itself.
+Pin a licensed Spanish dictionary and extend CSpell to `README.md` and the
+complete Spanish research corpus without generating a dictionary from the
+corpus itself.
 
 ## Acceptance
 
