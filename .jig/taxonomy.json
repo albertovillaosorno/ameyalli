@@ -10,7 +10,7 @@
     "kind_surfaces": {},
     "surfaces": {},
     "required": [],
-    "surface_sidecars": "required"
+    "surface_sidecars": "optional"
   },
   "function_projects": {},
   "graph": {
@@ -69,7 +69,7 @@
   "source": {
     "route": "src/<domain>/<function>/<kind>/<part>",
     "boundary_documents": [],
-    "boundary_sidecars": "required",
+    "boundary_sidecars": "optional",
     "manifest": "function.yml",
     "parts_at_function_root": "forbidden"
   },

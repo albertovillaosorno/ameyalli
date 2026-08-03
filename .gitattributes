@@ -33,7 +33,6 @@
 
 # Exclude executable support artifacts from repository language statistics.
 .githooks/* linguist-vendored
-.github/patches/*.patch linguist-vendored
 .github/workflows/*.yml linguist-vendored
 
 # Binary families.

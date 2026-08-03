@@ -11,34 +11,33 @@ Repository governance validator used by hooks and GitHub Actions.
 ## Repository use
 
 Loads `.jig/jig.toml`, owns the configured Git hook projection, collects
-repository evidence, and fails closed.
+repository evidence, compiles tracked graph metadata for observation, and fails
+closed for active repository policy.
 
 ## Provenance
 
-The public source baseline is commit
-`015735e0dafb06b9d9c1016476416ae0f7caabe4`. Ameyalli carries a reviewed,
-temporary compatibility patch for Linux behavior already corrected in the
-local Jig checkout.
+The public Action baseline is immutable Jig commit
+`44b6df689e0f52e30fe62f7c1773d885e232892c`. Ameyalli invokes that commit
+directly; no local compatibility patch is applied.
 
 ## Identity and version
 
 Ameyalli targets Jig `26.3.0`, configuration schema `18`, and the exact public
-source revision above. Patched CI builds report that revision with dirty state
-instead of claiming release identity.
+source revision above. The Action verifies that the built validator reports the
+same revision with clean source state.
 
 ## License or terms
 
-Jig is MIT-licensed. The compatibility patch contains and modifies Jig source
-under those terms; `THIRD-PARTY-NOTICES.md` records this redistribution.
+Jig is MIT-licensed. The Action source is fetched from its public repository and
+is not redistributed or modified by Ameyalli.
 
 ## Evidence
 
-`.jig/jig.toml`, `.githooks/`, the compatibility patch, and the workflow.
+`.jig/jig.toml`, `.jig/version/jig.toml`, `.githooks/`, and the workflow.
 
 ## Sources
 
 - `.jig/jig.toml`.
-- `.github/patches/jig-linux.patch`.
+- `.jig/version/jig.toml`.
 - `.github/workflows/jig.yml`.
-- `THIRD-PARTY-NOTICES.md`.
 - `https://github.com/albertovillaosorno/jig`.

@@ -17,126 +17,17 @@ jobs:
     name: Validate repository
     runs-on: ubuntu-latest
     timeout-minutes: 45
-    env:
-      GIT_VERSION: "2.55.0"
-      GIT_SOURCE_SHA256: >-
-        457fdb04dc8728e007d4688695e6912e6f680727920f2a40bf11eacc17505357
-      JIG_BUILD_DIRTY: "dirty"
-      JIG_COMPATIBILITY_PATCH: .github/patches/jig-linux.patch
-      JIG_RUST_VERSION: "1.97.1"
-      JIG_BUILD_REVISION: 015735e0dafb06b9d9c1016476416ae0f7caabe4
-      JIG_SOURCE_ROOT: .dependencies/jig-source
-
     steps:
       - name: Check out Ameyalli
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
         with:
           fetch-depth: 0
 
-      - name: Check out pinned Jig source
-        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+      - name: Validate with immutable Jig Action
+        uses: albertovillaosorno/jig@44b6df689e0f52e30fe62f7c1773d885e232892c
         with:
-          repository: albertovillaosorno/jig
-          ref: 015735e0dafb06b9d9c1016476416ae0f7caabe4
-          path: .dependencies/jig-source
-          fetch-depth: 0
-
-      - name: Prepare repository validation roots
-        shell: bash
-        run: |
-          set -euo pipefail
-          mkdir -p .cache .dependencies .logs .temp
-          git config core.hooksPath .githooks
-
-      - name: Apply reviewed Linux compatibility patch
-        shell: bash
-        run: |
-          set -euo pipefail
-          source_root="$GITHUB_WORKSPACE/$JIG_SOURCE_ROOT"
-          patch="$GITHUB_WORKSPACE/$JIG_COMPATIBILITY_PATCH"
-          actual_revision=$(git -C "$source_root" rev-parse HEAD)
-          test "$actual_revision" = "$JIG_BUILD_REVISION"
-          git -C "$source_root" apply --unidiff-zero --check "$patch"
-          git -C "$source_root" apply --unidiff-zero "$patch"
-          git -C "$source_root" diff --check
-
-      - name: Build pinned Git
-        shell: bash
-        run: |
-          set -euo pipefail
-          sudo apt-get update
-          sudo apt-get install --yes build-essential zlib1g-dev
-          archive="${RUNNER_TEMP}/git-${GIT_VERSION}.tar.xz"
-          source_root="${RUNNER_TEMP}/git-${GIT_VERSION}"
-          prefix="${GITHUB_WORKSPACE}/.dependencies/git/${GIT_VERSION}"
-          url="https://www.kernel.org/pub/software/scm/git"
-          curl --fail --location --silent --show-error \
-            "$url/git-${GIT_VERSION}.tar.xz" \
-            --output "$archive"
-          printf '%s  %s\n' "$GIT_SOURCE_SHA256" "$archive" | \
-            sha256sum --check
-          tar --extract --file "$archive" \
-            --directory "$RUNNER_TEMP"
-          make --directory "$source_root" --jobs 2 \
-            NO_CURL=YesPlease \
-            NO_EXPAT=YesPlease \
-            NO_GETTEXT=YesPlease \
-            NO_OPENSSL=YesPlease \
-            NO_PERL=YesPlease \
-            NO_PYTHON=YesPlease \
-            NO_TCLTK=YesPlease \
-            prefix="$prefix" \
-            all
-          make --directory "$source_root" \
-            NO_CURL=YesPlease \
-            NO_EXPAT=YesPlease \
-            NO_GETTEXT=YesPlease \
-            NO_OPENSSL=YesPlease \
-            NO_PERL=YesPlease \
-            NO_PYTHON=YesPlease \
-            NO_TCLTK=YesPlease \
-            prefix="$prefix" \
-            install
-          ln --symbolic git "$prefix/bin/git.exe"
-          "$prefix/bin/git.exe" --version
-
-      - name: Build patched Jig validator
-        shell: bash
-        run: |
-          set -euo pipefail
-          rustup toolchain install \
-            "$JIG_RUST_VERSION" \
-            --profile minimal \
-            --no-self-update
-          source_root="$GITHUB_WORKSPACE/$JIG_SOURCE_ROOT"
-          target_root="${RUNNER_TEMP}/jig-bridge-target"
-          cargo "+${JIG_RUST_VERSION}" build \
-            --locked \
-            --release \
-            --manifest-path "$source_root/Cargo.toml" \
-            --package jig \
-            --bin jig \
-            --target-dir "$target_root"
-          binary="$target_root/release/jig"
-          identity=$("$binary" --version --identity)
-          grep -Fx \
-            "build_revision=$JIG_BUILD_REVISION" <<< "$identity"
-          grep -Fx 'build_dirty=dirty' <<< "$identity"
-          printf 'JIG_BRIDGE_BINARY=%s\n' "$binary" >> "$GITHUB_ENV"
-
-      - name: Refresh Jig-owned integrations
-        shell: bash
-        run: |
-          set -euo pipefail
-          "$JIG_BRIDGE_BINARY" integrations refresh --root .
-          git diff --quiet --exit-code --
-          test -x .githooks/commit-msg
-
-      - name: Validate with Jig
-        shell: bash
-        run: |
-          set -euo pipefail
-          "$JIG_BRIDGE_BINARY" validate \
-            --full \
-            --root . \
-            --max-diagnostics 1000
+          root: .
+          max-diagnostics: "1000"
+          # Git 2.55.0 official source tarball.
+          # jig-ignore-next-line: official source digest is indivisible
+          git-source-sha256: 457fdb04dc8728e007d4688695e6912e6f680727920f2a40bf11eacc17505357

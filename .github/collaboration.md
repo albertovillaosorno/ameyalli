@@ -1,20 +1,14 @@
 # GitHub collaboration surface
 
 GitHub publishes the repository, stores issues and pull requests, and runs the
-Jig validation workflow on Linux. The workflow checks out Jig at immutable
-commit `015735e0dafb06b9d9c1016476416ae0f7caabe4` and applies the reviewed
-compatibility patch indexed in [`.github/patches/`](patches/README.md) before
-building and validation.
+Jig validation workflow on Linux. The workflow invokes Jig `26.3.0` through
+immutable Action commit `44b6df689e0f52e30fe62f7c1773d885e232892c` and
+verifies the official Git `2.55.0` source tarball before building it.
 
-The patch is temporary. It records Linux fixes already present in the local Jig
-checkout without pretending that the public commit contains them or that a
-CalVer Action release exists.
-
-Files below `.github/workflows/` intentionally have no adjacent `.yml`
-sidecars. GitHub interprets every `.yml` or `.yaml` file in that directory as
-an executable workflow, so graph metadata there would become an invalid second
-workflow. The workflow remains governed by `.jig/jig.toml`, the GitHub role in
-`.jig/taxonomy.json`, and this collaboration index.
+Graph metadata is not stored beside provider-controlled files. Tracked `.yml`
+sidecars live in the incubation registry under `.jig/graph/`, where `root/`
+contains metadata for root artifacts and `tree/` mirrors nested artifact paths.
+The sidecars remain optional until Jig's manual and derived schema is accepted.
 
 GitHub does not replace cited primary sources, local Git objects, or Jig's
 repository authority.

@@ -299,7 +299,7 @@ spaces_in_paths = "deny"
 
 [taxonomy.role.documentation]
 # jig-ignore-next-line: closed configuration value is indivisible
-paths = ["docs/README.md", "docs/README.md.yml", "docs/bibliography/", "docs/legal/", "docs/research/", "docs/technical/"]
+paths = ["docs/README.md", "docs/bibliography/", "docs/legal/", "docs/research/", "docs/technical/"]
 
 [taxonomy.role.git_hooks]
 paths = [".githooks/"]
@@ -312,7 +312,7 @@ paths = [".jig/"]
 
 [taxonomy.role.root_governance]
 # jig-ignore-next-line: closed configuration value is indivisible
-paths = [".editorconfig", ".editorconfig.yml", ".gitattributes", ".gitattributes.yml", ".gitignore", ".gitignore.yml", "AGENTS.md", "AGENTS.md.yml", "CHANGELOG.md", "CHANGELOG.md.yml", "CITATION.cff", "CITATION.cff.yml", "DISCLAIMER.md", "DISCLAIMER.md.yml", "LICENSE-MIT", "LICENSE-MIT.yml", "README.md", "README.md.yml", "ROADMAP.md", "ROADMAP.md.yml", "THESIS.md", "THESIS.md.yml", "THIRD-PARTY-NOTICES.md", "THIRD-PARTY-NOTICES.md.yml", "TODO.md", "TODO.md.yml"]
+paths = [".editorconfig", ".gitattributes", ".gitignore", "AGENTS.md", "CHANGELOG.md", "CITATION.cff", "DISCLAIMER.md", "LICENSE-MIT", "README.md", "ROADMAP.md", "THESIS.md", "THIRD-PARTY-NOTICES.md", "TODO.md"]
 
 [taxonomy.role.todo]
 paths = ["docs/todo/"]

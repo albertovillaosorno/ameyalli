@@ -4,16 +4,16 @@ set -euo pipefail
 repository_root=$(git rev-parse --show-toplevel)
 case "${OS:-}" in
   Windows_NT)
-    jig="$repository_root/.dependencies/jig/bin/jig.exe"
+    jig="$repository_root/.dependencies/jig/runtime/jig.exe"
     ;;
   *)
-    jig="$repository_root/.dependencies/jig/bin/jig"
+    jig="$repository_root/.dependencies/jig/runtime/jig"
     ;;
 esac
 
 if [[ ! -x "$jig" ]]; then
   printf '%s\n' \
-    'Jig v26.3.0 is not installed under .dependencies/jig.' >&2
+    'Jig v26.3.0 runtime is unavailable; refresh the development channel.' >&2
   exit 1
 fi
 

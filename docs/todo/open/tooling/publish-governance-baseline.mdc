@@ -8,7 +8,6 @@ contract: ".github/workflows/jig.yml"
 depends_on:
 adr_paths:
 scope:
-  - ".github/patches/jig-linux.patch"
   - ".github/workflows/jig.yml"
   - ".jig/jig.toml"
   - ".jig/taxonomy.json"
@@ -30,7 +29,7 @@ evidence.
 
 - The governance changes are committed only after explicit owner approval.
 - The pushed workflow resolves every immutable checkout revision.
-- The compatibility patch applies without context inference.
+- The immutable public Jig Action resolves and reports clean build identity.
 - The Linux job reports `status: clean` and zero diagnostics.
 - The successful workflow identity and URL are recorded in verification
   evidence.
@@ -38,6 +37,6 @@ evidence.
 ## Evidence
 
 - Local exhaustive Ameyalli validation currently reports zero diagnostics.
-- Patched Jig source compiles for `x86_64-unknown-linux-gnu`.
-- Remote execution remains intentionally pending because no commit was
-  authorized.
+- Jig `44b6df689e0f52e30fe62f7c1773d885e232892c` compiles for
+  `x86_64-unknown-linux-gnu`.
+- Remote execution remains pending for the registry migration commit.
